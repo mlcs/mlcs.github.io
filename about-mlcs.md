@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MLCS
-subtitle: Machine Learning in Climate Science
+title:
+subtitle:
 ---
 
 ![MLCS-Logo](/img/mlcs_logo.png){:width=300 .center-block :}
