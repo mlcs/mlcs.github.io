@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About MLCS
-subtitle: Independent research group \ Cluster of Excellence "Machine Learning" \ University of Tübingen
+title: Machine Learning in Climate Science
+subtitle: Independent research group at the University of Tübingen
 ---
 
-**"Machine Learning in Climate Science"** is an independent junior
-research group established in January 2020 within the framework of the
-[Cluster of Excellence "Machine
+**"Machine Learning in Climate Science" (MLCS)** is an independent
+junior research group established in January 2020 within the framework
+of the [Cluster of Excellence "Machine
 Learning"](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
 at the University of Tübingen.
 
