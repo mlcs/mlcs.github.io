@@ -1,21 +1,25 @@
 ---
 layout: page
 title: About MLCS
-subtitle: Independent research group within the Cluster of Excellence "Machine Learning"
+subtitle: Independent junior research group within the Cluster of Excellence "Machine Learning"
 ---
 
 **"Machine Learning in Climate Science"** is an independent junior
 research group established in January 2020 within the framework of the
-[Cluster of Excellence "Machine Learning"]
-(https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
-at the University of Tübingen. The group is led by [Bedartha Goswami]
-(https://mlcs.github.io/people/goswami/), who has previously worked at
-the [Potsdam Institute for Climate Impact Research]
-(https://www.pik-potsdam.de/) and at the [Remote Sensing and Earth
-Surface Processes] (https://up-rs-esp.github.io/) group at the
-University of Potsdam. The group aims to quantify, understand, and
-predict different components of the climate system based on current and
-paleoclimatic data sets, along with the output of climate models. 
+[Cluster of Excellence "Machine
+Learning"](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
+at the University of Tübingen. The group aims to quantify, understand,
+and predict different components of the climate system based on
+present-day and paleoclimatic data sets, used along with the output of
+climate models.  Climatic phenomena of interest include the El Niño
+Southern Oscillation (ENSO), the Global Monsoon (GM), and the
+Inter-Tropical Convergence Zone (ITCZ). The changes in the state of
+these climatic systems are consequential to people all around the
+planet, and they inform global socio-economic decisions at all levels of
+societal organization. The ideas we use to infer nontrivial features
+from climatic data fall broadly under the category of Machine Learning
+(ML) approaches, which are evidently suited to the task: to identify,
+classify, and predict complex patterns.
 
 
 
