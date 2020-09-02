@@ -20,7 +20,11 @@ description: MLCS
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About MLCS: "about-mlcs"
+  People:
+      - Bedartha Goswami: "/people/goswami.md"
+      - Felix Strnad: "/people/strnad.md"
+      - Jakob Schlör: "/people/schloer.md"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
