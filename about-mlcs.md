@@ -4,7 +4,6 @@ title:
 subtitle:
 use-site-title: false
 ---
-
 ![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
 **"Machine Learning in Climate Science" (MLCS)** is an independent
