@@ -150,14 +150,14 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 75
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
 title-separator: "-"
 
 # Ruby Date Format
-date_format: "%-d %B, %Y"
+date_format: "%-d %B %Y"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -166,7 +166,7 @@ timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 3
 
 kramdown:
   input: GFM
