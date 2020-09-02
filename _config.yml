@@ -22,9 +22,9 @@ description: MLCS
 navbar-links:
   About MLCS: "about-mlcs"
   People:
-      - Bedartha Goswami: "/people/goswami.md"
-      - Felix Strnad: "/people/strnad.md"
-      - Jakob Schlör: "/people/schloer.md"
+      - Bedartha Goswami: "/people/goswami"
+      - Felix Strnad: "/people/strnad"
+      - Jakob Schlör: "/people/schloer"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
