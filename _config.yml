@@ -21,7 +21,7 @@ description: MLCS
 # List of links in the navigation bar
 navbar-links:
   About MLCS: "about-mlcs"
-  People: "/people/people"
+  People:
       - Bedartha Goswami: "/people/goswami"
       - Felix Strnad: "/people/strnad"
       - Jakob Schlör: "/people/schloer"
