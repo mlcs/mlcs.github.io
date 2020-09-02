@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-![MLCS-Logo](/img/mlcs_logo.png){:width=300 .center-block :}
+![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
 **"Machine Learning in Climate Science" (MLCS)** is an independent
 junior research group established in January 2020 within the framework
