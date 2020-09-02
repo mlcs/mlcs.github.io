@@ -4,6 +4,8 @@ title: MLCS
 subtitle: Machine Learning in Climate Science
 ---
 
+![MLCS-Logo](/img/mlcs_logo.png){: .center-block :}
+
 **"Machine Learning in Climate Science" (MLCS)** is an independent
 junior research group established in January 2020 within the framework
 of the [Cluster of Excellence "Machine
