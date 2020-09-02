@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About MLCS
-subtitle: Independent research group | Cluster of Excellence "Machine Learning" | University of Tübingen
+subtitle: Independent research group \ Cluster of Excellence "Machine Learning" \ University of Tübingen
 ---
 
 **"Machine Learning in Climate Science"** is an independent junior

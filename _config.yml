@@ -25,9 +25,12 @@ navbar-links:
       - Bedartha Goswami: "/people/goswami"
       - Felix Strnad: "/people/strnad"
       - Jakob Schlör: "/people/schloer"
+  Research:
+      - Projects: "/research/projects"
+      - Publications: "/research/publications"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+      - Cluster of Excellence Machine Learning: "https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/"
+      - 
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
