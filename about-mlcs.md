@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Machine Learning in Climate Science
-subtitle: Independent research group at the University of Tübingen
+title: MLCS
+subtitle: Machine Learning in Climate Science
 ---
 
 **"Machine Learning in Climate Science" (MLCS)** is an independent
