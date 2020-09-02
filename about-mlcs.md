@@ -23,9 +23,8 @@ from climatic data fall broadly under the category of Machine Learning
 classify, and predict complex patterns.
 
 
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To get regular updates about the activities of the group, you can
+subscribe to our [RSS feed](https://mlcs.github.io/feed.xml), follow us
+on [Twitter](https://twitter.com/MachineClimate) and
+[Github](https://github.com/mlcs), or simply get in touch with us via
+[email](mailto:machinelearning.climatescience@protonmail.com).
