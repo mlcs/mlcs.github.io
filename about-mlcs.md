@@ -1,13 +1,23 @@
 ---
 layout: page
 title: About MLCS
-subtitle: Independent research group within the Cluster of Excellence "Machine Learning", University of Tübingen
+subtitle: Independent research group within the Cluster of Excellence "Machine Learning"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**"Machine Learning in Climate Science"** is an independent junior
+research group established in January 2020 within the framework of the
+[Cluster of Excellence "Machine Learning"]
+(https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
+at the University of Tübingen. The group is led by [Bedartha Goswami]
+(https://mlcs.github.io/people/goswami/), who has previously worked at
+the [Potsdam Institute for Climate Impact Research]
+(https://www.pik-potsdam.de/) and at the [Remote Sensing and Earth
+Surface Processes] (https://up-rs-esp.github.io/) group at the
+University of Potsdam. The group aims to quantify, understand, and
+predict different components of the climate system based on current and
+paleoclimatic data sets, along with the output of climate models. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
 
 What else do you need?
 
