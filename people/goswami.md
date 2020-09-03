@@ -3,7 +3,7 @@ layout: page
 title: Bedartha Goswami
 subtitle: Research Group Leader
 ---
-![BG-ProfilePic]/img/bg_profile_pic.jpeg){: .center-block :}
+![BG-ProfilePic](/img/bg_profile_pic.jpeg){: width=150px .center-block :}
 
 ## Contact
 Cluster of Excellence "Machine Learning"
