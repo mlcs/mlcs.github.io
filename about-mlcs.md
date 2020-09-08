@@ -24,11 +24,11 @@ infer nontrivial features from climatic data fall broadly under the
 category of Machine Learning (ML) approaches, which are evidently suited
 to the task: to identify, classify, and predict complex patterns.
 
-
+#### Contact
 To get regular updates about the activities of the group, you can
 subscribe to our [RSS feed](https://mlcs.github.io/feed.xml), follow us
 on [Twitter](https://twitter.com/MachineClimate) and
-[Github](https://github.com/mlcs), or simply get in touch with us via
+[Github](https://github.com/mlcs), or simply send us an
 [email](mailto:machinelearning.climatescience@protonmail.com).
 
 If you are in Tübingen, then simply come by and say hello. We are
