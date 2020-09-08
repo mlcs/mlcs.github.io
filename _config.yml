@@ -31,6 +31,8 @@ navbar-links:
   Resources:
       - Cluster of Excellence Machine Learning: "https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/"
       - MLCS Journal Club: "https://github.com/mlcs/journalclub"
+  Work With Us: "work-with-us"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
