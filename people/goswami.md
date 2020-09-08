@@ -15,7 +15,7 @@ Maria-von-Linden-Str. 6
 
 ## Research Interests
 
-+ Nonlinear time series analysis
++ nonlinear time series analysis
 + Bayesian approaches
 + Data set uncertainties, their quantification and analysis
 + Unsupervised learning
