@@ -47,26 +47,28 @@ Maria-von-Linden-Str. 6
     _Vibration_
     **2**
     (2019)
-    332–368.
+    332–368.  
     [doi.org/10.3390/vibration2040021](https://doi.org/10.3390/vibration2040021)
 + A. Rheinwalt, **B. Goswami**, B. Bookhagen,
     A Network-Based Flow Accumulation Algorithm for Point Clouds: Facet-Flow Networks (FFNs),
     _JGR Earth Surface_
     **124**
     (2019)
-    2013–2033.
+    2013–2033.  
     [doi.org/10.1029/2018JF004827](https://doi.org/10.1029/2018JF004827)
 + S. Breitenbach, B. Plessen, S. Waltgenbach, R. Tjallingii, J. Leonhardt, K. P. Jochum, H. Meyer, **B. Goswami**, N. Marwan, D. Scholz,
     Holocene interaction of maritime and continental climate in Central Europe: new speleothem evidence from Central Germany,
     _Global and Planetary Change_
     **176**
-    (2019).
+    (2019)
+    144–161.  
     [doi:10.1016/j.gloplacha.2019.03.007](https://doi.org/10.1016/j.gloplacha.2019.03.007)
 + N. Boers, **B. Goswami**, A. Rheinwalt, B. Bookhagen, B. Hoskins, J. Kurths,
     Complex networks reveal global pattern of extreme-rainfall teleconnections,
     _Nature_
     **566**
-    (2019).
+    (2019)
+    373–377.
     [doi:10.1038/s41586-018-0872-x](https://doi.org/10.1038/s41586-018-0872-x)
 
 ### 2018
@@ -74,7 +76,8 @@ Maria-von-Linden-Str. 6
     Abrupt transitions in time series with uncertainties,
     _Nature Communications_
     **9**
-    (2018).
+    (2018)
+    48.
     [doi:10.1038/s41467-017-02456-6](http://doi.org/10.1038/s41467-017-02456-6)
 
 ### 2017
@@ -83,30 +86,35 @@ Maria-von-Linden-Str. 6
     _Proceedings of the Conference on Perspectives in Nonlinear Dynamics_
     **1**
     (2017)
+    51–60.
     [http://www.ias.ac.in/describe/article/conf/001/01/0051-0060](http://www.ias.ac.in/describe/article/conf/001/01/0051-0060)
 + F. A. Lechleitner, S. F. M. Breitenbach, H. Cheng, B. Plessen, K. Rehfeld, **B. Goswami**, N. Marwan, D. Eroglu, J. Adkins, G. Haug,
     Climatic and in-cave influences on δ18O and δ13C in a stalagmite from northeastern India through the last deglaciation,
     _Quaternary Research_
     **88**
-    (2017).
+    (2017)
+    458–471.
     [doi:10.1017/qua.2017.72](https://doi.org/10.1017/qua.2017.72)
 + N. Boers, **B. Goswami**, M. Ghil,
     A complete representation of uncertainties in layer-counted paleoclimatic archives,
     _Climate of the Past_
     **13**
-    (2017).
+    (2017)
+    1169–1180.
     [doi:10.5194/cp-13-1169-2017](https://doi.org/10.5194/cp-13-1169-2017)
 + A. M. T. Ramos, A. Builes-Jaramillo, G. Poveda, **B. Goswami**, E. E. N. Macau, J. Kurths,
     Recurrence measure of conditional dependence and applications,
     _Physical Review E_
     **95**
-    (2017).
+    (2017)
+    052206.
     [doi:10.1103/PhysRevE.95.052206](https://doi.org/10.1103/PhysRevE.95.052206)
 + F. A. Lechleitner, S. F. M. Breitenbach, K. Rehfeld, H. E. Ridley, Y. Asmerom, K. M. Prufer, N. Marwan, **B. Goswami**, D. J. Kennett, V. V. Aquino, V. Polyak, G. H. Haug, T. I. Eglinton, J. U. L. Baldini,
     Tropical rainfall over the last two millennia: evidence for a low-latitude hydrologic seesaw,
     _Scientific Reports_
     **7**
-    (2017).
+    (2017)
+    45809.
     [doi:10.1038/srep45809](https://doi.org/10.1038/srep45809)
 
 ### 2016
@@ -114,22 +122,25 @@ Maria-von-Linden-Str. 6
     Hydrological and climatological controls on radiocarbon concentrations in a tropical stalagmite,
     _Geochimica et Cosmochimica Acta_
     **194**
-    (2016).
+    (2016)
+    233–252.
     [doi:10.1016/j.gca.2016.08.039](https://doi.org/10.1016/j.gca.2016.08.039)
 + D. Traxl, N. Boers, A. Rheinwalt, **B. Goswami**, J. Kurths,
     The size distribution of spatiotemporal extreme rainfall clusters around the globe,
     _Geophysical Research Letters_
     **43**
-    (2016).
+    (2016)
+    9939–9947.
     [doi:10.1002/2016GL070692](https://doi.org/10.1002/2016GL070692)
 
 ### 2015
 + A. Rheinwalt, **B. Goswami**, N. Boers, J. Heitzig, N. Marwan, R. Krishnan and J. Kurths,
     "Teleconnections in Climate Networks: A Network of Networks Approach to Investigate the Influence of Sea Surface Temperature Variability on Monsoon Systems",
     in: _Machine Learning and Data Mining Approaches to Climate Science_
-    23–33
-    (2015).
+    (2015)
+    23–33.
     Springer International Publishing.
+    [doi:10.1007/978-3-319-17220-0_3](https://doi.org/10.1007/978-3-319-17220-0_3)
 + **B. Goswami**, S. M. Shekatkar, A. Rheinwalt, G. Ambika, J. Kurths,
     A random interacting network model for complex networks,
     _Scientific Reports_
