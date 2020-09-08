@@ -27,7 +27,7 @@ Maria-von-Linden-Str. 6
     uncertainties)
 + Statistical inference (inferring structure from noise, detecting
     hidden structure in data)
-+ Unsupervised learning (data clustering, stochastic )lock models)
++ Unsupervised learning (data clustering, stochastic block models)
 
 
 ## Publications
