@@ -37,12 +37,15 @@ Maria-von-Linden-Str. 6
 
 ### 2019
 
-+ **B. Goswami**, A Brief Introduction to Nonlinear Time Series Analysis and Recurrence Plots, _Vibration_ **2** (2019) 332–368. doi.org/10.3390/vibration2040021
-
-+ A. Rheinwalt, ****B. Goswami****, B. Bookhagen, A Network-Based Flow Accumulation Algorithm for Point Clouds: Facet-Flow Networks (FFNs), _JGR Earth Surface_ **124** (2019) 2013–2033. doi.org/10.1029/2018JF004827
-
++ **B. Goswami**,
+    A Brief Introduction to Nonlinear Time Series Analysis and Recurrence Plots,
+    _Vibration_
+    **2**
+    (2019)
+    332–368.
+    [doi.org/10.3390/vibration2040021](https://dx.doi.org/doi.org/10.3390/vibration2040021)
++ A. Rheinwalt, **B. Goswami**, B. Bookhagen, A Network-Based Flow Accumulation Algorithm for Point Clouds: Facet-Flow Networks (FFNs), _JGR Earth Surface_ **124** (2019) 2013–2033. doi.org/10.1029/2018JF004827
 + S. Breitenbach, B. Plessen, S. Waltgenbach, R. Tjallingii, J. Leonhardt, K. P. Jochum, H. Meyer, **B. Goswami**, N. Marwan, D. Scholz, Holocene interaction of maritime and continental climate in Central Europe: new speleothem evidence from Central Germany, _Global and Planetary Change_ **176** (2019) doi:10.1016/j.gloplacha.2019.03.007
-
 + N. Boers, **B. Goswami**, A. Rheinwalt, B. Bookhagen, B. Hoskins, J. Kurths, Complex networks reveal global pattern of extreme-rainfall teleconnections, Nature 566 (2019) doi:10.1038/s41586-018-0872-x
 
 ### 2018
