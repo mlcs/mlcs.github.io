@@ -10,19 +10,17 @@ Cluster of Excellence "Machine Learning"
 Maria-von-Linden-Str. 6  
 72076 Tübingen  
 +49 7071 2970894  
-[Email](mailto:bedartha.goswami@uni-tuebingen.de) 
+[bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de) 
+
 [Github](https://github.com/bedartha) 
 [Twitter](https://twitter.com/bedartha) 
 [Orcid](http://orcid.org/0000-0002-2302-166X)
-[Google
 Scholar](https://scholar.google.com/citations?user=GG--jpsAAAAJ&hl=en&oi=ao)
-
-
 
 ## Research Interests
 
-+ nonlinear time series analysis
-+ bayesian approaches
++ Nonlinear time series analysis
++ Bayesian approaches
 + Data set uncertainties, their quantification and analysis
 + Unsupervised learning
 + Climate data analysis
@@ -30,10 +28,15 @@ Scholar](https://scholar.google.com/citations?user=GG--jpsAAAAJ&hl=en&oi=ao)
 
 ## Publications
 
+[2019](2019) [2018](2018)
+
+### 2019
 + B. Goswami, A Brief Introduction to Nonlinear Time Series Analysis and Recurrence Plots, Vibration 2 (2019) 332–368 doi.org/10.3390/vibration2040021
 + A. Rheinwalt, B. Goswami, B. Bookhagen, A Network-Based Flow Accumulation Algorithm for Point Clouds: Facet-Flow Networks (FFNs), JGR Earth Surface 124 (2019) 2013–2033 doi.org/10.1029/2018JF004827
 + S. Breitenbach, B. Plessen, S. Waltgenbach, R. Tjallingii, J. Leonhardt, K. P. Jochum, H. Meyer, B. Goswami, N. Marwan, D. Scholz, Holocene interaction of maritime and continental climate in Central Europe: new speleothem evidence from Central Germany, Global and Planetary Change 176 (2019) doi:10.1016/j.gloplacha.2019.03.007
 + N. Boers, B. Goswami, A. Rheinwalt, B. Bookhagen, B. Hoskins, J. Kurths, Complex networks reveal global pattern of extreme-rainfall teleconnections, Nature 566 (2019) doi:10.1038/s41586-018-0872-x
+
+### 2018
 + B. Goswami, N. Boers, A. Rheinwalt, N. Marwan, J. Heitzig, S. F. M. Breitenbach, J. Kurths, Abrupt transitions in time series with uncertainties, Nature Communications 9 (2018) doi:10.1038/s41467-017-02456-6
 + B. Goswami, P. Schultz, B. Heinze, N. Marwan, B. Bodirsky, H. Lotze-Campen, J. Kurths, Inferring interdependencies from short time series, Proceedings of the Conference on Perspectives in Nonlinear Dynamics - 2016 1 (2017) http://www.ias.ac.in/describe/article/conf/001/01/0051-0060
 + F. A. Lechleitner, S. F. M. Breitenbach, H. Cheng, B. Plessen, K. Rehfeld, B. Goswami, N. Marwan, D. Eroglu, J. Adkins, G. Haug, Climatic and in-cave influences on δ18O and δ13C in a stalagmite from northeastern India through the last deglaciation, Quaternary Research 88 (2017) doi:10.1017/qua.2017.72
