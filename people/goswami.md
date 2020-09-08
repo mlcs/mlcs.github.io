@@ -10,7 +10,13 @@ Cluster of Excellence "Machine Learning"
 Maria-von-Linden-Str. 6  
 72076 Tübingen  
 +49 7071 2970894  
-[bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de)
+[Email](mailto:bedartha.goswami@uni-tuebingen.de) 
+[Github](https://github.com/bedartha) 
+[Twitter](https://twitter.com/bedartha) 
+[Orcid](http://orcid.org/0000-0002-2302-166X)
+[Google
+Scholar](https://scholar.google.com/citations?user=GG--jpsAAAAJ&hl=en&oi=ao)
+
 
 
 ## Research Interests
