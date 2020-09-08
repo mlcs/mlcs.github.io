@@ -6,17 +6,17 @@ subtitle: Research Group Leader
 ![BG-ProfilePic](/img/bg_profile_pic.png){: .center-block :}
 
 ## Contact
-Cluster of Excellence "Machine Learning"
-Maria-von-Linden-Str. 6
-72076 Tübingen
-+49 7071 2970894
+Cluster of Excellence "Machine Learning"  
+Maria-von-Linden-Str. 6  
+72076 Tübingen  
++49 7071 2970894  
 [bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de)
 
 
 ## Research Interests
 
 + nonlinear time series analysis
-+ Bayesian approaches
++ bayesian approaches
 + Data set uncertainties, their quantification and analysis
 + Unsupervised learning
 + Climate data analysis
