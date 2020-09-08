@@ -18,11 +18,16 @@ Maria-von-Linden-Str. 6
 
 ## Research Interests
 
-+ Nonlinear time series analysis
-+ Bayesian approaches
-+ Data set uncertainties, their quantification and analysis
-+ Unsupervised learning
-+ Climate data analysis
++ Climate data analysis (from reanalysis, satellites, meteorological and
+    hydrological station networks, and paleoclimate proxy archives)
++ Interactions between climatic systems
++ Abrupt transitions in climatic systems
++ Trend changes and distributional changes in climatic records
++ Nonlinear data analysis (complex networks, recurrence plots,
+    uncertainties)
++ Statistical inference (inferring structure from noise, detecting
+    hidden structure in data)
++ Unsupervised learning (data clustering, stochastic )lock models)
 
 
 ## Publications
