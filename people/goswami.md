@@ -68,7 +68,7 @@ Maria-von-Linden-Str. 6
     _Nature_
     **566**
     (2019)
-    373–377.
+    373–377.  
     [doi:10.1038/s41586-018-0872-x](https://doi.org/10.1038/s41586-018-0872-x)
 
 ### 2018
@@ -77,7 +77,7 @@ Maria-von-Linden-Str. 6
     _Nature Communications_
     **9**
     (2018)
-    48.
+    48.  
     [doi:10.1038/s41467-017-02456-6](http://doi.org/10.1038/s41467-017-02456-6)
 
 ### 2017
@@ -86,35 +86,35 @@ Maria-von-Linden-Str. 6
     _Proceedings of the Conference on Perspectives in Nonlinear Dynamics_
     **1**
     (2017)
-    51–60.
+    51–60.  
     [http://www.ias.ac.in/describe/article/conf/001/01/0051-0060](http://www.ias.ac.in/describe/article/conf/001/01/0051-0060)
 + F. A. Lechleitner, S. F. M. Breitenbach, H. Cheng, B. Plessen, K. Rehfeld, **B. Goswami**, N. Marwan, D. Eroglu, J. Adkins, G. Haug,
     Climatic and in-cave influences on δ18O and δ13C in a stalagmite from northeastern India through the last deglaciation,
     _Quaternary Research_
     **88**
     (2017)
-    458–471.
+    458–471.  
     [doi:10.1017/qua.2017.72](https://doi.org/10.1017/qua.2017.72)
 + N. Boers, **B. Goswami**, M. Ghil,
     A complete representation of uncertainties in layer-counted paleoclimatic archives,
     _Climate of the Past_
     **13**
     (2017)
-    1169–1180.
+    1169–1180.  
     [doi:10.5194/cp-13-1169-2017](https://doi.org/10.5194/cp-13-1169-2017)
 + A. M. T. Ramos, A. Builes-Jaramillo, G. Poveda, **B. Goswami**, E. E. N. Macau, J. Kurths,
     Recurrence measure of conditional dependence and applications,
     _Physical Review E_
     **95**
     (2017)
-    052206.
+    052206.  
     [doi:10.1103/PhysRevE.95.052206](https://doi.org/10.1103/PhysRevE.95.052206)
 + F. A. Lechleitner, S. F. M. Breitenbach, K. Rehfeld, H. E. Ridley, Y. Asmerom, K. M. Prufer, N. Marwan, **B. Goswami**, D. J. Kennett, V. V. Aquino, V. Polyak, G. H. Haug, T. I. Eglinton, J. U. L. Baldini,
     Tropical rainfall over the last two millennia: evidence for a low-latitude hydrologic seesaw,
     _Scientific Reports_
     **7**
     (2017)
-    45809.
+    45809.  
     [doi:10.1038/srep45809](https://doi.org/10.1038/srep45809)
 
 ### 2016
@@ -123,14 +123,14 @@ Maria-von-Linden-Str. 6
     _Geochimica et Cosmochimica Acta_
     **194**
     (2016)
-    233–252.
+    233–252.  
     [doi:10.1016/j.gca.2016.08.039](https://doi.org/10.1016/j.gca.2016.08.039)
 + D. Traxl, N. Boers, A. Rheinwalt, **B. Goswami**, J. Kurths,
     The size distribution of spatiotemporal extreme rainfall clusters around the globe,
     _Geophysical Research Letters_
     **43**
     (2016)
-    9939–9947.
+    9939–9947.  
     [doi:10.1002/2016GL070692](https://doi.org/10.1002/2016GL070692)
 
 ### 2015
@@ -138,7 +138,7 @@ Maria-von-Linden-Str. 6
     "Teleconnections in Climate Networks: A Network of Networks Approach to Investigate the Influence of Sea Surface Temperature Variability on Monsoon Systems",
     in: _Machine Learning and Data Mining Approaches to Climate Science_
     (2015)
-    23–33.
+    23–33.  
     Springer International Publishing.
     [doi:10.1007/978-3-319-17220-0_3](https://doi.org/10.1007/978-3-319-17220-0_3)
 + **B. Goswami**, S. M. Shekatkar, A. Rheinwalt, G. Ambika, J. Kurths,
@@ -146,14 +146,14 @@ Maria-von-Linden-Str. 6
     _Scientific Reports_
     **5**
     (2015)
-    18183.
+    18183.  
     [doi:10.1038/srep18183](https://doi.org/10.1038/srep18183)
 + S. Dey, **B. Goswami**, A. Joshi,
     A possible mechanism for the attainment of out-of-phase periodic dynamics in two chaotic subpopulations coupled at low dispersal rate,
     _Journal of Theoretical Biology_
     **367**
     (2015)
-    100–110.
+    100–110.  
     [doi:10.1016/j.jtbi.2014.11.028](https://doi.org/10.1016/j.jtbi.2014.11.028)
 
 ### 2014
@@ -162,14 +162,14 @@ Maria-von-Linden-Str. 6
     _Nonlinear Processes in Geophysics_
     **21**
     (2014)
-    1093–1111.
+    1093–1111.  
     [doi:10.5194/npg-21-1093-2014](https://doi.org/10.5194/npg-21-1093-2014)
 + S. Dey, **B. Goswami**, A. Joshi,
     Effects of symmetric and asymmetric dispersal on the dynamics of heterogeneous metapopulations: Two-patch systems revisited,
     _Journal of Theoretical Biology_
     **345**
     (2014)
-    52–60.
+    52–60.  
     [doi:10.1016/j.jtbi.2013.12.005](https://doi.org10.1016/j.jtbi.2013.12.005)
 
 ### 2013
@@ -178,7 +178,7 @@ Maria-von-Linden-Str. 6
     _European Physical Journal Special Topics_
     **222**
     (2013)
-    861–873.
+    861–873.  
     [doi:10.1140/epjst/e2013-01889-8](https://doi.org/10.1140/epjst/e2013-01889-8)
 
 ### 2012
@@ -187,14 +187,14 @@ Maria-von-Linden-Str. 6
     _Climate of the Past_
     **8**
     (2012)
-    1765–1779.
+    1765–1779.  
     [doi:10.5194/cp-8-1765-2012](https://doi.org/10.5194/cp-8-1765-2012)
 + **B. Goswami**, G. Ambika, N. Marwan, J. Kurths,
     On interrelations of recurrences and connectivity trends between stock indices,
     _Physica A_
     **391**
     (2012)
-    4364–4376
+    4364–4376.  
     [doi:10.1016/j.physa.2012.04.018](https://doi.org/10.1016/j.physa.2012.04.018)
 
 
