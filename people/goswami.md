@@ -28,7 +28,7 @@ Scholar](https://scholar.google.com/citations?user=GG--jpsAAAAJ&hl=en&oi=ao)
 
 ## Publications
 
-[2019](2019) [2018](2018)
+[2019](#2019) [2018](#2018)
 
 ### 2019
 + B. Goswami, A Brief Introduction to Nonlinear Time Series Analysis and Recurrence Plots, Vibration 2 (2019) 332–368 doi.org/10.3390/vibration2040021
