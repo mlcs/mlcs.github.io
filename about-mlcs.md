@@ -30,3 +30,10 @@ subscribe to our [RSS feed](https://mlcs.github.io/feed.xml), follow us
 on [Twitter](https://twitter.com/MachineClimate) and
 [Github](https://github.com/mlcs), or simply get in touch with us via
 [email](mailto:machinelearning.climatescience@protonmail.com).
+
+If you are in Tübingen, then simply come by and say hello. We are
+located on the 4th floor of the [AI Research
+Building](https://www.openstreetmap.org/way/601132358) at
+Maria-von-Linden-Str. 6.
+
+
