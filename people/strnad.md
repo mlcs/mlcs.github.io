@@ -1,4 +1,8 @@
-# Info on Felix Strnad
+---
+layout: page
+title: Felix Strnad
+subtitle: PhD Student
+---
 
-Test test
+More details coming soon...
 
