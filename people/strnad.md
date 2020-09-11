@@ -1,5 +1,8 @@
-# Info on Felix Strnad
-
+---
+layout: page
+title: Felix Strnad
+subtitle: PhD Student
+---
 
 ## Contact
 

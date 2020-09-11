@@ -1,3 +1,7 @@
-# Info on Jakob Schlör
+---
+layout: page
+title: Jakob Schlör
+subtitle: PhD Student
+---
 
-Test test
+More details coming soon ...
