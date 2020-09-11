@@ -12,7 +12,7 @@ Maria-von-Linden-Str. 6
 72076 Tübingen  
 [+49 7071 2970894](tel:+4970712970894)  
 [bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de)  
-[PGP Public Key](/people/goswami_pgp_publickey.asc)
+[PGP Public Key](/_data/goswami_pgp_publickey.asc)
 
 [Github](https://github.com/bedartha)
 [Twitter](https://twitter.com/bedartha)
