@@ -29,7 +29,7 @@ navbar-links:
       - Projects: "/research/projects"
       - Publications: "/research/publications"
   Resources:
-      - Cluster of Excellence Machine Learning: "https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/"
+      - Cluster of Excellence Machine Learning: "https://www.ml-in-science.uni-tuebingen.de"
       - MLCS Journal Club: "https://github.com/mlcs/journalclub"
   Work With Us: "work-with-us"
 
