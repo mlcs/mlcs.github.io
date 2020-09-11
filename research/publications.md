@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: 
 ---
 ![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
