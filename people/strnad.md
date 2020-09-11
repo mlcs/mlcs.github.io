@@ -21,7 +21,9 @@ Maria-von-Linden-Str. 6
 + Interactions between climatic systems
 + Nonlinear data analysis (complex networks, PCA)
 + Supervised and unsupervised learning
-+ Reinforcement Learning in Earth System Models## Publications
++ Reinforcement Learning in Earth System Models
+
+## Publications
 
 [2019](#2019) 
 
