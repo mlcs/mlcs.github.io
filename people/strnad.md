@@ -22,7 +22,7 @@ Maria-von-Linden-Str. 6
 
 [2019](#2019) 
 
-### 2020
+### 2019
 + **Felix M. Strnad**, Wolfram Barfuss, Jonathan F. Donges and Jobst Heitzig,
     Deep reinforcement learning in World-Earth system models to discover sustainable management strategies,
     _Chaos_
