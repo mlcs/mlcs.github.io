@@ -26,4 +26,5 @@ Please send a brief summary of your university background, the courses
 you have taken, and research experience, if any. If you already have a
 research topic or question in mind, write a brief paragraph about it.
 Otherwise, we also have a running list of potential Bachelors and
-Masters thesis--level project ideas at this link.
+Masters thesis--level project ideas which we would love to discuss with
+you.
