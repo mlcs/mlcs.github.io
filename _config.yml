@@ -46,15 +46,15 @@ title-img: /img/mlcs_logo_text.png
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#32414B20"
-navbar-text-col: "#32414B"
-navbar-children-col: "#32414B20"
-page-col: "#B4A06910"
+navbar-col: "#32414B"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#32414B"
+page-col: "#E5E5E5"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#32414B20"
-footer-text-col: "#32414B"
-footer-link-col: "#404040"
+hover-col: "#A51E37"
+footer-col: "#32414B"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#A51E37"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
