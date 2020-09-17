@@ -10,8 +10,9 @@ use-site-title: false
 **"Machine Learning in Climate Science" (MLCS)** is an independent
 junior research group established in January 2020 within the [Cluster of
 Excellence "Machine
-Learning"](https://www.ml-in-science.uni-tuebingen.de) at the
-[University of Tübingen](https://uni-tuebingen.de/).
+Learning"](https://www.ml-in-science.uni-tuebingen.de){:target="_blank"}
+at the [University of
+Tübingen](https://uni-tuebingen.de/){:target="_blank"}.
 
 MLCS aims to understand the interactions between different components of
 the climate system based on present-day and paleoclimatic data sets used
