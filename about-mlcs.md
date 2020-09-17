@@ -29,14 +29,15 @@ designed to identify, classify, and predict complex patterns.
 ### Contact
 
 To get regular updates about the activities of the group, you can
-subscribe to our [RSS feed](https://mlcs.github.io/feed.xml), follow us
-on [Twitter](https://twitter.com/MachineClimate) and
-[Github](https://github.com/mlcs), or simply send us an
-[email](mailto:machinelearning.climatescience@protonmail.com).
+subscribe to our [RSS
+feed](https://mlcs.github.io/feed.xml){:target="_blank"}, follow us on
+[Twitter](https://twitter.com/MachineClimate){:target="_blank"} and
+[Github](https://github.com/mlcs){:target="_blank"}, or simply send us
+an [email](mailto:machinelearning.climatescience@protonmail.com).
 
 If you are in Tübingen, then simply come by and say hello. We are
 located on the 4th floor of the [AI Research
-Building](https://www.openstreetmap.org/way/601132358) at
-Maria-von-Linden-Str. 6.
+Building](https://www.openstreetmap.org/way/601132358){:target="_blank"}
+at Maria-von-Linden-Str. 6.
 
 
