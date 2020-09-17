@@ -51,7 +51,7 @@ title-img: /img/mlcs_logo_text.png
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#C5CCCF"
-navbar-text-col: "#FFFFFF"
+navbar-text-col: "#A51E37"
 navbar-children-col: "#32414B"
 page-col: "#E5E5E5"
 link-col: "#A51E37"
