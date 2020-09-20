@@ -15,7 +15,10 @@ use-site-title: false
     N. Marwan, J. Kurths,
     Fingerprint of volcanic forcing on the ENSO--Indian monsoon coupling,
     _Science Advances_
-    (accepted)
+    **6**
+    (2020)
+    eaba8164.
+    [doi.org/10.1126/sciadv.aba8164](https://doi.org/10.1126/sciadv.aba8164)
 
 ### 2019
 + **B. Goswami**,

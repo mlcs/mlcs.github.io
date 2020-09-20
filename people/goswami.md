@@ -44,7 +44,10 @@ Maria-von-Linden-Str. 6
     N. Marwan, J. Kurths,
     Fingerprint of volcanic forcing on the ENSO--Indian monsoon coupling,
     _Science Advances_
-    (accepted)
+    **6**
+    (2020)
+    eaba8164.
+    [doi.org/10.1126/sciadv.aba8164](https://doi.org/10.1126/sciadv.aba8164)
 + S. Prasad, N. Marwan, D. Eroglu, **B. Goswami**, P. Mishra, B. Gaye, A. Anoop, N. Basavaiah, M. Stebich, A. Jehangir
     Holocene climate forcings and lacustrine regime shifts in the Indian Summer Monsoon realm,
     _Earth Surface Processes and Landforms_,
