@@ -42,8 +42,8 @@ Kunz](https://www.awi.de/ueber-uns/organisation/mitarbeiter/torben-kunz.html){:t
 ([link](https://cp.copernicus.org/articles/16/1469/2020/){:target="_blank"})
 which successfully decomposes the power spectrum of a paleoclimatic
 proxy into components that account for the different factors that go
-into estimating the proxy record from the measurements. The study _does
-assume_, however, that there is no age modeling involved but the results
+into estimating the proxy record from the measurements. The study does
+assume, however, that there is no age modeling involved but the results
 do look promising! The next extension of their approach, which would
 ideally include age modeling as well, is something to look forward to.
 
