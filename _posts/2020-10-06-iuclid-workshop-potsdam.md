@@ -6,9 +6,9 @@ bigimg: /img/20201002_iuclid_workshop_potsdam.jpg
 tags: [mlcs, workshop, uncertainties]
 ---
 
-Bedartha Goswami attended the 'Workshop on Uncertainties' organised at
-the Potsdam Institute for Climate Impact Research (PIK) Potsdam last
-week from 29 September to 2 October 2020. Keynote lectures from [Sune
+I attended the 'Workshop on Uncertainties' organised at the Potsdam
+Institute for Climate Impact Research (PIK) Potsdam last week from 29
+September to 2 October 2020. Keynote lectures from [Sune
 Rasmussen](https://www.nbi.ku.dk/english/staff/?pure=en/persons/49156){:target="_blank"},
 [Maarten Blaauw](http://www.chrono.qub.ac.uk/blaauw/){:target="_blank"},
 [Nadine Berner](https://www.nadineberner.eu/){:target="_blank"}, and
