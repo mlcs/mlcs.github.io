@@ -29,7 +29,7 @@ navbar-links:
   Research:
       - Projects: "/research/projects"
       - Publications: "/research/publications"
-      - Journal Club: "https://github.com/mlcs/journalclub"
+      - Journal Club: "https://github.com/mlcs/journalclub/wiki/journalclub"
   Resources:
       - Cluster of Excellence Machine Learning: "https://www.ml-in-science.uni-tuebingen.de"
       - University of Tübingen: "https://uni-tuebingen.de"
