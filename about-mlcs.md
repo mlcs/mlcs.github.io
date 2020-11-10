@@ -33,7 +33,7 @@ subscribe to our [RSS
 feed](https://mlcs.github.io/feed.xml){:target="_blank"}, follow us on
 [Twitter](https://twitter.com/MachineClimate){:target="_blank"} and
 [Github](https://github.com/mlcs){:target="_blank"}, or simply send us
-an [email](mailto:machinelearning.climatescience@protonmail.com).
+an [email](mailto:bedartha.goswami@uni-tuebingen.de).
 
 If you are in Tübingen, then simply come by and say hello. We are
 located on the 4th floor of the [AI Research
