@@ -157,6 +157,7 @@ Discussion:
 -   extreme value distributions: maximum of each block in a time series
     (used in hydrology for the worst floods)
 
+[Back to top](#journal-club)
 
 <a name="03.09.20"/>
 
@@ -186,6 +187,7 @@ by training a deep neural network (NNCAM).
 -   related work: intra day extreme precipitation [Mishra
     2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL078689)
 
+[Back to top](#journal-club)
 
 <a name="04.09.20"/>
 
@@ -224,6 +226,7 @@ Ideas how to proceed are:
 - [Rheinwalt2015](https://www.researchgate.net/profile/Aljoscha_Rheinwalt/publication/300285664_Teleconnections_in_Climate_Networks_A_Network-of-Networks_Approach_to_Investigate_the_Influence_of_Sea_Surface_Temperature_Variability_on_Monsoon_Systems/links/59772b83a6fdcc8348b175cd/Teleconnections-in-Climate-Networks-A-Network-of-Networks-Approach-to-Investigate-the-Influence-of-Sea-Surface-Temperature-Variability-on-Monsoon-Systems.pdf)
 
 
+[Back to top](#journal-club)
 
 <a name="09.09.20"/>
 
@@ -266,6 +269,8 @@ Ideas how to proceed are:
 - think about possible results (hypothesis)
 - make a timeline/plan including bottlenecks
 
+[Back to top](#journal-club)
+
 <a name="15.09.20"/>
 
 ## Journal Club 15.09.20 - Houze 2015: The variable nature of convection in the tropics and subtropics A legacy of 16 years of the Tropical Rainfall Measuring Mission satellite
@@ -295,6 +300,7 @@ Discussion:
   them to real space instead of comparing maps
 
 
+[Back to top](#journal-club)
 
 <a name="22.09.20"/>
 
@@ -305,6 +311,7 @@ Felix's idea was related to the global monsoon and Jakob's idea was
 related to ENSO complexity prediction.
 
 
+[Back to top](#journal-club)
 
 <a name="28.09.20"/>
 
@@ -345,6 +352,7 @@ Notes:
   temperatures
 	
 
+[Back to top](#journal-club)
 
 <a name="05.10.20"/>
 
@@ -364,6 +372,7 @@ Discussion:
   beyond the interchangable ENSO) 
 
 
+[Back to top](#journal-club)
 
 <a name="13.10.20"/>
 
@@ -403,6 +412,8 @@ Discussion:
   Ocean in JJA might be interesting to observe (Fig. 2 b)
 
 
+[Back to top](#journal-club)
+
 <a name="27.10.20"/>
 
 ## Journal Club 27.10.20 - Papagiannopoulou (2018) Global hydro-climatic biomes identified via multitask learning 
@@ -421,6 +432,7 @@ Discussion:
 - this method is well suited for high dimensional input clustering where standard methods, e.g. k-means, etc. are weak
 
 
+[Back to top](#journal-club)
 
 <a name="28.10.20"/>
 
@@ -447,6 +459,7 @@ Discussion:
 >- both definitions are based on the correlation matrix
 - CGT definition has got rising attention in 2020
 
+[Back to top](#journal-club)
 
 <a name="03.11.20"/>
 
@@ -469,6 +482,8 @@ Take home message:
 - hadley cell is not at all even around the globe (longitudes)
 - vorticity is strongly related to convection
 
+
+[Back to top](#journal-club)
 
 <a name="10.11.20"/>
 
@@ -519,6 +534,7 @@ The presentation can be found [here](/files/DiNezio_2020.pdf).
   emerge? What are the uncertainties?
 
 
+[Back to top](#journal-club)
 
 <a name="10.11.20"/>
 
@@ -532,4 +548,6 @@ Discussion:
 - MJO is the strongest interseasonal variability
 - How can we conclude the effect of Kelvin waves from wind vector fields?
  
+
+[Back to top](#journal-club)
 
