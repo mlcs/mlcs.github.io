@@ -43,26 +43,26 @@ Bedartha G.
 
 ## Past meetings
 
-[01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01.09.2020)\
-[02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02.09.20)\
-[03.09.20 - Rasp et al. (2018) NN for learning subgrid proecesses](#03.09.20)\
-[04.09.20 - Rasp et al. (2020) Data-driven medium range weather forecasting](#04.09.20)\
-[09.09.20 - Datasets, benchmarks and scores](#09.09.20)\
-[15.09.20 - Houze et al. (2015) TRMM dataset summary](#15.09.20)\
-[22.09.20 - Presentation of research ideas](#22.09.20)\
-[28.09.20 - Talk: Climate Change are we up for the Challenge](#28.09.20)\
-[05.10.20 - Deser et al. (2017) ENSO variability](#05.10.20)\
-[13.10.20 - Schneider et al. (2014) Migrations and dynamics of the intertropical convergence zone](#13.10.20)\
-[27.10.20 - Papagiannopoulou (2018) Global hydro-climatic biomes identified via multitask learning](#27.10.20)\
-[28.10.20 - Ding (2005) Circumglobal Teleconnection in the Northern Hemisphere Summer](#28.10.20)\
-[03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03.11.20)
-[10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10.11.20)
+[01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)\
+[02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
+[03.09.20 - Rasp et al. (2018) NN for learning subgrid proecesses](#03092020)\
+[04.09.20 - Rasp et al. (2020) Data-driven medium range weather forecasting](#04092020)\
+[09.09.20 - Datasets, benchmarks and scores](#09092020)\
+[15.09.20 - Houze et al. (2015) TRMM dataset summary](#15092020)\
+[22.09.20 - Presentation of research ideas](#22092020)\
+[28.09.20 - Talk: Climate Change are we up for the Challenge](#28092020)\
+[05.10.20 - Deser et al. (2017) ENSO variability](#05102020)\
+[13.10.20 - Schneider et al. (2014) Migrations and dynamics of ITCZ](#13102020)\
+[27.10.20 - Papagiannopoulou (2018) Hydro-climatic biomes via multitask learning](#27102020)\
+[28.10.20 - Ding (2005) Circumglobal Teleconnection in the NH Summer](#28102020)\
+[03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03112020)
+[10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)
 
 
 ***
 
 
-## 01.09.2020 
+## 01.09.2020
 
 **Petersik 2020: Probabilistic forecasting of El Nino using NN Models**
 
@@ -111,9 +111,10 @@ Questions and Critics:
 
 [Back to top](#journal-club)
 
-<a name="02.09.20"/>
 
-## Journal Club 2.9.20 - Renard 2019: Hidden Climate Indices from Occurances of Hydrologic Extremes 
+## 02.09.2020
+
+**Renard 2019: Hidden Climate Indices from Occurances of Hydrologic Extremes**
 
 Develop a probabilistic model with a set of latent variables which is
 used to describe temporal and spatial extreme precipitation. The learned
@@ -159,9 +160,10 @@ Discussion:
 
 [Back to top](#journal-club)
 
-<a name="03.09.20"/>
 
-## Journal Club 3.9.20 - Rasp 2018: Deep learning to represent subgrid processes in climate models
+## 03.09.2020
+
+**Rasp 2018: Deep learning to represent subgrid processes in climate models**
 
 [https://www.pnas.org/content/115/39/9684](https://www.pnas.org/content/115/39/9684)
 
@@ -189,9 +191,11 @@ by training a deep neural network (NNCAM).
 
 [Back to top](#journal-club)
 
-<a name="04.09.20"/>
+## 04.09.2020
 
-## Journal Club 04.09.20 - Rasp, Thuerey 2020: Purely data-driven medium-range weather forecasting achieves comparable skill to physical models at similar resolution
+**Rasp, Thuerey 2020: Purely data-driven medium-range weather
+forecasting achieves comparable skill to physical models at similar
+resolution**
 
 [https://arxiv.org/pdf/2008.08626.pdf](https://arxiv.org/pdf/2008.08626.pdf)
 
@@ -225,12 +229,11 @@ Ideas how to proceed are:
   same thing. Either way would be interesting. 
 - [Rheinwalt2015](https://www.researchgate.net/profile/Aljoscha_Rheinwalt/publication/300285664_Teleconnections_in_Climate_Networks_A_Network-of-Networks_Approach_to_Investigate_the_Influence_of_Sea_Surface_Temperature_Variability_on_Monsoon_Systems/links/59772b83a6fdcc8348b175cd/Teleconnections-in-Climate-Networks-A-Network-of-Networks-Approach-to-Investigate-the-Influence-of-Sea-Surface-Temperature-Variability-on-Monsoon-Systems.pdf)
 
-
 [Back to top](#journal-club)
 
-<a name="09.09.20"/>
+## 09.09.2020
 
-## Journal Club 09.09.2020 - Datasets, Benchmarks, Scores and Metrics
+**Datasets, Benchmarks, Scores and Metrics**
 
 **Benchmarks:** <https://www.overleaf.com/8663366341vrwmtgrqrxks>
 1. benchmark for algorithms
@@ -271,9 +274,12 @@ Ideas how to proceed are:
 
 [Back to top](#journal-club)
 
-<a name="15.09.20"/>
 
-## Journal Club 15.09.20 - Houze 2015: The variable nature of convection in the tropics and subtropics A legacy of 16 years of the Tropical Rainfall Measuring Mission satellite
+## 15.09.2020
+
+**Houze 2015: The variable nature of convection in the tropics and
+subtropics A legacy of 16 years of the Tropical Rainfall Measuring
+Mission satellite**
 
 [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015RG000488](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015RG000488)
 
@@ -302,20 +308,23 @@ Discussion:
 
 [Back to top](#journal-club)
 
-<a name="22.09.20"/>
 
-## Journal Club 22.09.20: Presenting Research Ideas
+## 22.09.2020
+
+**Presenting Research Ideas**
 
 Felix and Jakob where presenting a set of possible research ideas.
-Felix's idea was related to the global monsoon and Jakob's idea was
-related to ENSO complexity prediction.
+
++ Felix's idea was related to the global monsoon
++ Jakob's idea was related to ENSO complexity prediction.
 
 
 [Back to top](#journal-club)
 
-<a name="28.09.20"/>
 
-## Journal Club 28.09.20 - Talk: Climate Change are we up for the Challenge
+## 28.09.2020
+
+**Talk: Climate Change are we up for the Challenge**
 
 Youtube lecture [Brian Hoskins - Climate Change are we up for the
 Challenge](https://www.youtube.com/watch?v=fit76ptQBsg)
@@ -354,9 +363,10 @@ Notes:
 
 [Back to top](#journal-club)
 
-<a name="05.10.20"/>
 
-## Journal Club 05.10.20 - Deser et al. 2017  
+## 05.10.2020 
+
+**Deser et al. 2017**
 
 [https://doi.org/10.1175/JCLI-D-16-0844.1](https://doi.org/10.1175/JCLI-D-16-0844.1)
 
@@ -374,9 +384,11 @@ Discussion:
 
 [Back to top](#journal-club)
 
-<a name="13.10.20"/>
 
-## Journal Club 13.10.20 - Schneider (2014) Migrations and dynamics of the intertropical convergence zone
+## 13.10.2020 
+
+**Schneider (2014) Migrations and dynamics of the intertropical
+convergence zone**
 
 [Schneider 2014](http://www.nature.com/doifinder/10.1038/nature13636)
 
@@ -414,9 +426,11 @@ Discussion:
 
 [Back to top](#journal-club)
 
-<a name="27.10.20"/>
 
-## Journal Club 27.10.20 - Papagiannopoulou (2018) Global hydro-climatic biomes identified via multitask learning 
+## 27.10.2020 
+
+**Papagiannopoulou (2018) Global hydro-climatic biomes identified via
+multitask learning**
 
 [Papagiannopoulou 2018](https://doi.org/10.5194/gmd-11-4139-2018)
 
@@ -434,9 +448,11 @@ Discussion:
 
 [Back to top](#journal-club)
 
-<a name="28.10.20"/>
 
-## Journal Club 28.10.20 - Ding (2005) Circumglobal Teleconnection in the Northern Hemisphere Summer
+## 28.10.2020 
+
+**Ding (2005) Circumglobal Teleconnection in the Northern Hemisphere
+Summer**
 
 [Ding 2005](https://doi.org/10.1175/JCLI3473.1)
 
@@ -461,9 +477,10 @@ Discussion:
 
 [Back to top](#journal-club)
 
-<a name="03.11.20"/>
 
-## Journal Club 03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell 
+## 03.11.2020 
+
+**Hoskins (2020) The detailed dynamics of the June–August Hadley Cell**
 
 The paper [Hoskins 2020](DOI: 10.1002/qj.3702) was presented by Bedartha G.
 
@@ -485,9 +502,10 @@ Take home message:
 
 [Back to top](#journal-club)
 
-<a name="10.11.20"/>
 
-## Journal Club 10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean
+## 10.11.2020 
+
+**DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean**
 
 [DiNezio et al., Sci Adv, 2020](https://dx.doi.org/10.1126/sciadv.aay7684) to be presented by Jakob S.  
  
@@ -536,9 +554,10 @@ The presentation can be found [here](/files/DiNezio_2020.pdf).
 
 [Back to top](#journal-club)
 
-<a name="10.11.20"/>
 
-## Journal Club 17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation
+## 17.11.2020 
+
+**Wang et al. (2019) Diversity of the Madden-Julian Oscillation**
 
 [Wang et al., Sci Adv, 2019](https://advances.sciencemag.org/content/5/7/eaax0220) presented by Felix S.  
  
