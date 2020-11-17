@@ -109,7 +109,7 @@ Questions and Critics:
 -   La nina is usually better predicted than El nino, which is in
     contrast to Fig. 2
 
-[Back to top](#Journal-Club)
+[Back to top](#journal-club)
 
 <a name="02.09.20"/>
 
