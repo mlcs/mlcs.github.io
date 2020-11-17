@@ -43,7 +43,7 @@ Bedartha G.
 
 ## Past meetings
 
-[01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01.09.20)\
+[01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01.09.2020)\
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02.09.20)\
 [03.09.20 - Rasp et al. (2018) NN for learning subgrid proecesses](#03.09.20)\
 [04.09.20 - Rasp et al. (2020) Data-driven medium range weather forecasting](#04.09.20)\
@@ -62,9 +62,9 @@ Bedartha G.
 ***
 
 
-<a name="01.09.20"/>
+## 01.09.2020 
 
-## Journal Club 1.9.20 - Petersik 2020: Probabilistic forecasting of El Nino using NN Models 
+**Petersik 2020: Probabilistic forecasting of El Nino using NN Models**
 
 ENSO forecasting using Gaussian density neural networks (GDNN) and
 Quantile Regression Neural Networks (QRNN).
