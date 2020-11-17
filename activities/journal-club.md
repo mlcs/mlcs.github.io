@@ -112,7 +112,7 @@ Questions and Critics:
 [Back to top](#journal-club)
 
 
-## 02.09.2020
+### 02.09.2020
 
 **Renard 2019: Hidden Climate Indices from Occurances of Hydrologic Extremes**
 
@@ -161,7 +161,7 @@ Discussion:
 [Back to top](#journal-club)
 
 
-## 03.09.2020
+### 03.09.2020
 
 **Rasp 2018: Deep learning to represent subgrid processes in climate models**
 
@@ -191,7 +191,7 @@ by training a deep neural network (NNCAM).
 
 [Back to top](#journal-club)
 
-## 04.09.2020
+### 04.09.2020
 
 **Rasp, Thuerey 2020: Purely data-driven medium-range weather
 forecasting achieves comparable skill to physical models at similar
@@ -231,7 +231,7 @@ Ideas how to proceed are:
 
 [Back to top](#journal-club)
 
-## 09.09.2020
+### 09.09.2020
 
 **Datasets, Benchmarks, Scores and Metrics**
 
@@ -275,7 +275,7 @@ Ideas how to proceed are:
 [Back to top](#journal-club)
 
 
-## 15.09.2020
+### 15.09.2020
 
 **Houze 2015: The variable nature of convection in the tropics and
 subtropics A legacy of 16 years of the Tropical Rainfall Measuring
@@ -309,7 +309,7 @@ Discussion:
 [Back to top](#journal-club)
 
 
-## 22.09.2020
+### 22.09.2020
 
 **Presenting Research Ideas**
 
@@ -322,7 +322,7 @@ Felix and Jakob where presenting a set of possible research ideas.
 [Back to top](#journal-club)
 
 
-## 28.09.2020
+### 28.09.2020
 
 **Talk: Climate Change are we up for the Challenge**
 
@@ -364,7 +364,7 @@ Notes:
 [Back to top](#journal-club)
 
 
-## 05.10.2020 
+### 05.10.2020 
 
 **Deser et al. 2017**
 
@@ -375,7 +375,7 @@ Jakob S. presented the paper [Presentation Deser (2017)](/files/deser_2017.pdf)
 Discussion:
 - averaging already the DJF months loses a lot of information about the
   variability
-- the assumption of interchangable ENSOs is not necessarely true and
+- the assumption of interchangable ENSOs is not necessarily true and
   should be tested
 - constructing all possible pairs of El Ninos and La Ninas and sample
   from them would possibly give a larger uncertainty (this would go
@@ -385,7 +385,7 @@ Discussion:
 [Back to top](#journal-club)
 
 
-## 13.10.2020 
+### 13.10.2020 
 
 **Schneider (2014) Migrations and dynamics of the intertropical
 convergence zone**
@@ -427,29 +427,34 @@ Discussion:
 [Back to top](#journal-club)
 
 
-## 27.10.2020 
+### 27.10.2020 
 
 **Papagiannopoulou (2018) Global hydro-climatic biomes identified via
 multitask learning**
 
 [Papagiannopoulou 2018](https://doi.org/10.5194/gmd-11-4139-2018)
 
-Markus D. presented the paper [Presentation](/files/papagiannopolou_2018.pdf):
+Markus D. presented the paper
+[Presentation](/files/papagiannopolou_2018.pdf):
 
 
-Aim: develope data driven approach to quantify the response of vegetation to local climate variables
+Aim: develope data driven approach to quantify the response of
+vegetation to local climate variables
 
 Discussion:
-- comparing granger causalities (like in Fig. 3) should be done using some statistical test
-- including climate features in the multi task learning  model increases prediction stronger than in the single task learning model
+- comparing Granger causalities (like in Fig. 3) should be done using
+  some statistical test
+- including climate features in the multi task learning  model increases
+  prediction stronger than in the single task learning model
 - log scale for precipitation in the scatter plot would be better
-- this method is well suited for high dimensional input clustering where standard methods, e.g. k-means, etc. are weak
+- this method is well suited for high dimensional input clustering where
+  standard methods, e.g. k-means, etc. are weak
 
 
 [Back to top](#journal-club)
 
 
-## 28.10.2020 
+### 28.10.2020 
 
 **Ding (2005) Circumglobal Teleconnection in the Northern Hemisphere
 Summer**
@@ -458,19 +463,30 @@ Summer**
 
 Felix S. presented the paper [presentation](/files/ding_2005.pdf):
 
-Ding and Wang show evidence that teleconnections in the Northern Hemisphere are linked with each other during boreal summer and on interannual variability. They term this connection as circumglobal teleconnection (CGT) pattern.
-- geopotential height: the height of one particular pressure, this is an intuitive variable for atmospheric flow 
-- teleconnections their definition: relationship in the low-frequency variability by studying EOFs and look at their spatial regions
-- circumglobal teleconnection is defined by positive correlation of maximum standard deviation of geopotential height, the maximum over india is used as an index CGTI
-- the second EOF of geopotential height shows hight correlation to the CGT
-- CGTI is correlaed to Indian Summer Monsoon but not to ENSO, the correlation between CGTI and ENSO is via ISM 
+Ding and Wang show evidence that teleconnections in the Northern
+Hemisphere are linked with each other during boreal summer and on
+interannual variability. They term this connection as circumglobal
+teleconnection (CGT) pattern.
+- geopotential height: the height of one particular pressure, this is an
+  intuitive variable for atmospheric flow 
+- teleconnections their definition: relationship in the low-frequency
+  variability by studying EOFs and look at their spatial regions
+- circumglobal teleconnection is defined by positive correlation of
+  maximum standard deviation of geopotential height, the maximum over
+  India is used as an index CGTI
+- the second EOF of geopotential height shows hight correlation to the
+  CGT
+- CGTI is correlaed to Indian Summer Monsoon but not to ENSO, the
+  correlation between CGTI and ENSO is via ISM 
 - two scenarios qualitatively explain the CGT:
 > 1. anomaly height due to monsoon is transported by rossby waves
 > 2. anomalous height above europe which is transported by rossby wave which gives a height above india
 
 
 Discussion:
-- connection between teleconnections defined as low-frequency variability of EOFs and climate network teleconnections is not fully clear [paper by Donges]
+- connection between teleconnections defined as low-frequency
+  variability of EOFs and climate network teleconnections is not fully
+  clear [paper by Donges]
 >- fuzzy network teleconnections may be similar to EOF teleconnections
 >- both definitions are based on the correlation matrix
 - CGT definition has got rising attention in 2020
@@ -478,14 +494,19 @@ Discussion:
 [Back to top](#journal-club)
 
 
-## 03.11.2020 
+### 03.11.2020 
 
 **Hoskins (2020) The detailed dynamics of the June–August Hadley Cell**
 
 The paper [Hoskins 2020](DOI: 10.1002/qj.3702) was presented by Bedartha G.
 
 Summary: \
-Hoskins et al. examine the hadley cell in JJA by observing the angular momentum and vorticity. They show,that that tropical convections and meridianal circulations drive the Hadley Cell movement. Thus, the main contribution to the summer (JJA) hadley cell is from the Indian Ocean and the west Pacific. Equatorial air movement from southern to northern Hemisphere occurs in filaments in the upper troposphere. 
+Hoskins et al. examine the Hadley cell in JJA by observing the angular
+momentum and vorticity. They show,that that tropical convections and
+meridional circulations drive the Hadley Cell movement. Thus, the main
+contribution to the summer (JJA) Hadley cell is from the Indian Ocean
+and the west Pacific. Equatorial air movement from southern to northern
+Hemisphere occurs in filaments in the upper troposphere. 
 
 
 Observation variables:
@@ -495,15 +516,15 @@ Observation variables:
 
 
 Take home message:
-- hadley cell in summer is really only one
-- hadley cell is not at all even around the globe (longitudes)
+- Hadley cell in summer is really only one
+- Hadley cell is not at all even around the globe (longitudes)
 - vorticity is strongly related to convection
 
 
 [Back to top](#journal-club)
 
 
-## 10.11.2020 
+### 10.11.2020 
 
 **DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean**
 
@@ -555,7 +576,7 @@ The presentation can be found [here](/files/DiNezio_2020.pdf).
 [Back to top](#journal-club)
 
 
-## 17.11.2020 
+### 17.11.2020 
 
 **Wang et al. (2019) Diversity of the Madden-Julian Oscillation**
 
@@ -564,7 +585,7 @@ The presentation can be found [here](/files/DiNezio_2020.pdf).
 The presentation can be found [here](files/ "Presentation Wang (2019)").
 
 Discussion:
-- MJO is the strongest interseasonal variability
+- MJO is the strongest intraseasonal variability
 - How can we conclude the effect of Kelvin waves from wind vector fields?
  
 
