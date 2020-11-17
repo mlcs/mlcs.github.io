@@ -29,7 +29,6 @@ navbar-links:
   Research:
       - Projects: "/research/projects"
       - Publications: "/research/publications"
-      - Journal Club: "https://github.com/mlcs/journalclub/wiki/Journal-Club"
   Activities:
       - Journal Club: "/activities/journal-club"
       - Group Meetings: "/activities/group-meetings"
