@@ -17,7 +17,6 @@ beginnning of November, it is done entirely online on Zoom:
 **Topic:** MLCS Journal Club  
 **Time:** Tuesdays, 1 pm CEST  
 **Join Zoom Meeting:** [Send us an email](mailto:bedartha.goswami@uni-tuebingen.de)
-**Meeting ID:** 936 0049 1273  
 
 ***
 

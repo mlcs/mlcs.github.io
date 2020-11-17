@@ -6,14 +6,16 @@ use-site-title: false
 ---
 ![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
-# Group Meeting: Machine Learning in Climate Science
+# Group Meeting
 
-This is a brief summary of the [Machine Learning for Climate Science](https://mlcs.github.io) group meetings. Currently our group meeting take place every Friday at 10 am and goes on till around 12 noon. Since the beginning of November our Group Meetings are on Zoom. 
+This is a brief summary of the [Machine Learning for Climate
+Science](https://mlcs.github.io) group meetings. Currently our group
+meeting take place every Friday at 10 am CEST and goes on till around 12
+noon. Since the beginning of November our Group Meetings are on Zoom. 
 
 **Topic:** MLCS Group Meeting  
 **Time:** Fridays, 10 am CEST  
-**Join Zoom Meeting:** https://zoom.us/j/93833335224  
-**Meeting ID:** 938 3333 5224  
+**Join Zoom Meeting:** [Send us an email](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
 
@@ -33,9 +35,9 @@ TBA
 
 ***
 
-**Table of Contents:**
+## Past Meetings
 
-[09.10.20 - Research idea discussion](#09.10.20)
+_coming soon_
 
 
 ***
