@@ -6,7 +6,7 @@ use-site-title: false
 ---
 ![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
-# Journal Club   Machine Learning in Climate Science
+# Journal Club
 
 This is a summary of the [Machine Learning for Climate
 Science](https://mlcs.github.io) group journal club. It is mainly
@@ -109,6 +109,7 @@ Questions and Critics:
 -   La nina is usually better predicted than El nino, which is in
     contrast to Fig. 2
 
+[Back to top](#Journal-Club)
 
 <a name="02.09.20"/>
 
@@ -351,7 +352,7 @@ Notes:
 
 [https://doi.org/10.1175/JCLI-D-16-0844.1](https://doi.org/10.1175/JCLI-D-16-0844.1)
 
-Jakob S. presented the paper [Presentation Deser (2017)](files/deser_2017.pdf "Presentation Deser (2017)")
+Jakob S. presented the paper [Presentation Deser (2017)](/files/deser_2017.pdf)
 
 Discussion:
 - averaging already the DJF months loses a lot of information about the
@@ -408,7 +409,7 @@ Discussion:
 
 [Papagiannopoulou 2018](https://doi.org/10.5194/gmd-11-4139-2018)
 
-Markus D. presented the paper [Presentation](files/papagiannopolou_2018.pdf "Presentation papagiannopolou (2018)"):
+Markus D. presented the paper [Presentation](/files/papagiannopolou_2018.pdf):
 
 
 Aim: develope data driven approach to quantify the response of vegetation to local climate variables
@@ -427,7 +428,7 @@ Discussion:
 
 [Ding 2005](https://doi.org/10.1175/JCLI3473.1)
 
-Felix S. presented the paper [presentation](files/ding_2005.pdf "Presentation Ding (2005)"):
+Felix S. presented the paper [presentation](/files/ding_2005.pdf):
 
 Ding and Wang show evidence that teleconnections in the Northern Hemisphere are linked with each other during boreal summer and on interannual variability. They term this connection as circumglobal teleconnection (CGT) pattern.
 - geopotential height: the height of one particular pressure, this is an intuitive variable for atmospheric flow 
@@ -475,7 +476,7 @@ Take home message:
 
 [DiNezio et al., Sci Adv, 2020](https://dx.doi.org/10.1126/sciadv.aay7684) to be presented by Jakob S.  
  
-The presentation can be found [here](files/DiNezio_2020.pdf "Presentation DiNezio (2020)").
+The presentation can be found [here](/files/DiNezio_2020.pdf).
 
 **Summary:**
 
