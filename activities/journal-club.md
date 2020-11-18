@@ -576,7 +576,7 @@ The presentation can be found [here](/files/DiNezio_2020.pdf).
 
 [Wang et al., Sci Adv, 2019](https://advances.sciencemag.org/content/5/7/eaax0220) presented by Felix S.  
  
-The presentation can be found [here](/files/Wang2019.pdf "Presentation Wang (2019)").
+The presentation can be found [here](/files/Wang_2019.pdf "Presentation Wang (2019)").
 
 Discussion:
 - MJO is the strongest intraseasonal variability
