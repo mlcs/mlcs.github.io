@@ -21,10 +21,6 @@ beginnning of November, it is done entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **17 November 2020**  
-[Wang, Chen, Liu, Sci Adv,
-2019](https://dx.doi.org/10.1126/sciadv.aax0220) to be presented by
-Felix S.  
 + **24 November 2020**  
 [Pante, Knippertz, Nature Comms,
 2020](https://doi.org/10.1038/s41467-019-11081-4) to be presented by Lea
@@ -54,8 +50,8 @@ Bedartha G.
 [13.10.20 - Schneider et al. (2014) Migrations and dynamics of ITCZ](#13102020)\
 [27.10.20 - Papagiannopoulou (2018) Hydro-climatic biomes via multitask learning](#27102020)\
 [28.10.20 - Ding (2005) Circumglobal Teleconnection in the NH Summer](#28102020)\
-[03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03112020)
-[10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)
+[03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03112020)\
+[10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)\
 [17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020)
 
 
@@ -175,8 +171,6 @@ by training a deep neural network (NNCAM).
 -   The network is able to interpolate between different temperature
     scenarios but fails on extrapolation
 -   NNCAM outperforms a parametrized surrogate model, CTRLCAM
-
-[[images/Rasp2019.JPG]]
 
 **Method:**
 -   NN with 9 layers and 256 nodes per layer
@@ -582,7 +576,7 @@ The presentation can be found [here](/files/DiNezio_2020.pdf).
 
 [Wang et al., Sci Adv, 2019](https://advances.sciencemag.org/content/5/7/eaax0220) presented by Felix S.  
  
-The presentation can be found [here](files/ "Presentation Wang (2019)").
+The presentation can be found [here](files/Wang2019.pdf "Presentation Wang (2019)").
 
 Discussion:
 - MJO is the strongest intraseasonal variability
