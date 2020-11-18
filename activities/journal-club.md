@@ -56,6 +56,7 @@ Bedartha G.
 [28.10.20 - Ding (2005) Circumglobal Teleconnection in the NH Summer](#28102020)\
 [03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03112020)
 [10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)
+[17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020)
 
 
 ***
