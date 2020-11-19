@@ -24,21 +24,23 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 + **13 November 2020**  
-Markus Deppner, Lea Elsemueller - Update on projects
+**Update on projects**  
+Markus Deppner, Lea Elsemueller  
+MLCS
 + **20 November 2020**  
-Gaussian Processes for parameter estimation of PDEs  
+**Gaussian Processes for parameter estimation of PDEs**  
 [Thomas Gläßle](https://github.com/coldfix/)  
 [Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
 + **27 November 2020**  
-Probabilistic models in network analysis  
+**Probabilistic models in network analysis**  
 [Martina Contisciani](https://is.tuebingen.mpg.de/person/mcontisciani)  
 [Physics for Inference and Optimization](https://www.cdebacco.com/)
 + **4 December 2020**  
-Uncovering the inductive bias of NetGAN  
+**Uncovering the inductive bias of NetGAN**  
 [Luca Rendsburg](https://www.tml.cs.uni-tuebingen.de/team/rendsburg/index.php)  
 [Theory of Machine Learning](https://www.tml.cs.uni-tuebingen.de/index.php)
 + **11 December 2020**  
-Modeling Spatiotemporal Dynamics with a Neural Network Architecture  
+**Modeling Spatiotemporal Dynamics with a Neural Network Architecture**  
 [Matthias Karlbauer](https://uni-tuebingen.de/en/153126)  
 [Neuro-Cognitive Modeling Group](https://uni-tuebingen.de/en/25369)
 + **18 December 2020**  
