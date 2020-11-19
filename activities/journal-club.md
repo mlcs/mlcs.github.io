@@ -8,15 +8,12 @@ use-site-title: false
 
 # Journal Club
 
-This is a summary of the [Machine Learning for Climate
-Science](https://mlcs.github.io) group journal club. It is mainly
-intended for internal use but can also be seen as our paper review.
 Currently our Journal Club takes place every Tuesday at 1 pm CEST. Since
-beginnning of November, it is done entirely online on Zoom:
+the beginning of November 2020, the club meets entirely online on Zoom:
 
 **Topic:** MLCS Journal Club  
 **Time:** Tuesdays, 1 pm CEST  
-**Join Zoom Meeting:** [Send us an email](mailto:bedartha.goswami@uni-tuebingen.de)
+**Join Zoom Meeting:** [Send email request](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
 
