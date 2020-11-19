@@ -22,7 +22,7 @@ meetings are entirely on Zoom.
 + **13 November 2020**  
 Markus Deppner, Lea Elsemueller - Update on projects
 + **20 November 2020**  
-Thomas Gläßle - Gaussian Processes for parameter estimation of PDEs [(Rai 2019)](https://doi.org/10.1007/s00477-019-01709-8)
+Thomas Gläßle - Gaussian Processes for parameter estimation of PDEs
 + **27 November 2020**  
 Martina Contisciani - Probabilistic models in network analysis
 + **4 December 2020**  
