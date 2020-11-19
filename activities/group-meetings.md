@@ -27,7 +27,7 @@ Thomas Gläßle - Gaussian Processes for parameter estimation of PDEs [(Rai 2019
 + **27 November 2020**  
 Martina Contisciani - Probabilistic models in network analysis
 + **4 December 2020**  
-TBA
+Luca Rendsburg - TBA
 + **11 December 2020**  
 Matthias Karlbauer - Modeling Spatiotemporal Dynamics with a Neural Network Architecture
 + **18 December 2020**  
