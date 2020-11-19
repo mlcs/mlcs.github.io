@@ -8,14 +8,13 @@ use-site-title: false
 
 # Group Meeting
 
-This is a brief summary of the [Machine Learning for Climate
-Science](https://mlcs.github.io) group meetings. Currently our group
-meeting take place every Friday at 10 am CEST and goes on till around 12
-noon. Since the beginning of November our Group Meetings are on Zoom. 
+Currently our group meeting take place every Friday at 10 am CEST and
+goes on till around 12 noon. Since the beginning of November 2020, the
+meetings are entirely on Zoom. 
 
 **Topic:** MLCS Group Meeting  
 **Time:** Fridays, 10 am CEST  
-**Join Zoom Meeting:** [Send us an email](mailto:bedartha.goswami@uni-tuebingen.de)
+**Join Zoom Meeting:** [Send email request](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
 
