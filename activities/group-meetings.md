@@ -23,14 +23,6 @@ meetings are entirely on Zoom.
 ***
 
 ## Upcoming
-+ **13 November 2020**  
-**Update on projects**  
-Markus Deppner, Lea Elsemueller  
-MLCS
-+ **20 November 2020**  
-**Gaussian Processes for parameter estimation of PDEs**  
-[Thomas Gläßle](https://github.com/coldfix/)  
-[Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
 + **27 November 2020**  
 **Probabilistic models in network analysis**  
 [Martina Contisciani](https://is.tuebingen.mpg.de/person/mcontisciani)  
@@ -49,13 +41,14 @@ TBA
 ***
 
 ## Past Meetings
-
-_coming soon_
-
++ **20 November 2020**  
+**Gaussian Processes for parameter estimation of PDEs**  
+[Thomas Gläßle](https://github.com/coldfix/)  
+[Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
++ **13 November 2020**  
+**Update on projects**  
+Markus Deppner, Lea Elsemueller  
+MLCS
 
 ***
-
-<a name="09.10.20"/>
-
-## 09.10.20 - Research idea discussion
 
