@@ -111,8 +111,7 @@ Maria-von-Linden-Str. 6
     Abrupt transitions in time series with uncertainties,
     _Nature Communications_
     **9**
-    (2018)
-    48.  
+    (2018) 48.  
     [doi:10.1038/s41467-017-02456-6](http://doi.org/10.1038/s41467-017-02456-6)
 
 ### 2017
@@ -158,8 +157,7 @@ Maria-von-Linden-Str. 6
     low-latitude hydrologic seesaw,
     _Scientific Reports_
     **7**
-    (2017)
-    45809.  
+    (2017) 45809.  
     [doi:10.1038/srep45809](https://doi.org/10.1038/srep45809)
 
 ### 2016
@@ -201,8 +199,7 @@ Maria-von-Linden-Str. 6
     A random interacting network model for complex networks,
     _Scientific Reports_
     **5**
-    (2015)
-    18183.  
+    (2015) 18183.  
     [doi:10.1038/srep18183](https://doi.org/10.1038/srep18183)
 
 + S. Dey, **B. Goswami**, A. Joshi,
