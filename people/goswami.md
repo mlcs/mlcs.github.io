@@ -39,6 +39,15 @@ Maria-von-Linden-Str. 6
 [2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012)
 
 ### 2020
+
++ A. Banerjee, B. Goswami, Y. Hirata, D. Eroglu, B. Merz, J. Kurths, &
+    N. Marwan,
+    Recurrence analysis of extreme event like data,
+    _Nonlinear Processes in Geophysics Discussions_
+    (2020)
+    1-25.  
+    [doi.org/10.5194/npg-2020-41](https://doi.org/10.5194/npg-2020-41)
+
 + M. Singh, R. Krishnan, **B. Goswami**, A. D. Choudhury, P. Swapna, R.
     Vellore, A. G. Prajeesh, N. Sandeep, C. Venkataraman, R. V. Donner,
     N. Marwan, J. Kurths,
@@ -46,14 +55,20 @@ Maria-von-Linden-Str. 6
     _Science Advances_
     **6**
     (2020)
-    eaba8164.  
+    eaba8164  
     [doi.org/10.1126/sciadv.aba8164](https://doi.org/10.1126/sciadv.aba8164)
-+ S. Prasad, N. Marwan, D. Eroglu, **B. Goswami**, P. Mishra, B. Gaye, A. Anoop, N. Basavaiah, M. Stebich, A. Jehangir
-    Holocene climate forcings and lacustrine regime shifts in the Indian Summer Monsoon realm,
-    _Earth Surface Processes and Landforms_,
-    (accepted)
+
++   S. Prasad, N. Marwan, D. Eroglu, **B. Goswami**, P. Mishra, B. Gaye,
+    A. Anoop, N. Basavaiah, M. Stebich, A. Jehangir,
+    Holocene climate forcings and lacustrine regime shifts in the Indian
+    Summer Monsoon realm,
+    _Earth Surface Processes and Landforms_
+    (2020)
+    (in press)  
+    [doi.org/10.1002/esp.5004](https://doi.org/10.1002/esp.5004)
 
 ### 2019
+
 + **B. Goswami**,
     A Brief Introduction to Nonlinear Time Series Analysis and Recurrence Plots,
     _Vibration_
@@ -84,6 +99,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1038/s41586-018-0872-x](https://doi.org/10.1038/s41586-018-0872-x)
 
 ### 2018
+
 + **B. Goswami**, N. Boers, A. Rheinwalt, N. Marwan, J. Heitzig, S. F. M. Breitenbach, J. Kurths,
     Abrupt transitions in time series with uncertainties,
     _Nature Communications_
@@ -93,6 +109,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1038/s41467-017-02456-6](http://doi.org/10.1038/s41467-017-02456-6)
 
 ### 2017
+
 + **B. Goswami**, P. Schultz, B. Heinze, N. Marwan, B. Bodirsky, H. Lotze-Campen, J. Kurths,
     Inferring interdependencies from short time series,
     _Proceedings of the Conference on Perspectives in Nonlinear Dynamics_
@@ -130,6 +147,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1038/srep45809](https://doi.org/10.1038/srep45809)
 
 ### 2016
+
 + F. A. Lechleitner, J. U. L. Baldini, S. F. M. Breitenbach, J. Fohlmeister, C. McIntyre, **B. Goswami**, R. A. Jamieson, T. S. van der Voort, K. Prufer, N. Marwan, B. J.Culleton, D. J. Kennett, Y. Asmerom, V. Polyak, T. I. Eglinton,
     Hydrological and climatological controls on radiocarbon concentrations in a tropical stalagmite,
     _Geochimica et Cosmochimica Acta_
@@ -146,12 +164,13 @@ Maria-von-Linden-Str. 6
     [doi:10.1002/2016GL070692](https://doi.org/10.1002/2016GL070692)
 
 ### 2015
+
 + A. Rheinwalt, **B. Goswami**, N. Boers, J. Heitzig, N. Marwan, R. Krishnan and J. Kurths,
     "Teleconnections in Climate Networks: A Network of Networks Approach to Investigate the Influence of Sea Surface Temperature Variability on Monsoon Systems",
     in: _Machine Learning and Data Mining Approaches to Climate Science_
     (2015)
-    23–33.  
-    Springer International Publishing.
+    23–33.
+    Springer International Publishing.  
     [doi:10.1007/978-3-319-17220-0_3](https://doi.org/10.1007/978-3-319-17220-0_3)
 + **B. Goswami**, S. M. Shekatkar, A. Rheinwalt, G. Ambika, J. Kurths,
     A random interacting network model for complex networks,
@@ -169,6 +188,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1016/j.jtbi.2014.11.028](https://doi.org/10.1016/j.jtbi.2014.11.028)
 
 ### 2014
+
 + **B. Goswami**, J. Heitzig, K. Rehfeld, N. Marwan, A. Ambili, S. Prasad, J. Kurths,
     Estimation of sedimentary proxy records together with associated uncertainty,
     _Nonlinear Processes in Geophysics_
@@ -185,6 +205,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1016/j.jtbi.2013.12.005](https://doi.org10.1016/j.jtbi.2013.12.005)
 
 ### 2013
+
 + **B. Goswami**, N. Marwan, G. Feulner, J. Kurths,
     How do global temperature drivers influence each other? A network perspective using recurrences,
     _European Physical Journal Special Topics_
@@ -194,6 +215,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1140/epjst/e2013-01889-8](https://doi.org/10.1140/epjst/e2013-01889-8)
 
 ### 2012
+
 + S. F. M. Breitenbach, K. Rehfeld, **B. Goswami**, J. U. L. Baldini, H. E. Ridley, D. J. Kennett, K. M. Prufer, V. V. Aquino, Y. Asmerom, V. J. Polyak, H. Cheng, J. Kurths, N. Marwan,
     COnstructing Proxy Records from Age models (COPRA),
     _Climate of the Past_
