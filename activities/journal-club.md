@@ -18,10 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **24 November 2020**  
-[Pante, Knippertz, Nature Comms,
-2020](https://doi.org/10.1038/s41467-019-11081-4) to be presented by Lea
-E.  
 + **1 December 2020**  
 [Yang et al., Environ Res Lett,
 2019](https://doi.org/10.1088/1748-9326/ab5c6f) to be presented by
@@ -50,6 +46,7 @@ Bedartha G.
 [03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03112020)\
 [10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)\
 [17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020)
+[24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020)
 
 
 ***
@@ -579,6 +576,30 @@ Discussion:
 - MJO is the strongest intraseasonal variability
 - How can we conclude the effect of Kelvin waves from wind vector fields?
  
+
+[Back to top](#journal-club)
+
+### 24.11.2020
+
+**Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts**
+
+The paper [Pante, Knippertz, Nature Comms, 2020](https://doi.org/10.1038/s41467-019-11081-4) was presented by Lea E.  
+
+The presentation can be found [here](/files/Wang_2019.pdf "Presentation Wang (2019)").
+
+Summary:
+
+Pante et al. show that explicitly resolving summer time Sahelian mesoscale convective systems in a novel two-way nesting apporach in the ICON numerical weather prediction model impacts on forcast biases over West Africa. This also improves forecasts in the extratropics and Europe since the Saharan heat low (SHL), tropical easterly jet (TEJ) and african eastery jet (AEJ) quickly carry signals out of Africa.
+
+
+Discussion:
+
++ interesting perspective on teleconnections: improve the model somewhere in the world leads to an improvement of the forecast in another part of the world
++ understanding teleconnections from first principle is difficult
++ cloud parametrization on a global scale might not be necessary to improve weather forecasts since only some regions play an important role
++ model nesting: placing higher resolution domain within a coarser domain
++ two-way nesting: compute both domains at the same time
+
 
 [Back to top](#journal-club)
 
