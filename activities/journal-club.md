@@ -585,7 +585,7 @@ Discussion:
 
 The paper [Pante, Knippertz, Nature Comms, 2020](https://doi.org/10.1038/s41467-019-11081-4) was presented by Lea E.  
 
-The presentation can be found [here](/files/Wang_2019.pdf "Presentation Wang (2019)").
+The presentation can be found [here](/files/Pante_2020.pdf "Presentation Pante (2020)").
 
 Summary:
 
