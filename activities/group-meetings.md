@@ -23,10 +23,6 @@ meetings are entirely on Zoom.
 ***
 
 ## Upcoming
-+ **27 November 2020**  
-**Probabilistic models in network analysis**  
-[Martina Contisciani](https://is.tuebingen.mpg.de/person/mcontisciani)  
-[Physics for Inference and Optimization](https://www.cdebacco.com/)
 + **4 December 2020**  
 **Uncovering the inductive bias of NetGAN**  
 [Luca Rendsburg](https://www.tml.cs.uni-tuebingen.de/team/rendsburg/index.php)  
@@ -41,6 +37,10 @@ TBA
 ***
 
 ## Past Meetings
++ **27 November 2020**  
+**Probabilistic models in network analysis**  
+[Martina Contisciani](https://is.tuebingen.mpg.de/person/mcontisciani)  
+[Physics for Inference and Optimization](https://www.cdebacco.com/)
 + **20 November 2020**  
 **Gaussian Processes for parameter estimation of PDEs**  
 [Thomas Gläßle](https://github.com/coldfix/)  
