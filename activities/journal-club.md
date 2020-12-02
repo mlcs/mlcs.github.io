@@ -45,8 +45,9 @@ Bedartha G.
 [28.10.20 - Ding (2005) Circumglobal Teleconnection in the NH Summer](#28102020)\
 [03.11.20 - Hoskins (2020) The detailed dynamics of the June–August Hadley Cell](#03112020)\
 [10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)\
-[17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020)
-[24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020)
+[17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020) \
+[24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020) \
+[01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)
 
 
 ***
@@ -600,6 +601,25 @@ Discussion:
 + model nesting: placing higher resolution domain within a coarser domain
 + two-way nesting: compute both domains at the same time
 
-
 [Back to top](#journal-club)
 
+
+### 01.12.2020
+
+**Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration**
+
+The paper by [Yang et al. (2019)](https://doi.org/10.1088/1748-9326/ab5c6f) was be presented by Markus D.  
+
+The presentation can be found [here](/files/Yang_2019.pdf "Presentation Yang (2019)").
+
+Summary:
+
+Yang et al. analyzes the role of carbon-nitrogen (CN) cycle to the water runoff model from Joint UK Land Environment Simulator (JULES). They show that including the CN cycle improves the prediction of runoff trends on a local scale but have only a minor effect globally .
+
+Discussion:
++ actual runoff values are not presented
++ actual runoff value comparison is not possible since it is not measurable
++ runoff models do likely not capture actual river discharge 
+
+
+[Back to top](#journal-club)
