@@ -36,9 +36,9 @@ meetings are entirely on Zoom.
 [Marius Hobbhahn](http://www.mariushobbhahn.com/)  
 [Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
 + **25 December 2020**  
-**Christmas**
+Christmas
 + **1 January 2020**  
-**New Year**
+New Year
 + **8 January 2020**  
 TBA
 
