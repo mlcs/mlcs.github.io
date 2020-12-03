@@ -32,8 +32,8 @@ meetings are entirely on Zoom.
 [Matthias Karlbauer](https://uni-tuebingen.de/en/153126)  
 [Neuro-Cognitive Modeling Group](https://uni-tuebingen.de/en/25369)
 + **18 December 2020**  
-**Laplace Matching for generalized linear models**
-[Marius Hobbhahn](http://www.mariushobbhahn.com/)
+**Laplace Matching for generalized linear models**  
+[Marius Hobbhahn](http://www.mariushobbhahn.com/)  
 [Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
 + **25 December 2020**  
 **Christmas**
