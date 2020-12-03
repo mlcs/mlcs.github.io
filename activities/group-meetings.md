@@ -6,7 +6,7 @@ use-site-title: false
 ---
 ![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
-# Group Meeting
+# Group Meetings
 
 Besides updating each other on the latest from our individual projects,
 we try to get young scientists from other research groups to come and
