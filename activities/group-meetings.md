@@ -41,6 +41,12 @@ Christmas
 New Year
 + **8 January 2020**  
 TBA
++ **25 January 2020**  
+TBA
++ **22 January 2020**  
+Auguste Schulz - TBA
++ **29 January 2020**  
+Ruhollah Taghizadeh-Mehrjardi - TBA
 
 ***
 
