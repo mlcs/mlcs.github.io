@@ -46,7 +46,9 @@ TBA
 + **22 January 2020**  
 Auguste Schulz - TBA
 + **29 January 2020**  
-Ruhollah Taghizadeh-Mehrjardi - TBA
+**An Introduction to Digital Soil Mapping**  
+[Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
+[Department of Soil Science and Geomorphology](https://uni-tuebingen.de/en/104517)
 
 ***
 
