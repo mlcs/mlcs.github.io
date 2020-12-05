@@ -37,7 +37,7 @@ Christmas
 New Year
 + **8 January 2020**  
 TBA
-+ **25 January 2020**  
++ **15 January 2020**  
 TBA
 + **22 January 2020**  
 Auguste Schulz - TBA
