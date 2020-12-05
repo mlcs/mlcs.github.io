@@ -23,10 +23,6 @@ meetings are entirely on Zoom.
 ***
 
 ## Upcoming
-+ **4 December 2020**  
-**Uncovering the inductive bias of NetGAN**  
-[Luca Rendsburg](https://www.tml.cs.uni-tuebingen.de/team/rendsburg/index.php)  
-[Theory of Machine Learning](https://www.tml.cs.uni-tuebingen.de/index.php)
 + **11 December 2020**  
 **Modeling Spatiotemporal Dynamics with a Neural Network Architecture**  
 [Matthias Karlbauer](https://uni-tuebingen.de/en/153126)  
@@ -53,6 +49,10 @@ Auguste Schulz - TBA
 ***
 
 ## Past Meetings
++ **4 December 2020**  
+**Uncovering the inductive bias of NetGAN**  
+[Luca Rendsburg](https://www.tml.cs.uni-tuebingen.de/team/rendsburg/index.php)  
+[Theory of Machine Learning](https://www.tml.cs.uni-tuebingen.de/index.php)
 + **27 November 2020**  
 **Probabilistic models in network analysis**  
 [Martina Contisciani](https://is.tuebingen.mpg.de/person/mcontisciani)  
