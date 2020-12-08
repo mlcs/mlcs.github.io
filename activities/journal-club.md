@@ -18,19 +18,17 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **8 December 2020**  
-[Hegerl et al., Environ Res Lett,
-2019](https://doi.org/10.1088/1748-9326/ab4557) to be presented by
-Bedartha G.  
 + **15 December 2020**  
 [Guo et al., Journal of Climate, 2017](https://doi.org/10.1175/JCLI-D-16-0488.1) to 
 be presented by Jakob S.
 + **22 December 2020**  
-TBA
+[Peixoto, Adv. Net. Clust. and Blockmod., 2019](https://doi.org/10.1002/9781119483298.ch11) 
+to be presented by Felix S.
 + **05 January 2021**  
-[Groenke et al.,arXiv, 2020](https://arxiv.org/abs/2008.04679) to be presented by Lea E.
+Overview of *Normalizing Flows* to be presented by Lea E.
 + **12 January 2021**  
-TBA
+[Yan et al., Geo. Res. Lett., 2020](https://doi.org/10.1029/2020GL089476) to be 
+presented by Markus D.
 + **19 January 2021**  
 [Johnson et al., Geosc. Model Dev., 2019](https://doi.org/10.5194/gmd-12-1087-2019) to be
 presented by Bedartha G.
@@ -638,10 +636,22 @@ Discussion:
 
 The paper by [Hegerl et al., Environ Res Lett, 2019](https://doi.org/10.1088/1748-9326/ab4557) was presented by Bedartha G.
 
+The presentation can be found [here](/files/Hegerl_2020.pdf "Presentation Hegerl (2020)").
 
+Key points:
++ Review paper on Climate change drivers
++ Main Question: What factors caused decadel and multidecadel deviations from the greenhouse warming trend?
++ Fingerprints: terminology of factors impacting global temperature e.g. solar fingerprint
++ Global temperature can grouped into different periods of global trends
++ Warming are not uniform over the globe
++ Anthropogenic aerosol hamperes the GHG warming, especially in between 1950 and 1980
++ Diurnal: temperature difference between max and min within a day
++ Heat flux in the Atlantic is correlated to the AMOC
 
-
-
-
+Discussion:
++ Aerosols seem to play an important role for global warming which is not yet fully understood
++ The paper focusses mainly on the Northern Hemisphere and Atlantic Ocean although
+discussing global climate change
++ Effect of ENSO, PDO and Southern Ocean are not considered
 
 [Back to top](#journal-club)
