@@ -18,10 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **1 December 2020**  
-[Yang et al., Environ Res Lett,
-2019](https://doi.org/10.1088/1748-9326/ab5c6f) to be presented by
-Markus D.  
 + **8 December 2020**  
 [Hegerl et al., Environ Res Lett,
 2019](https://doi.org/10.1088/1748-9326/ab4557) to be presented by
