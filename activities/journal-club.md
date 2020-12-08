@@ -22,7 +22,18 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [Hegerl et al., Environ Res Lett,
 2019](https://doi.org/10.1088/1748-9326/ab4557) to be presented by
 Bedartha G.  
-
++ **15 December 2020**  
+[Guo et al., Journal of Climate, 2017](https://doi.org/10.1175/JCLI-D-16-0488.1) to 
+be presented by Jakob S.
++ **22 December 2020**  
+TBA
++ **05 January 2021**  
+[Groenke et al.,arXiv, 2020](https://arxiv.org/abs/2008.04679) to be presented by Lea E.
++ **12 January 2021**  
+TBA
++ **19 January 2021**  
+[Johnson et al., Geosc. Model Dev., 2019](https://doi.org/10.5194/gmd-12-1087-2019) to be
+presented by Bedartha G.
 ***
 
 ## Past meetings
@@ -43,7 +54,8 @@ Bedartha G.
 [10.11.20 - DiNezio (2020) Emergence of an equatorial mode in the Indian Ocean](#10112020)\
 [17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020) \
 [24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020) \
-[01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)
+[01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)\
+[08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020)
 
 
 ***
@@ -616,6 +628,20 @@ Discussion:
 + actual runoff values are not presented
 + actual runoff value comparison is not possible since it is not measurable
 + runoff models do likely not capture actual river discharge 
+
+[Back to top](#journal-club)
+
+
+### 08.12.2020
+
+**Hegerl et al. (2019) Causes of climate change over the historical record**
+
+The paper by [Hegerl et al., Environ Res Lett, 2019](https://doi.org/10.1088/1748-9326/ab4557) was presented by Bedartha G.
+
+
+
+
+
 
 
 [Back to top](#journal-club)
