@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Lea Elsemüller
-subtitle: Masterstudent
+subtitle: Master Student
 ---
-<!--![BG-ProfilePic](/img/bg_profile_pic.png){: .center-block :}-->
 
 ## Contact
 
@@ -15,7 +14,9 @@ Maria-von-Linden-Str. 6
 
 [Twitter](https://twitter.com/lea_else)
 
-I'm a computer science student currently working on my master thesis in the MLCS group. 
+I'm a computer science student currently working on my master thesis in
+the MLCS group. 
+
 ## Research Interests
 
 + Climate data analysis
