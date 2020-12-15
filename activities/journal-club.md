@@ -18,9 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **15 December 2020**  
-[Guo et al., Journal of Climate, 2017](https://doi.org/10.1175/JCLI-D-16-0488.1) to 
-be presented by Jakob S.
 + **22 December 2020**  
 [Peixoto, Adv. Net. Clust. and Blockmod., 2019](https://doi.org/10.1002/9781119483298.ch11) 
 to be presented by Felix S.
@@ -53,7 +50,8 @@ presented by Bedartha G.
 [17.11.20 - Wang et al. (2019) Diversity of the Madden-Julian Oscillation](#17112020) \
 [24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020) \
 [01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)\
-[08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020)
+[08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020) \
+[15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomlies using SOMs](#15122020)
 
 
 ***
@@ -653,5 +651,24 @@ Discussion:
 + The paper focusses mainly on the Northern Hemisphere and Atlantic Ocean although
 discussing global climate change
 + Effect of ENSO, PDO and Southern Ocean are not considered
+
+[Back to top](#journal-club)
+
+
+### 15.12.2020  
+
+**Guo et al. (2017) Distinct Patterns of Tropical Pacific SST Anomaly and their Impacts on the North American Climate**
+
+The paper by [Guo et al., Journal of Climate, 2017](https://doi.org/10.1175/JCLI-D-16-0488.1)
+was presented by Jakob S.
+
+The presentation can be found [here](/files/Guo_2017.pdf "Presentation Guo (2017)").
+
+Discussion:
+- Self-organizing maps are another tool for dimensionality reduction
+- this was mainly a methods paper
+- biases of model ensembles are not discussed
+- missing comparison to normal conditions
+- datacube classification might be interesting
 
 [Back to top](#journal-club)
