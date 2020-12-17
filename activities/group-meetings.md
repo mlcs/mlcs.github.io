@@ -28,14 +28,14 @@ meetings are entirely on Zoom.
 **Laplace Matching for generalized linear models**  
 [Marius Hobbhahn](http://www.mariushobbhahn.com/)  
 [Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
-+ _25 December 2020_
++ _25 December 2020_  
 _Christmas_
-+ _1 January 2020  _
++ _1 January 2020_  
 _New Year_
 + **8 January 2020**  
-TBA
+Felix Strnad- TBA
 + **15 January 2020**  
-TBA
+Jakob Schlör - TBA
 + **22 January 2020**  
 Auguste Schulz - TBA
 + **29 January 2020**  
