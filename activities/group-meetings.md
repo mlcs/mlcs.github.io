@@ -24,10 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **18 December 2020**  
-**Laplace Matching for generalized linear models**  
-[Marius Hobbhahn](http://www.mariushobbhahn.com/)  
-[Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
 + _25 December 2020_  
 _Christmas_
 + _1 January 2020_  
@@ -55,6 +51,10 @@ behaviour**
 
 ## Past Meetings
 
++ **18 December 2020**  
+**Laplace Matching for generalized linear models**  
+[Marius Hobbhahn](http://www.mariushobbhahn.com/)  
+[Methods of Machine Learning](http://mml.inf.uni-tuebingen.de)
 + **11 December 2020**  
 **Modeling Spatiotemporal Dynamics with a Neural Network Architecture**  
 [Matthias Karlbauer](https://uni-tuebingen.de/en/153126)  
