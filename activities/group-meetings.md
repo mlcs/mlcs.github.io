@@ -35,9 +35,15 @@ _New Year_
 + **8 January 2020**  
 Felix Strnad- TBA
 + **15 January 2020**  
-Jakob Schlör - TBA
+**Disentangling the latent space representation of Pacific sea surface
+temperature anomalies**  
+[Jakob Schlör](https://mlcs.github.io/people/schloer/)  
+[Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
 + **22 January 2020**  
-Auguste Schulz - TBA
+**Sequential variational autoencoders for neural activity and
+behaviour**  
+[Auguste Schulz](https://uni-tuebingen.de/en/196982)
+[Machine Learning in Science](https://uni-tuebingen.de/en/178236)
 + **29 January 2020**  
 **An Introduction to Digital Soil Mapping**  
 [Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
