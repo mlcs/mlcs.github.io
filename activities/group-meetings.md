@@ -33,7 +33,9 @@ _Christmas_
 + _1 January 2020_  
 _New Year_
 + **8 January 2020**  
-Felix Strnad- TBA
+**Analyzing the monsoon by networks of extreme rainfall events**  
+[Felix Strnad](https://mlcs.github.io/people/strnad/)  
+[Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
 + **15 January 2020**  
 **Disentangling the latent space representation of Pacific sea surface
 temperature anomalies**  
