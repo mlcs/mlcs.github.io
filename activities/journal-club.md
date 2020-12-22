@@ -18,9 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **22 December 2020**  
-[Peixoto, Adv. Net. Clust. and Blockmod., 2019](https://doi.org/10.1002/9781119483298.ch11) 
-to be presented by Felix S.
 + **05 January 2021**  
 Overview of *Normalizing Flows* to be presented by Lea E.
 + **12 January 2021**  
@@ -670,5 +667,27 @@ Discussion:
 - biases of model ensembles are not discussed
 - missing comparison to normal conditions
 - datacube classification might be interesting
+
+[Back to top](#journal-club)
+
+
+
+### 22.12.2020  
+
+** Peixoto (2019) Bayesian Stochastic Blockmodeling **
+
+The book chapter by [Peixoto, Adv. Net. Clust. and Blockmod., 2019](https://doi.org/10.1002/9781119483298.ch11) 
+was presented by Felix S.
+
+
+The presentation can be found [here](/files/Guo_2017.pdf "Presentation Guo (2017)").
+
+Summary:
+- stochastic blockmodeling (SBM) for finding groups within networks 
+- number of clusters is obtained by minimizing the discription length
+- graph-tool library indcludes all described methods and tools in the paper
+- SBM can be generalized to weighted networks
+
+
 
 [Back to top](#journal-club)
