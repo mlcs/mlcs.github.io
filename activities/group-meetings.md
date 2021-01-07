@@ -40,7 +40,7 @@ temperature anomalies**
 + **22 January 2020**  
 **Sequential variational autoencoders for neural activity and
 behaviour**  
-[Auguste Schulz](https://uni-tuebingen.de/en/196982)
+[Auguste Schulz](https://uni-tuebingen.de/en/196982)  
 [Machine Learning in Science](https://uni-tuebingen.de/en/178236)
 + **29 January 2020**  
 **An Introduction to Digital Soil Mapping**  
