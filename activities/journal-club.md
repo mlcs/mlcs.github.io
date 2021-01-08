@@ -12,7 +12,7 @@ Currently our Journal Club takes place every Tuesday at 1 pm CEST. Since
 the beginning of November 2020, the club meets entirely online on Zoom:
 
 **Topic:** MLCS Journal Club  
-**Time:** Tuesdays, 1 pm CEST  
+**Time:** Tuesdays, 1 pm CET  
 **Join Zoom Meeting:** [Send email request](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***

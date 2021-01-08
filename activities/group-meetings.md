@@ -17,7 +17,7 @@ goes on till around 12 noon. Since the beginning of November 2020, the
 meetings are entirely on Zoom. 
 
 **Topic:** MLCS Group Meeting  
-**Time:** Fridays, 10 am CEST  
+**Time:** Fridays, 10 am CET  
 **Join Zoom Meeting:** [Send email](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
