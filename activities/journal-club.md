@@ -691,3 +691,10 @@ Summary:
 
 
 [Back to top](#journal-club)
+
+
+### 05.01.2020
+** Overview of *Normalizing Flows* ** 
+
+Normalizing flows were presented by Lea E.
+The presentation can be found [here](/files/Guo_2017.pdf "Presentation Guo (2017)").
