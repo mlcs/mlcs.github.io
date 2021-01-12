@@ -18,8 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **05 January 2021**  
-Overview of *Normalizing Flows* to be presented by Lea E.
 + **12 January 2021**  
 [Yan et al., Geo. Res. Lett., 2020](https://doi.org/10.1029/2020GL089476) to be 
 presented by Markus D.
@@ -48,8 +46,9 @@ presented by Bedartha G.
 [24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020) \
 [01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)\
 [08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020) \
-[15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomlies using SOMs](#15122020)
-
+[15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomalies using SOMs](#15122020)
+[22.12.2020 - Peixoto (2019) Bayesian Stochastic Blockmodeling](#22122020)
+[05.01.2021 - Literature review of Normalizing Flows](#05012021)
 
 ***
 
@@ -688,6 +687,10 @@ Summary:
 - graph-tool library indcludes all described methods and tools in the paper
 - SBM can be generalized to weighted networks
 
+
+### 05.01.2021
+
+An overview of *Normalizing Flows* was presented by Lea E.
 
 
 [Back to top](#journal-club)
