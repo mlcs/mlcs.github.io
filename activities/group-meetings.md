@@ -17,7 +17,7 @@ goes on till around 12 noon. Since the beginning of November 2020, the
 meetings are entirely on Zoom. 
 
 **Topic:** MLCS Group Meeting  
-**Time:** Fridays, 10 am CEST  
+**Time:** Fridays, 10 am CET  
 **Join Zoom Meeting:** [Send email](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
@@ -40,7 +40,7 @@ temperature anomalies**
 + **22 January 2020**  
 **Sequential variational autoencoders for neural activity and
 behaviour**  
-[Auguste Schulz](https://uni-tuebingen.de/en/196982)
+[Auguste Schulz](https://uni-tuebingen.de/en/196982)  
 [Machine Learning in Science](https://uni-tuebingen.de/en/178236)
 + **29 January 2020**  
 **An Introduction to Digital Soil Mapping**  

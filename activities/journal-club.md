@@ -12,20 +12,16 @@ Currently our Journal Club takes place every Tuesday at 1 pm CEST. Since
 the beginning of November 2020, the club meets entirely online on Zoom:
 
 **Topic:** MLCS Journal Club  
-**Time:** Tuesdays, 1 pm CEST  
+**Time:** Tuesdays, 1 pm CET  
 **Join Zoom Meeting:** [Send email request](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
 
 ## Upcoming
-+ **05 January 2021**  
-Overview of *Normalizing Flows* to be presented by Lea E.
-+ **12 January 2021**  
-[Yan et al., Geo. Res. Lett., 2020](https://doi.org/10.1029/2020GL089476) to be 
-presented by Markus D.
 + **19 January 2021**  
 [Johnson et al., Geosc. Model Dev., 2019](https://doi.org/10.5194/gmd-12-1087-2019) to be
-presented by Bedartha G.
+presented by Bedartha G.  
+
 ***
 
 ## Past meetings
@@ -48,9 +44,10 @@ presented by Bedartha G.
 [24.11.20 - Pante et al. (2020) Resolving Sahelian thunderstorms improves mid-latitude weather forecasts](#24112020) \
 [01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)\
 [08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020) \
-[15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomlies using SOMs](#15122020)
-
-
+[15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomalies using SOMs](#15122020) \
+[22.12.2020 - Peixoto (2019) Bayesian Stochastic Blockmodeling](#22122020) \
+[05.01.2021 - Literature review of Normalizing Flows](#05012021)
+[12.01.2021 - Yan et al. (2020) Exploring the ENSO Impact on Basin‐Scale Floods](#12012021)) 
 ***
 
 
@@ -689,12 +686,27 @@ Summary:
 - SBM can be generalized to weighted networks
 
 
+### 05.01.2021
+** Overview of *Normalizing Flows* ** 
+
+An overview of Normalizing flows were presented by Lea E.
 
 [Back to top](#journal-club)
 
+### 12.01.2021  
+** Yan et al. (2020) Exploring the ENSO Impact on Basin‐Scale Floods**
 
-### 05.01.2020
-** Overview of *Normalizing Flows* ** 
+The paper by [Yan et al., Geo. Res. Lett., 2020](https://doi.org/10.1029/2020GL089476) was 
+presented by Markus D.
 
-Normalizing flows were presented by Lea E.
-The presentation can be found [here](/files/Guo_2017.pdf "Presentation Guo (2017)").
+The presentation can be found [here](/files/Yan_2020.pdf "Presentation Yan (2020)").
+
+Discussion:
++ water runoff and precipitation are not directly correlated. Soil properties, temperature
+and other factors play an important role
++ Can we think of the monsoon as a symmetric phenomena? The south American monsoon region 
+show maximum flood intensity in Nov (at the beginning of the monsoon season) and maximum 
+flood frequency in March (at the end of the monsoon season)   
+
+
+[Back to top](#journal-club)
