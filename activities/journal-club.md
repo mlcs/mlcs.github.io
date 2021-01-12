@@ -23,7 +23,8 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 presented by Markus D.
 + **19 January 2021**  
 [Johnson et al., Geosc. Model Dev., 2019](https://doi.org/10.5194/gmd-12-1087-2019) to be
-presented by Bedartha G.
+presented by Bedartha G.  
+
 ***
 
 ## Past meetings
