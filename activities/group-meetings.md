@@ -24,14 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ _25 December 2020_  
-_Christmas_
-+ _1 January 2020_  
-_New Year_
-+ **8 January 2020**  
-**Analyzing the monsoon by networks of extreme rainfall events**  
-[Felix Strnad](https://mlcs.github.io/people/strnad/)  
-[Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
 + **15 January 2020**  
 **Disentangling the latent space representation of Pacific sea surface
 temperature anomalies**  
@@ -51,6 +43,14 @@ behaviour**
 
 ## Past Meetings
 
++ **8 January 2020**  
+**Analyzing the monsoon by networks of extreme rainfall events**  
+[Felix Strnad](https://mlcs.github.io/people/strnad/)  
+[Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
++ _1 January 2020_  
+_New Year_
++ _25 December 2020_  
+_Christmas_
 + **18 December 2020**  
 **Laplace Matching for generalized linear models**  
 [Marius Hobbhahn](http://www.mariushobbhahn.com/)  
