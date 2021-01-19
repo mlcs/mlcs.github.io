@@ -18,10 +18,16 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **19 January 2021**  
-[Johnson et al., Geosc. Model Dev., 2019](https://doi.org/10.5194/gmd-12-1087-2019) to be
-presented by Bedartha G.  
-
++ **26 January 2021**  
+Literature review to ENSO Diversity by Jakob S.
++ **02 February 2021**  
+Literature review on the Global monsoon by Felix S.
++ **09 February 2021**  
+Literature review on ITCZ prediction by Lea E.
++ **16 February 2021**  
+Literature review on river discharge in South America by Markus D.
++ **23 February 2021**  
+Literature review on reduced representations by Bedartha G.
 ***
 
 ## Past meetings
@@ -46,8 +52,10 @@ presented by Bedartha G.
 [08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020) \
 [15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomalies using SOMs](#15122020) \
 [22.12.2020 - Peixoto (2019) Bayesian Stochastic Blockmodeling](#22122020) \
-[05.01.2021 - Literature review of Normalizing Flows](#05012021)
-[12.01.2021 - Yan et al. (2020) Exploring the ENSO Impact on Basin‐Scale Floods](#12012021)) 
+[05.01.2021 - Literature review of Normalizing Flows](#05012021)\
+[12.01.2021 - Yan et al. (2020) Exploring the ENSO Impact on Basin‐Scale Floods](#12012021) \
+[19.01.2021 - Johnson et al. (2019) SEAS5: the new ECMWF seasonal forecast system](#19012021)
+
 ***
 
 
@@ -708,5 +716,25 @@ and other factors play an important role
 show maximum flood intensity in Nov (at the beginning of the monsoon season) and maximum 
 flood frequency in March (at the end of the monsoon season)   
 
+
+[Back to top](#journal-club)
+
+### 19.01.2021  
+** Johnson et al. (2019) SEAS5: the new ECMWF seasonal forecast system ** 
+
+The paper by [Johnson et al., Geosc. Model Dev., 2019](https://doi.org/10.5194/gmd-12-1087-2019)
+was presented by Bedartha G.  
+
+The presentation can be found [here](/files/Johnson_2019.pdf "Presentation Johnson (2019)").
+
+Discussion:
++ SEAS5 seem to focus on the ENSO improvement but leads to a poorer description 
+of the Indian Ocean in comparison to SEAS4
++ SEAS5 ensemble prediction of the NAO does not capture the varibility of NAO. This suggests 
+that SEAS5 poorly forecasts North America and Europe
++ SEAS5 does not capture extratropical variability well. Here, a comparison to the 
+Souther Hemisphere variability indices would have been nice.
++ In summary, SEAS5 does forecast the Tropics, specifically the ENSO fairly well but lacks
+forecasting Europe.
 
 [Back to top](#journal-club)
