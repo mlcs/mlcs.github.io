@@ -25,9 +25,9 @@ meetings are entirely on Zoom.
 ## Upcoming
 
 + **22 January 2020**  
-_Cancelled_
+**Cancelled**  
 _Sequential variational autoencoders for neural activity and
-behaviour_
+behaviour_  
 [_Auguste Schulz_](https://uni-tuebingen.de/en/196982)  
 [_Machine Learning in Science_](https://uni-tuebingen.de/en/178236)
 + **29 January 2020**  
