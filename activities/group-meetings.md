@@ -24,16 +24,11 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **15 January 2020**  
-**Disentangling the latent space representation of Pacific sea surface
-temperature anomalies**  
-[Jakob Schlör](https://mlcs.github.io/people/schloer/)  
-[Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
 + **22 January 2020**  
-**Sequential variational autoencoders for neural activity and
-behaviour**  
-[Auguste Schulz](https://uni-tuebingen.de/en/196982)  
-[Machine Learning in Science](https://uni-tuebingen.de/en/178236)
+~Sequential variational autoencoders for neural activity and
+behaviour~
+[~Auguste Schulz~](https://uni-tuebingen.de/en/196982)  
+[~Machine Learning in Science~](https://uni-tuebingen.de/en/178236)
 + **29 January 2020**  
 **An Introduction to Digital Soil Mapping**  
 [Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
@@ -43,6 +38,11 @@ behaviour**
 
 ## Past Meetings
 
++ **15 January 2020**  
+**Disentangling the latent space representation of Pacific sea surface
+temperature anomalies**  
+[Jakob Schlör](https://mlcs.github.io/people/schloer/)  
+[Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
 + **8 January 2020**  
 **Analyzing the monsoon by networks of extreme rainfall events**  
 [Felix Strnad](https://mlcs.github.io/people/strnad/)  
