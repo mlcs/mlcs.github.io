@@ -24,12 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **22 January 2020**  
-**Cancelled**  
-_Sequential variational autoencoders for neural activity and
-behaviour_  
-[_Auguste Schulz_](https://uni-tuebingen.de/en/196982)  
-[_Machine Learning in Science_](https://uni-tuebingen.de/en/178236)
 + **29 January 2020**  
 **An Introduction to Digital Soil Mapping**  
 [Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
@@ -39,6 +33,10 @@ behaviour_
 
 ## Past Meetings
 
++ **22 January 2020**  
+**How Artificial Intelligence could help mitigate climate change**  
+[Online Public Lecture](https://youtu.be/HEw3xhTMnp0)  
+[Climate Change AI](https://www.climatechange.ai/)
 + **15 January 2020**  
 **Disentangling the latent space representation of Pacific sea surface
 temperature anomalies**  
