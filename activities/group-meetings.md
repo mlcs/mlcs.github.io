@@ -24,29 +24,44 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **29 January 2020**  
++ **29 January 2021**  
 **An Introduction to Digital Soil Mapping**  
 [Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
 [Department of Soil Science and Geomorphology](https://uni-tuebingen.de/en/104517)
++ **5 February 2021**  
+**TBA**  
+[Markus Deppner](https://machineclimate.de/people/deppner/)  
+[Machine Learning in Climate Science](https://machineclimate.de/)
++ **12 February 2021**  
+**TBA**
++ **19 February 2021**  
+**Constraining ice shelf basalt melt rates from isochrone data**  
+[Vjeran
+Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)  
+[Glaciology and Geophysics Group](https://uni-tuebingen.de/en/147612)
++ **26 February 2021**  
+**TBA**  
+[Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
+[Machine Learning in Climate Science](https://machineclimate.de/)
 
 ***
 
 ## Past Meetings
 
-+ **22 January 2020**  
++ **22 January 2021**  
 **How Artificial Intelligence could help mitigate climate change**  
 [Online Public Lecture](https://youtu.be/HEw3xhTMnp0)  
 [Climate Change AI](https://www.climatechange.ai/)
-+ **15 January 2020**  
++ **15 January 2021**  
 **Disentangling the latent space representation of Pacific sea surface
 temperature anomalies**  
 [Jakob Schlör](https://mlcs.github.io/people/schloer/)  
 [Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
-+ **8 January 2020**  
++ **8 January 2021**  
 **Analyzing the monsoon by networks of extreme rainfall events**  
 [Felix Strnad](https://mlcs.github.io/people/strnad/)  
 [Machine Learning in Climate Science](https://mlcs.github.io/about-mlcs/)
-+ _1 January 2020_  
++ _1 January 2021_  
 _New Year_
 + _25 December 2020_  
 _Christmas_
