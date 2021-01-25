@@ -27,7 +27,8 @@ Literature review on ITCZ prediction by Lea E.
 + **16 February 2021**  
 Literature review on river discharge in South America by Markus D.
 + **23 February 2021**  
-Literature review on reduced representations by Bedartha G.
+Literature review on reduced representations by Bedartha G.  
+
 ***
 
 ## Past meetings
