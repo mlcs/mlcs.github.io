@@ -20,7 +20,9 @@ description: Independent research group at the University of Tübingen
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about-mlcs"
+  About:
+      - About the Group: "/about/about-mlcs"
+      - Environment: "/about/environment"
   People:
       - Bedartha Goswami: "/people/goswami"
       - Felix Strnad: "/people/strnad"
@@ -34,12 +36,6 @@ navbar-links:
   Activities:
       - Journal Club: "/activities/journal-club"
       - Group Meetings: "/activities/group-meetings"
-  Resources:
-      - Cluster of Excellence Machine Learning: "https://www.ml-in-science.uni-tuebingen.de"
-      - University of Tübingen: "https://uni-tuebingen.de"
-      - Department of Geosciences: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/"
-      - Department of Computer Science: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/"
-      - IMPRS-IS: "https://imprs.is.mpg.de/"  
   Work With Us: "work-with-us"
 
 
