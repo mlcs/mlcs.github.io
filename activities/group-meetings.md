@@ -46,7 +46,7 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 + **5 March 2021**  
 **At the intersection of climate science, machine learning and Earth system dynamics**  
 [Sebastian Mutz](http://mutz.science/)  
-[Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/164926)  
+[Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
 
 ***
 
