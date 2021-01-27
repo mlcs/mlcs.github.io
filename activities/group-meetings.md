@@ -43,6 +43,10 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 **TBA**  
 [Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
 [Machine Learning in Climate Science](https://machineclimate.de/)
++ **5 March 2021**  
+**At the intersection of climate science, machine learning and Earth system dynamics**  
+[Sebastian Mutz](http://mutz.science/)  
+[Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/164926)  
 
 ***
 
