@@ -13,4 +13,5 @@ connected to:
 - [University of Tübingen](https://uni-tuebingen.de)
 - [Department of Geosciences](https://uni-tuebingen.de/en/82353)
 - [Department of Computer Science](https://uni-tuebingen.de/en/13825)
-- IMPRS-IS: "https://imprs.is.mpg.de/"
+- [International Max Planck Research School - Intelligent Systems
+    (IMPRS-IS)](https://imprs.is.mpg.de/)
