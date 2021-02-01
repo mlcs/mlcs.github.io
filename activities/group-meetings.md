@@ -38,7 +38,7 @@ meetings are entirely on Zoom.
 Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)  
 [Glaciology and Geophysics Group](https://uni-tuebingen.de/en/147612)
 + **26 February 2021**  
-**TBA**  
+**Variations of wind convergence in context of ITCZ**  
 [Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
 [Machine Learning in Climate Science](https://machineclimate.de/)
 + **5 March 2021**  
