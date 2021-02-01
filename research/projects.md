@@ -8,6 +8,16 @@ use-site-title: false
 
 ***
 
+We currently have two doctoral projects and a third one that will start
+in Fall of 2021. Additionally, we have a couple of undergrad projects
+and a third one set to start in spring. Below we provide brief summaries
+of these projects going on the group.
+
+[Doctoral Projects](#doctoral-projects)  
+[Undergrad projects](#undergrad-projects)  
+
+***
+
 ## Doctoral projects
 
 ### Predicting Sea Surface Temperature Patterns in the Pacific Ocean
@@ -77,4 +87,4 @@ a possible solution for the problems of scattered data and in situ
 stations temporarily fading in and out, which makes large-scale
 hydrological research challenging.
 
-![DISCH-SA](/img/discharge_stations_southamerica.png){: style="float: right"}
+![DISCH-SA](/img/discharge_stations_southamerica.png){: .center-block :}
