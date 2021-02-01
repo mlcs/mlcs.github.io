@@ -24,16 +24,14 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **29 January 2021**  
-**An Introduction to Digital Soil Mapping**  
-[Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
-[Department of Soil Science and Geomorphology](https://uni-tuebingen.de/en/104517)
 + **5 February 2021**  
-**TBA**  
+**Impact of strong El Niño events on river discharge in South America**  
 [Markus Deppner](https://machineclimate.de/people/deppner/)  
 [Machine Learning in Climate Science](https://machineclimate.de/)
 + **12 February 2021**  
-**TBA**
+**A brief introduction to recurrence plot based analysis**
+[Bedartha Goswami](https://machineclimate.de/people/goswami/)  
+[Machine Learning in Climate Science](https://machineclimate.de/)
 + **19 February 2021**  
 **Constraining ice shelf basalt melt rates from isochrone data**  
 [Vjeran
@@ -52,6 +50,10 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 
 ## Past Meetings
 
++ **29 January 2021**  
+**An Introduction to Digital Soil Mapping**  
+[Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
+[Department of Soil Science and Geomorphology](https://uni-tuebingen.de/en/104517)
 + **22 January 2021**  
 **How Artificial Intelligence could help mitigate climate change**  
 [Online Public Lecture](https://youtu.be/HEw3xhTMnp0)  
