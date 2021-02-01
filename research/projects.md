@@ -76,3 +76,5 @@ stations with missing values to others with data. This approach provides
 a possible solution for the problems of scattered data and in situ
 stations temporarily fading in and out, which makes large-scale
 hydrological research challenging.
+
+![DISCH-SA](/img/discharge_stations_southamerica.png){: style="float: right"}
