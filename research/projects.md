@@ -21,7 +21,7 @@ of these projects going on the group.
 ## Doctoral projects
 
 ### Predicting Sea Surface Temperature Patterns in the Pacific Ocean
-#### Jakob Schlör
+#### [Jakob Schlör](https://machineclimate.de/people/schloer/)
 
 The most dominant mode of oceanic climate variability on an interdecadel
 scale is the El Niño Southern Oscillation (ENSO). ENSO events are
@@ -43,7 +43,7 @@ be able to provide local SST forecasts from a global perspective.
 
 
 ### Analyzing the Global Monsoon System
-#### Felix Strnad
+#### [Felix Strnad](https://machineclimate.de/people/strnad/)
 
 Analyzing rainfall events reveals areas on every continent that reveal
 similar behaviour: Heavy rainfalls during metereological summer and
@@ -70,7 +70,7 @@ of the consequences of global climate change to the monsoon system.
 ## Undergrad Projects
 
 ### Impact of strong El Niño events on river discharge in South America 
-#### Markus Deppner (Bachelor's Thesis)
+#### [Markus Deppner](https://machineclimate.de/people/deppner/) (Bachelor's Thesis)
 
 The El Niño Southern Oscillation (ENSO) is one of the most influential
 climate patterns in terms of climate variability around the globe and
