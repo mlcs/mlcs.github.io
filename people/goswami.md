@@ -13,11 +13,10 @@ Maria-von-Linden-Str. 6
 [+49 7071 2970894](tel:+4970712970894)  
 [bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de)  
 [PGP Public Key](/files/goswami_pgp_publickey.asc){:target="_blank"}  
-[CV](/files/goswami_cv_jan2021.pdf){:target="_blank"}
-
-[Github](https://github.com/bedartha)
-[Twitter](https://twitter.com/bedartha)
-[Orcid](http://orcid.org/0000-0002-2302-166X)
+[CV](/files/goswami_cv_jan2021.pdf){:target="_blank"}  
+[Github](https://github.com/bedartha){:target="_blank"}
+[Twitter](https://twitter.com/bedartha){:target="_blank"}
+[Orcid](http://orcid.org/0000-0002-2302-166X){:target="_blank"}
 
 
 ## Research Interests
