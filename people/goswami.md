@@ -12,7 +12,7 @@ Maria-von-Linden-Str. 6
 72076 Tübingen  
 [+49 7071 2970894](tel:+4970712970894)  
 [bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de)  
-[PGP Public Key](/files/goswami_pgp_publickey.asc){:target="_blank"}
+[PGP Public Key](/files/goswami_pgp_publickey.asc){:target="_blank"}  
 [CV](/files/goswami_cv_jan2021.pdf){:target="_blank"}
 
 [Github](https://github.com/bedartha)
@@ -21,6 +21,28 @@ Maria-von-Linden-Str. 6
 
 
 ## Research Interests
+
+I try to address relevant methodological questions in climate data
+analysis with tools and techniques that are available from classical
+statistics, machine learning, nonlinear time series analysis, and
+complex networks. The data are diverse and heterogeneous, arising from
+re-analysis, satellite radars, meteorological and hydrological station
+networks and paleoclimate proxy archives. Each data set has its own
+peculiarities and challenges, and in my experience, more often than not,
+we cannot apply existing methods 'out-of-the-box' to find the answers we
+wish to have. Rather, we have to adapt and extend the state-of-the-art
+methodologies to arrive at reliable inferences.
+
+I have worked on [abrupt transitions in climatic
+systems](http://doi.org/10.1038/s41467-017-02456-6){:target="_blank"}
+and how [uncertainties impact our inferences on paleoclimate
+variability](https://doi.org/10.5194/npg-21-1093-2014){:target="_blank"}.
+Additionally, I have tried to unravel the [interactions between climatic
+systems governing global
+temperature](https://doi.org/10.1140/epjst/e2013-01889-8){:target="_blank"}
+and how [unsupervised learning can help us identify long-range
+interactions between oceans and
+rainfall](https://doi.org/10.1007/978-3-319-17220-0_3).
 
 + Climate data analysis (from reanalysis, satellites, meteorological and
     hydrological station networks, and paleoclimate proxy archives)
@@ -201,7 +223,7 @@ Maria-von-Linden-Str. 6
     _Scientific Reports_
     **5**
     (2015) 18183.  
-    [doi:10.1038/srep18183](https://doi.org/10.1038/srep18183)
+    [doi:10.1038/srep18183](https://doi.org/10.1038/srep18183)]
 
 + S. Dey, **B. Goswami**, A. Joshi,
     A possible mechanism for the attainment of out-of-phase periodic
@@ -244,7 +266,7 @@ Maria-von-Linden-Str. 6
     [doi:10.1140/epjst/e2013-01889-8](https://doi.org/10.1140/epjst/e2013-01889-8)
 
 ### 2012
-
+)
 + S. F. M. Breitenbach, K. Rehfeld, **B. Goswami**, J. U. L. Baldini, H.
     E. Ridley, D. J. Kennett, K. M. Prufer, V. V. Aquino, Y. Asmerom, V.
     J. Polyak, H. Cheng, J. Kurths, N. Marwan,
