@@ -30,8 +30,8 @@ radars, meteorological and hydrological station networks and
 paleoclimate proxy archives. Each data set has its own peculiarities and
 challenges, and in my experience, more often than not, we cannot apply
 existing methods 'out-of-the-box' to find the answers we wish to have.
-Rather, we have to adapt and extend the state-of-the-art methodologies
-to arrive at reliable results.
+Rather, we have to adapt and extend the state-of-the-art to arrive at
+reliable results.
 
 I have worked on [abrupt transitions in climatic
 systems](http://doi.org/10.1038/s41467-017-02456-6){:target="_blank"}
@@ -51,20 +51,20 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 
 To summarize, my work deals with
 + Climate data analysis (from reanalysis, satellites, meteorological and
-    hydrological station networks, and paleoclimate proxy archives)
+  hydrological station networks, and paleoclimate proxy archives)
 + Interactions between climatic systems
 + Abrupt transitions in climatic systems
 + Trend changes and distributional changes in climatic records
 + Nonlinear data analysis (complex networks, recurrence plots,
-    uncertainties)
+  uncertainties)
 + Statistical inference (inferring structure from noise, detecting
-    hidden structure in data)
+  hidden structure in data)
 + Unsupervised learning (data clustering, stochastic block models)
 
 ## Press
 
-+ Our 2020
-  [paper](https://doi.org/10.1126/sciadv.aba8164){:target="_blank"} on
++ [Our 2020
+  paper](https://doi.org/10.1126/sciadv.aba8164){:target="_blank"} on
   how large volcanic eruptions modulate the coupling between the El Niño
   Southern Oscillation and the Indian Monsoon was taken up by various
   news sources such as
@@ -72,8 +72,8 @@ To summarize, my work deals with
   in India, and
   [Scienmag](https://www.eurekalert.org/pub_releases/2020-09/pifc-imc091620.php){:target="_blank"}
   in the US.
-+ Our 2019
-  [paper](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"}
++ [Our 2019
+  paper](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"}
   on how complex networks can be used to study long-range connections
   between extreme rainfall was picked up by [FOCUS
   Online](https://www.focus.de/wissen/natur/starkregen-fernverbindung-ueber-kontinente-hinweg_id_10274720.html){:target="_blank"},
