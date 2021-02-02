@@ -37,8 +37,8 @@ I have worked on [abrupt transitions in climatic
 systems](http://doi.org/10.1038/s41467-017-02456-6){:target="_blank"}
 and how [uncertainties impact our inferences on paleoclimate
 variability](https://doi.org/10.5194/npg-21-1093-2014){:target="_blank"}.
-Additionally, I have also tried to unravel the [interactions between
-climatic systems governing global
+I have also tried to unravel the [interactions between climatic systems
+governing global
 temperature](https://doi.org/10.1140/epjst/e2013-01889-8){:target="_blank"}
 and how [unsupervised learning can help us identify long-range
 interactions between oceans and
@@ -47,13 +47,12 @@ Part of my work also deals with [climate
 networks](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"},
 along with [recurrence
 plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
-[extreme events](https://doi.org/10.5194/npg-2020-41){:target="_blank"}.  
+[extreme events](https://doi.org/10.5194/npg-2020-41){:target="_blank"}.
 To summarize, my work deals with
 + Climate data analysis (from reanalysis, satellites, meteorological and
   hydrological station networks, and paleoclimate proxy archives)
-+ Interactions between climatic systems
-+ Abrupt transitions in climatic systems
-+ Trend changes and distributional changes in climatic records
++ Interactions between climatic systems Abrupt transitions in climatic
++ systems Trend changes and distributional changes in climatic records
 + Nonlinear data analysis (complex networks, recurrence plots,
   uncertainties)
 + Statistical inference (inferring structure from noise, detecting
