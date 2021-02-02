@@ -49,8 +49,8 @@ along with [recurrence
 plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 [extreme events](https://doi.org/10.5194/npg-2020-41){:target="_blank"}.
 
-To summarize, my work deals with:
-    + Climate data analysis (from reanalysis, satellites, meteorological and
+To summarize, my work deals with:  
++ Climate data analysis (from reanalysis, satellites, meteorological and
       hydrological station networks, and paleoclimate proxy archives)
 + Interactions between climatic systems Abrupt transitions in climatic
 + systems Trend changes and distributional changes in climatic records
