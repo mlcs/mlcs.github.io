@@ -49,7 +49,7 @@ along with [recurrence
 plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 [extreme events](https://doi.org/10.5194/npg-2020-41){:target="_blank"}.
 
-To summarize, my work deals with:
+To summarize, my work deals with
 + Climate data analysis (from reanalysis, satellites, meteorological and
     hydrological station networks, and paleoclimate proxy archives)
 + Interactions between climatic systems
@@ -68,11 +68,10 @@ To summarize, my work deals with:
   how large volcanic eruptions modulate the coupling between the El Niño
   Southern Oscillation and the Indian Monsoon was taken up by various
   news sources such as
-  [Firstpot](https://www.firstpost.com/tech/science/volcanic-eruptions-may-help-better-predict-indian-monsoons-claims-indo-german-research-team-9061621.html){:target="_blank"}
+  [Firstpost](https://www.firstpost.com/tech/science/volcanic-eruptions-may-help-better-predict-indian-monsoons-claims-indo-german-research-team-9061621.html){:target="_blank"}
   in India, and
   [Scienmag](https://www.eurekalert.org/pub_releases/2020-09/pifc-imc091620.php){:target="_blank"}
   in the US.
-
 + Our 2019
   [paper](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"}
   on how complex networks can be used to study long-range connections
