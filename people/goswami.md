@@ -6,7 +6,6 @@ subtitle: Research Group Leader
 ![BG-ProfilePic](/img/bg_profile_pic.png){: .center-block :}
 
 ## Contact
-
 Cluster of Excellence "Machine Learning"  
 Maria-von-Linden-Str. 6  
 72076 Tübingen  
@@ -20,7 +19,6 @@ Maria-von-Linden-Str. 6
 
 
 ## Research Interests
-
 I try to address relevant methodological questions in climate data
 analysis with tools and techniques from classical statistics, machine
 learning, nonlinear time series analysis, and complex networks. The data
@@ -59,8 +57,8 @@ To summarize, my work deals with:
   hidden structure in data)
 + Unsupervised learning (data clustering, stochastic block models)
 
-## Press
 
+## Press
 + [Our 2020
   paper](https://doi.org/10.1126/sciadv.aba8164){:target="_blank"} on
   how large volcanic eruptions modulate the coupling between the El Niño
@@ -86,12 +84,10 @@ To summarize, my work deals with:
 
 
 ## Publications
-
 [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
 [2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012)
 
 ### 2020
-
 + A. Banerjee, **B. Goswami**, Y. Hirata, D. Eroglu, B. Merz, J. Kurths, &
     N. Marwan,
     Recurrence analysis of extreme event like data,
@@ -120,7 +116,6 @@ To summarize, my work deals with:
     [doi.org/10.1002/esp.5004](https://doi.org/10.1002/esp.5004)
 
 ### 2019
-
 + **B. Goswami**,
     A Brief Introduction to Nonlinear Time Series Analysis and Recurrence Plots,
     _Vibration_
@@ -157,7 +152,6 @@ To summarize, my work deals with:
     [doi:10.1038/s41586-018-0872-x](https://doi.org/10.1038/s41586-018-0872-x)
 
 ### 2018
-
 + **B. Goswami**, N. Boers, A. Rheinwalt, N. Marwan, J. Heitzig, S. F. M. 
     Breitenbach, J. Kurths,
     Abrupt transitions in time series with uncertainties,
@@ -167,7 +161,6 @@ To summarize, my work deals with:
     [doi:10.1038/s41467-017-02456-6](http://doi.org/10.1038/s41467-017-02456-6)
 
 ### 2017
-
 + **B. Goswami**, P. Schultz, B. Heinze, N. Marwan, B. Bodirsky, H.
     Lotze-Campen, J. Kurths,
     Inferring interdependencies from short time series,
@@ -213,7 +206,6 @@ To summarize, my work deals with:
     [doi:10.1038/srep45809](https://doi.org/10.1038/srep45809)
 
 ### 2016
-
 + F. A. Lechleitner, J. U. L. Baldini, S. F. M. Breitenbach, J.
     Fohlmeister, C. McIntyre, **B. Goswami**, R. A. Jamieson, T. S. van
     der Voort, K. Prufer, N. Marwan, B. J.Culleton, D. J. Kennett, Y.
@@ -235,7 +227,6 @@ To summarize, my work deals with:
     [doi:10.1002/2016GL070692](https://doi.org/10.1002/2016GL070692)
 
 ### 2015
-
 + A. Rheinwalt, **B. Goswami**, N. Boers, J. Heitzig, N. Marwan, R.
     Krishnan and J. Kurths,
     "Teleconnections in Climate Networks: A Network of Networks Approach
@@ -265,7 +256,6 @@ To summarize, my work deals with:
     [doi:10.1016/j.jtbi.2014.11.028](https://doi.org/10.1016/j.jtbi.2014.11.028)
 
 ### 2014
-
 + **B. Goswami**, J. Heitzig, K. Rehfeld, N. Marwan, A. Ambili, S. Prasad, J. Kurths,
     Estimation of sedimentary proxy records together with associated uncertainty,
     _Nonlinear Processes in Geophysics_
@@ -284,7 +274,6 @@ To summarize, my work deals with:
     [doi:10.1016/j.jtbi.2013.12.005](https://doi.org10.1016/j.jtbi.2013.12.005)
 
 ### 2013
-
 + **B. Goswami**, N. Marwan, G. Feulner, J. Kurths,
     How do global temperature drivers influence each other? A network
     perspective using recurrences,
@@ -295,7 +284,6 @@ To summarize, my work deals with:
     [doi:10.1140/epjst/e2013-01889-8](https://doi.org/10.1140/epjst/e2013-01889-8)
 
 ### 2012
-)
 + S. F. M. Breitenbach, K. Rehfeld, **B. Goswami**, J. U. L. Baldini, H.
     E. Ridley, D. J. Kennett, K. M. Prufer, V. V. Aquino, Y. Asmerom, V.
     J. Polyak, H. Cheng, J. Kurths, N. Marwan,
