@@ -23,27 +23,33 @@ Maria-von-Linden-Str. 6
 ## Research Interests
 
 I try to address relevant methodological questions in climate data
-analysis with tools and techniques that are available from classical
-statistics, machine learning, nonlinear time series analysis, and
-complex networks. The data are diverse and heterogeneous, arising from
-re-analysis, satellite radars, meteorological and hydrological station
-networks and paleoclimate proxy archives. Each data set has its own
-peculiarities and challenges, and in my experience, more often than not,
-we cannot apply existing methods 'out-of-the-box' to find the answers we
-wish to have. Rather, we have to adapt and extend the state-of-the-art
-methodologies to arrive at reliable inferences.
+analysis with tools and techniques from classical statistics, machine
+learning, nonlinear time series analysis, and complex networks. The data
+are diverse and heterogeneous, arising from re-analysis, satellite
+radars, meteorological and hydrological station networks and
+paleoclimate proxy archives. Each data set has its own peculiarities and
+challenges, and in my experience, more often than not, we cannot apply
+existing methods 'out-of-the-box' to find the answers we wish to have.
+Rather, we have to adapt and extend the state-of-the-art methodologies
+to arrive at reliable results.
 
 I have worked on [abrupt transitions in climatic
 systems](http://doi.org/10.1038/s41467-017-02456-6){:target="_blank"}
 and how [uncertainties impact our inferences on paleoclimate
 variability](https://doi.org/10.5194/npg-21-1093-2014){:target="_blank"}.
-Additionally, I have tried to unravel the [interactions between climatic
-systems governing global
+Additionally, I have also tried to unravel the [interactions between
+climatic systems governing global
 temperature](https://doi.org/10.1140/epjst/e2013-01889-8){:target="_blank"}
 and how [unsupervised learning can help us identify long-range
 interactions between oceans and
-rainfall](https://doi.org/10.1007/978-3-319-17220-0_3).
+rainfall](https://doi.org/10.1007/978-3-319-17220-0_3){:target="_blank"}.
+Part of my work also deals with [climate
+networks](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"},
+along with [recurrence
+plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
+[extreme events](https://doi.org/10.5194/npg-2020-41){:target="_blank"}.
 
+To summarize, my work deals with:
 + Climate data analysis (from reanalysis, satellites, meteorological and
     hydrological station networks, and paleoclimate proxy archives)
 + Interactions between climatic systems
@@ -54,6 +60,32 @@ rainfall](https://doi.org/10.1007/978-3-319-17220-0_3).
 + Statistical inference (inferring structure from noise, detecting
     hidden structure in data)
 + Unsupervised learning (data clustering, stochastic block models)
+
+## Press
+
++ Our 2020
+  [paper](https://doi.org/10.1126/sciadv.aba8164){:target="_blank"} on
+  how large volcanic eruptions modulate the coupling between the El Niño
+  Southern Oscillation and the Indian Monsoon was taken up by various
+  news sources such as
+  [Firstpot](https://www.firstpost.com/tech/science/volcanic-eruptions-may-help-better-predict-indian-monsoons-claims-indo-german-research-team-9061621.html){:target="_blank"}
+  in India, and
+  [Scienmag](https://www.eurekalert.org/pub_releases/2020-09/pifc-imc091620.php){:target="_blank"}
+  in the US.
+
++ Our 2019
+  [paper](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"}
+  on how complex networks can be used to study long-range connections
+  between extreme rainfall was picked up by [FOCUS
+  Online](https://www.focus.de/wissen/natur/starkregen-fernverbindung-ueber-kontinente-hinweg_id_10274720.html){:target="_blank"},
+  [The
+  Journal](https://www.thejournal.ie/forecasts-extreme-rainfall-study-4464439-Feb2019/){:target="_blank"},
+  [le
+  Scienze](https://www.lescienze.it/news/2019/02/01/news/precipitazioni_estreme_modello_globale_connessione_eventi-4277177/){:target="_blank"},
+  [Physics
+  World](https://physicsworld.com/a/extreme-rainfall-events-can-be-correlated-over-thousands-of-kilometres-study-reveals/){:target="_blank"},
+  and
+  [EurekAlert!](https://www.eurekalert.org/pub_releases/2019-01/pifc-rea013119.php){:target="_blank"}.
 
 
 ## Publications
