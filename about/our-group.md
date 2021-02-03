@@ -41,4 +41,17 @@ located on the 4th floor of the [AI Research
 Building](https://www.openstreetmap.org/way/601132358){:target="_blank"}
 at Maria-von-Linden-Str. 6.
 
+### Team
 
++ [Bedartha Goswami](https://machineclimate.de/people/goswami/) (Group
+    Leader)
++ [Felix Strnad](https://machineclimate.de/people/strnad/) (Doctoral
+    student)
++ [Jakob Schlör](https://machineclimate.de/people/schloer/) (Doctoral
+    Student)
++ [Elena Sizana](https://machineclimate.de/people/sizana/)
+    (Administrative Assistant)
++ [Lea Elsemüller](https://machineclimate.de/people/elsemueller/)
+    (Master's Student)
++ [Markus Deppner](https://machineclimate.de/people/deppner/)
+    (Bachelor's Student)

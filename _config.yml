@@ -21,8 +21,8 @@ description: Independent research group at the University of Tübingen
 # List of links in the navigation bar
 navbar-links:
   About:
-      - Our Group: "/about/about-mlcs"
-      - Our Environment: "/about/environment"
+      - Our Group: "/about/our-group"
+      - Around Us: "/about/around-us"
   People:
       - Bedartha Goswami: "/people/goswami"
       - Felix Strnad: "/people/strnad"
