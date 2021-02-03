@@ -19,16 +19,16 @@ Maria-von-Linden-Str. 6
 
 
 ## Research Interests
-I try to address relevant methodological questions in climate data
-analysis with tools and techniques from classical statistics, machine
-learning, nonlinear time series analysis, and complex networks. The data
-are diverse and heterogeneous, arising from re-analysis, satellite
-radars, meteorological and hydrological station networks and
-paleoclimate proxy archives. Each data set has its own peculiarities and
-challenges, and in my experience, more often than not, we cannot apply
-existing methods 'out-of-the-box' to find the answers we wish to have.
-Rather, we have to adapt and extend the state-of-the-art to arrive at
-reliable results.
+I try to address relevant methodological questions in paleoclimate and
+climate data analysis with tools and techniques from classical
+statistics, machine learning, nonlinear time series analysis, and
+complex networks. The data are diverse and heterogeneous, arising from
+re-analysis, satellite radars, meteorological and hydrological station
+networks and paleoclimate proxy archives. Each data set has its own
+peculiarities and challenges, and in my experience, more often than not,
+we cannot apply existing methods 'out-of-the-box' to find the answers we
+wish to have.  Rather, we have to adapt and extend the state-of-the-art
+to arrive at reliable results.
 
 I have worked on [abrupt transitions in climatic
 systems](http://doi.org/10.1038/s41467-017-02456-6){:target="_blank"}
