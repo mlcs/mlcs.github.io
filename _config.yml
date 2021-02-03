@@ -20,7 +20,7 @@ description: Independent research group at the University of Tübingen
 
 # List of links in the navigation bar
 navbar-links:
-  About: "/about/about-mlcs"
+  About:
       - Our Group: "/about/about-mlcs"
       - Our Environment: "/about/environment"
   People:
