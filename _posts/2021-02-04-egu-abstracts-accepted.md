@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven abstracts accepted to EGU21
-subtitle: -
+subtitle:
 bigimg: /img/vegu21_banner.jpg
 tags: [mlcs, conferences, egu]
 ---
