@@ -2,7 +2,7 @@
 layout: post
 title: IUCliD Workshop on Uncertainties
 subtitle: Bedartha Goswami
-bigimg: /img/vegu21_banner.jpg
+bigimg: /img/20201002_iuclid_workshop_potsdam.jpg
 tags: [mlcs, workshop, uncertainties]
 ---
 
