@@ -42,7 +42,7 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 [Sebastian Mutz](http://mutz.science/)  
 [Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
 + **12 March 2021, 16:00 CET (!)**  
-**TBA**  
+**Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
 [Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
 [IITM Pune](https://www.tropmet.res.in/index.php)  
 + **19 March 2021**  
