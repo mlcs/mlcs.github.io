@@ -24,10 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **5 February 2021**  
-**Impact of strong El Niño events on river discharge in South America**  
-[Markus Deppner](https://machineclimate.de/people/deppner/)  
-[Machine Learning in Climate Science](https://machineclimate.de/)
 + **12 February 2021**  
 **A brief introduction to recurrence plot based analysis**  
 [Bedartha Goswami](https://machineclimate.de/people/goswami/)  
@@ -45,11 +41,19 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 **At the intersection of climate science, machine learning and Earth system dynamics**  
 [Sebastian Mutz](http://mutz.science/)  
 [Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
++ **12 March 2021, 16:00 CET (!)**  
+**TBA**  
+[Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
+[IITM Pune](https://www.tropmet.res.in/index.php)  
 
 ***
 
 ## Past Meetings
 
++ **5 February 2021**  
+**Impact of strong El Niño events on river discharge in South America**  
+[Markus Deppner](https://machineclimate.de/people/deppner/)  
+[Machine Learning in Climate Science](https://machineclimate.de/)
 + **29 January 2021**  
 **An Introduction to Digital Soil Mapping**  
 [Ruhollah Taghizadeh-Mehrjardi](https://uni-tuebingen.de/en/113420)  
