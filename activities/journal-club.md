@@ -18,12 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **26 January 2021**  
-Literature review to ENSO Diversity by Jakob S.
-+ **02 February 2021**  
-Literature review on the Global monsoon by Felix S.
-+ **09 February 2021**  
-Literature review on ITCZ prediction by Lea E.
 + **16 February 2021**  
 Literature review on river discharge in South America by Markus D.
 + **23 February 2021**  
@@ -52,10 +46,14 @@ Literature review on reduced representations by Bedartha G.
 [01.12.20 - Yang et al. (2019) Compensatory climate effects link trends in global runoff to rising atmospheric CO concentration](#01122020)\
 [08.12.20 - Hegerl et al. (2019) Causes of climate change over the historical record](#08122020) \
 [15.12.20 - Guo et al. (2017) Identify distinct Patterns of Tropical Pacific SST Anomalies using SOMs](#15122020) \
-[22.12.2020 - Peixoto (2019) Bayesian Stochastic Blockmodeling](#22122020) \
-[05.01.2021 - Literature review of Normalizing Flows](#05012021)\
-[12.01.2021 - Yan et al. (2020) Exploring the ENSO Impact on Basin‐Scale Floods](#12012021) \
-[19.01.2021 - Johnson et al. (2019) SEAS5: the new ECMWF seasonal forecast system](#19012021)
+[22.12.20 - Peixoto (2019) Bayesian Stochastic Blockmodeling](#22122020) \
+[05.01.21 - Literature review of Normalizing Flows](#05012021)\
+[12.01.21 - Yan et al. (2020) Exploring the ENSO Impact on Basin‐Scale Floods](#12012021) \
+[19.01.21 - Johnson et al. (2019) SEAS5: the new ECMWF seasonal forecast system](#19012021)\
+[26.01.21 - Literature review on ENSO Diversity](#26012021)\
+[02.02.21 - Literature review on Global monsoon](#02022021)\
+[09.02.21 - Literature review on ITCZ prediction](#02092021)
+
 
 ***
 
@@ -737,5 +735,26 @@ that SEAS5 poorly forecasts North America and Europe
 Souther Hemisphere variability indices would have been nice.
 + In summary, SEAS5 does forecast the Tropics, specifically the ENSO fairly well but lacks
 forecasting Europe.
+
+[Back to top](#journal-club)
+
+### 26.01.2021
+**Literature review to ENSO Diversity**
+
+Review was presented by Jakob S.
+
+[Back to top](#journal-club)
+
+### 02.02.2021  
+**Literature review on the Global monsoon**
+
+Review was presented by Felix S.
+
+[Back to top](#journal-club)
+
+### 09.02.2021  
+**Literature review on ITCZ prediction** 
+
+Review was presented by Lea E.
 
 [Back to top](#journal-club)
