@@ -45,6 +45,14 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 **TBA**  
 [Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
 [IITM Pune](https://www.tropmet.res.in/index.php)  
++ **19 March 2021**  
+**TBA**  
++ **26 March 2021**  
+**TBA**  
++ **2 April 2021, 16:00 CET (!)**  
+**TBA**  
+[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
+[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 
 ***
 
