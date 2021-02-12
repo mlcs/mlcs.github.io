@@ -54,7 +54,9 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 [Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
 [Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 + **9 April 2021**  
-**TBA**  
+**TBA**
+Sebastian Höpker  
+[Waikato Environmental Geoschemistry](https://wegeochem.com/)
 + **16 April 2021**  
 **Trial Talks for #vEGU2021**  
 [Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
