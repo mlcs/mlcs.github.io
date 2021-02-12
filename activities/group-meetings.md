@@ -53,7 +53,7 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 **TBA**  
 [Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
 [Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
-+ **9 April 2021**  
++ **9 April 2021, 9 AM CET (!)**  
 **TBA**
 Sebastian Höpker  
 [Waikato Environmental Geoschemistry](https://wegeochem.com/)
