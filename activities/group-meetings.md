@@ -42,9 +42,28 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 [Sebastian Mutz](http://mutz.science/)  
 [Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
 + **12 March 2021, 16:00 CET (!)**  
-**TBA**  
+**Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
 [Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
 [IITM Pune](https://www.tropmet.res.in/index.php)  
++ **19 March 2021**  
+**TBA**  
++ **26 March 2021**  
+**TBA**  
++ **2 April 2021**  
+**TBA**  
+[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
+[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
++ **9 April 2021, 9 AM CET (!)**  
+**TBA**
+Sebastian Höpker  
+[Waikato Environmental Geoschemistry](https://wegeochem.com/)
++ **16 April 2021**  
+**Trial Talks for #vEGU2021**  
+[Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
++ _23 April 2021_  
+_vEGU 2021_
++ _30 April 2021_  
+_vEGU 2021_
 
 ***
 
