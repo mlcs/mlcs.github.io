@@ -18,8 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **16 February 2021**  
-Literature review on river discharge in South America by Markus D.
 + **23 February 2021**  
 Literature review on reduced representations by Bedartha G.  
 
@@ -52,7 +50,8 @@ Literature review on reduced representations by Bedartha G.
 [19.01.21 - Johnson et al. (2019) SEAS5: the new ECMWF seasonal forecast system](#19012021)\
 [26.01.21 - Literature review on ENSO Diversity](#26012021)\
 [02.02.21 - Literature review on Global monsoon](#02022021)\
-[09.02.21 - Literature review on ITCZ prediction](#02092021)
+[09.02.21 - Literature review on ITCZ prediction](#02092021)\
+[16.02.21 - Literature review on river discharge](#16022021)
 
 
 ***
@@ -756,5 +755,12 @@ Review was presented by Felix S.
 **Literature review on ITCZ prediction** 
 
 Review was presented by Lea E.
+
+[Back to top](#journal-club)
+
+### 16.02.2021  
+**Literature review on river discharge**
+
+Review was presented by Markus D.
 
 [Back to top](#journal-club)
