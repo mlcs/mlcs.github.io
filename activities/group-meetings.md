@@ -24,10 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **12 February 2021**  
-**A brief introduction to recurrence plot based analysis**  
-[Bedartha Goswami](https://machineclimate.de/people/goswami/)  
-[Machine Learning in Climate Science](https://machineclimate.de/)
 + **19 February 2021**  
 **Constraining ice shelf basalt melt rates from isochrone data**  
 [Vjeran
@@ -69,6 +65,10 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **12 February 2021**  
+**A brief introduction to recurrence plot based analysis**  
+[Bedartha Goswami](https://machineclimate.de/people/goswami/)  
+[Machine Learning in Climate Science](https://machineclimate.de/)
 + **5 February 2021**  
 **Impact of strong El Niño events on river discharge in South America**  
 [Markus Deppner](https://machineclimate.de/people/deppner/)  
