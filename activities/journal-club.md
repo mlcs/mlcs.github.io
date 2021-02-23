@@ -51,7 +51,8 @@ Literature review on reduced representations by Bedartha G.
 [26.01.21 - Literature review on ENSO Diversity](#26012021)\
 [02.02.21 - Literature review on Global monsoon](#02022021)\
 [09.02.21 - Literature review on ITCZ prediction](#02092021)\
-[16.02.21 - Literature review on river discharge](#16022021)
+[16.02.21 - Literature review on river discharge](#16022021)\
+[23.02.21 - Literature review on reduced representations](#23022021)
 
 
 ***
@@ -762,5 +763,22 @@ Review was presented by Lea E.
 **Literature review on river discharge**
 
 Review was presented by Markus D.
+
+[Back to top](#journal-club)
+
+### 23.02.2021
+**Literature review on reduced representations**
+
+Review was presented by Bedartha G.  
+
+Notes:
+- dimensionality reduction techniques represent high dimensional data by a smaller set of essential features
+- Why to use dimensionality reduction:
+>- reduce computational complexity
+>- reduce informational complexity, i.e. increase interpretability
+>- remove noise
+- Dimensionality reduction methods:
+>- PCA, LLE, LEM, MDS, ISOMAPS can all be described as special forms of kPCA
+>- Other non-convex DR methods: Graph Clustering, VAE, SOM, NNMF
 
 [Back to top](#journal-club)
