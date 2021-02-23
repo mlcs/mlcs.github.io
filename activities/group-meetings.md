@@ -50,8 +50,8 @@ Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)
 [Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
 [Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 + **9 April 2021, 9 AM CET (!)**  
-**TBA**
-Sebastian Höpker  
+**Developing a novel hydrological proxy from trace metals in stalagmites**
+[Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
 [Waikato Environmental Geoschemistry](https://wegeochem.com/)
 + **16 April 2021**  
 **Trial Talks for #vEGU2021**  
