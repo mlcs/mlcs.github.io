@@ -24,11 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **19 February 2021**  
-**Constraining ice shelf basalt melt rates from isochrone data**  
-[Vjeran
-Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)  
-[Glaciology and Geophysics Group](https://uni-tuebingen.de/en/147612)
 + **26 February 2021**  
 **Variations of wind convergence in context of ITCZ**  
 [Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
@@ -65,6 +60,11 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **19 February 2021**  
+**Constraining ice shelf basalt melt rates from isochrone data**  
+[Vjeran
+Visnjevic](https://www.researchgate.net/profile/Vjeran_Visnjevic)  
+[Glaciology and Geophysics Group](https://uni-tuebingen.de/en/147612)
 + **12 February 2021**  
 **A brief introduction to recurrence plot based analysis**  
 [Bedartha Goswami](https://machineclimate.de/people/goswami/)  
