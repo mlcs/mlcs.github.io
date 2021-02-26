@@ -18,8 +18,16 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **23 February 2021**  
-Literature review on reduced representations by Bedartha G.  
++ **12 March 2021**  
+TBA by Jakob S.
++ **19 March 2021**  
+TBA by Felix S. 
++ **26 March 2021**  
+TBA by Lea E. 
++ **02 April 2021**  
+TBA by Markus D. 
++ **09 April 2021**  
+TBA by Bedartha G. 
 
 ***
 
@@ -769,7 +777,8 @@ Review was presented by Markus D.
 ### 23.02.2021
 **Literature review on reduced representations**
 
-Review was presented by Bedartha G.  
+The review was presented by Bedartha G. and the presentation can be found
+[here](/files/jc_ReducedRepresentationsOverview.pdf "Presentation Johnson (2019)"). 
 
 Notes:
 - dimensionality reduction techniques represent high dimensional data by a smaller set of essential features
