@@ -19,7 +19,9 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 + **12 March 2021**  
-TBA by Jakob S.
+Presentation of 
+[Oliver et. al, Marine Heatwaves, Annual Review of Marine Science (2020)](https://doi.org/10.1146/annurev-marine-032720-095144)
+ by Jakob S.
 + **19 March 2021**  
 TBA by Felix S. 
 + **26 March 2021**  
@@ -27,7 +29,9 @@ TBA by Lea E.
 + **02 April 2021**  
 TBA by Markus D. 
 + **09 April 2021**  
-TBA by Bedartha G. 
+Presentation of 
+[Domeisen, Grams, & Papritz, Weather Clim. Dyn., (2020)](https://doi.org/10.5194/wcd-1-373-2020)
+by Bedartha G. 
 
 ***
 
