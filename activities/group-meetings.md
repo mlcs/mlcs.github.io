@@ -24,10 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **26 February 2021**  
-**Variations of wind convergence in context of ITCZ**  
-[Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
-[Machine Learning in Climate Science](https://machineclimate.de/)
 + **5 March 2021**  
 **At the intersection of climate science, machine learning and Earth system dynamics**  
 [Sebastian Mutz](http://mutz.science/)  
@@ -60,6 +56,10 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **26 February 2021**  
+**Variations of wind convergence in context of ITCZ**  
+[Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
+[Machine Learning in Climate Science](https://machineclimate.de/)
 + **19 February 2021**  
 **Constraining ice shelf basalt melt rates from isochrone data**  
 [Vjeran
