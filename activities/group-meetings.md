@@ -24,13 +24,9 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **5 March 2021**  
-**At the intersection of climate science, machine learning and Earth system dynamics**  
-[Sebastian Mutz](http://mutz.science/)  
-[Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
 + **12 March 2021**  
 **Generative adversarial training for simulation-based inference**  
-[Poornima Ramesh]()
+[Poornima Ramesh]()  
 [Machine Learning in
 Science](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/machine-learning-in-science/start/)
 + **19 March 2021, 16:00 CET (!)**  
@@ -61,6 +57,10 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **5 March 2021**  
+**At the intersection of climate science, machine learning and Earth system dynamics**  
+[Sebastian Mutz](http://mutz.science/)  
+[Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
 + **26 February 2021**  
 **Variations of wind convergence in context of ITCZ**  
 [Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
