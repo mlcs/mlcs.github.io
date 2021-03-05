@@ -28,14 +28,19 @@ meetings are entirely on Zoom.
 **At the intersection of climate science, machine learning and Earth system dynamics**  
 [Sebastian Mutz](http://mutz.science/)  
 [Palaeoclimate and Climate Dynamics Jr. Research group](https://uni-tuebingen.de/en/164926)  
-+ **12 March 2021, 16:00 CET (!)**  
++ **12 March 2021**  
+**Generative adversarial training for simulation-based inference**  
+[Poornima Ramesh]()
+[Machine Learning in
+Science](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/machine-learning-in-science/start/)
++ **19 March 2021, 16:00 CET (!)**  
 **Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
 [Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
 [IITM Pune](https://www.tropmet.res.in/index.php)  
-+ **19 March 2021**  
-**TBA**  
 + **26 March 2021**  
 **TBA**  
+[Wolfram Barfuss](https://www.pik-potsdam.de/members/barfuss)  
+[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/)  
 + **2 April 2021**  
 **TBA**  
 [Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
