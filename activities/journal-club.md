@@ -22,13 +22,22 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 Presentation of 
 [Oliver et. al, Marine Heatwaves, Annual Review of Marine Science (2020)](https://doi.org/10.1146/annurev-marine-032720-095144)
  by Jakob S.
-+ **19 March 2021**  
++ **16 March 2021**  
 TBA by Felix S. 
-+ **26 March 2021**  
-TBA by Lea E. 
-+ **02 April 2021**  
-TBA by Markus D. 
-+ **09 April 2021**  
++ **23 March 2021**  
+Presentation of 
+[England et al., Tropical climate responses to projected Arctic and Antarctic sea-ice loss (2020)](https://doi.org/10.1038/s41561-020-0546-9)
+by Lea E. 
++ **30 March 2021**  
+Presentation of 
+[Yang et al., Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate (2020)](https://doi.org/10.1029/2019GL085868)
+by Markus D. 
++ **06 April 2021**  
+Presentation of 
+[Li et al. (2020)](https://iopscience.iop.org/article/10.1088/1748-9326/aba6ad)
+on Impact of NAO and atmospheric blockin on European heatwaves 
+by Julia H.
++ **13 April 2021**  
 Presentation of 
 [Domeisen, Grams, & Papritz, Weather Clim. Dyn., (2020)](https://doi.org/10.5194/wcd-1-373-2020)
 by Bedartha G. 
