@@ -18,10 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **12 March 2021**  
-Presentation of 
-[Oliver et. al, Marine Heatwaves, Annual Review of Marine Science (2020)](https://doi.org/10.1146/annurev-marine-032720-095144)
- by Jakob S.
 + **16 March 2021**  
 TBA by Felix S. 
 + **23 March 2021**  
@@ -73,7 +69,8 @@ by Bedartha G.
 [02.02.21 - Literature review on Global monsoon](#02022021)\
 [09.02.21 - Literature review on ITCZ prediction](#02092021)\
 [16.02.21 - Literature review on river discharge](#16022021)\
-[23.02.21 - Literature review on reduced representations](#23022021)
+[23.02.21 - Literature review on reduced representations](#23022021)\
+[12.03.21 - Oliver et. al (2020) Marine Heatwaves](#12032021)
 
 
 ***
@@ -804,3 +801,13 @@ Notes:
 >- Other non-convex DR methods: Graph Clustering, VAE, SOM, NNMF
 
 [Back to top](#journal-club)
+
+
+### 12.03.2021  
+
+**Oliver et. al - Marine Heatwaves (2020)**
+
+The paper
+[Oliver et. al, Marine Heatwaves, Annual Review of Marine Science (2020)](https://doi.org/10.1146/annurev-marine-032720-095144)
+ was presented by Jakob S. The presentation can be found 
+ [here](/files/jc_21.03.09_Oliver_2020.pdf "Presentation Oliver (2020)") 
