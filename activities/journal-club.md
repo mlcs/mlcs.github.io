@@ -19,7 +19,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 + **16 March 2021**  
-TBA by Felix S. 
+Presentation of [Acosta et al. 2019: Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085112) by Felix S. 
 + **23 March 2021**  
 Presentation of 
 [England et al., Tropical climate responses to projected Arctic and Antarctic sea-ice loss (2020)](https://doi.org/10.1038/s41561-020-0546-9)
@@ -811,3 +811,6 @@ The paper
 [Oliver et. al, Marine Heatwaves, Annual Review of Marine Science (2020)](https://doi.org/10.1146/annurev-marine-032720-095144)
  was presented by Jakob S. The presentation can be found 
  [here](/files/jc_21.03.09_Oliver_2020.pdf "Presentation Oliver (2020)") 
+
+
+[Back to top](#journal-club)
