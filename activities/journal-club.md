@@ -18,8 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **16 March 2021**  
-Presentation of [Acosta et al. 2019: Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085112) by Felix S. 
 + **23 March 2021**  
 Presentation of 
 [England et al., Tropical climate responses to projected Arctic and Antarctic sea-ice loss (2020)](https://doi.org/10.1038/s41561-020-0546-9)
@@ -70,7 +68,8 @@ by Bedartha G.
 [09.02.21 - Literature review on ITCZ prediction](#02092021)\
 [16.02.21 - Literature review on river discharge](#16022021)\
 [23.02.21 - Literature review on reduced representations](#23022021)\
-[12.03.21 - Oliver et. al (2020) Marine Heatwaves](#12032021)
+[12.03.21 - Oliver et. al (2020) Marine Heatwaves](#12032021)\
+[16.03.21 - Acosta et al. (2019) Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](#16032021)
 
 
 ***
@@ -812,5 +811,24 @@ The paper
  was presented by Jakob S. The presentation can be found 
  [here](/files/jc_21.03.09_Oliver_2020.pdf "Presentation Oliver (2020)") 
 
+
+[Back to top](#journal-club)
+
+### 16.03.2021 
+
+**Acosta et al. (2019) Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon**
+
+The paper [Acosta et al. 2019: Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL085112) was presented by Felix S. 
+
+Acosta et al. studies the effect of topography on the Indo-Asian Monsoon.
+The presentation can be found 
+[here](/files/jc_21.03.16_Acosta_2019.pdf "Presentation of Acosta (2019)")
+
+
+
+Discussion:
+- Typical monsoon behavior (wind and precipitation) is present even when the topography are removed. This emphasizing the eddy-driven mechanism theory.
+- Iranian platau seems to have the greatest influence on the Equivalend potetial temperature pattern
+- Westerly winds in the winter might be an important driver
 
 [Back to top](#journal-club)
