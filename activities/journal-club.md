@@ -18,10 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **23 March 2021**  
-Presentation of 
-[England et al., Tropical climate responses to projected Arctic and Antarctic sea-ice loss (2020)](https://doi.org/10.1038/s41561-020-0546-9)
-by Lea E. 
 + **30 March 2021**  
 Presentation of 
 [Yang et al., Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate (2020)](https://doi.org/10.1029/2019GL085868)
@@ -69,8 +65,8 @@ by Bedartha G.
 [16.02.21 - Literature review on river discharge](#16022021)\
 [23.02.21 - Literature review on reduced representations](#23022021)\
 [12.03.21 - Oliver et. al (2020) Marine Heatwaves](#12032021)\
-[16.03.21 - Acosta et al. (2019) Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](#16032021)
-
+[16.03.21 - Acosta et al. (2019) Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](#16032021)\
+[23.03.21 - England et al. (2020) Tropical climate responses to projected Arctic and Antarctic sea-ice loss](#23032021)
 
 ***
 
@@ -830,5 +826,15 @@ Discussion:
 - Typical monsoon behavior (wind and precipitation) is present even when the topography are removed. This emphasizing the eddy-driven mechanism theory.
 - Iranian platau seems to have the greatest influence on the Equivalend potetial temperature pattern
 - Westerly winds in the winter might be an important driver
+
+[Back to top](#journal-club)
+
+### 23.03.2021  
+**England et al. (2020) Tropical climate responses to projected Arctic and Antarctic sea-ice loss**
+
+The paper  
+[England et al., Tropical climate responses to projected Arctic and Antarctic sea-ice loss (2020)](https://doi.org/10.1038/s41561-020-0546-9)
+was presented by Lea E. 
+
 
 [Back to top](#journal-club)
