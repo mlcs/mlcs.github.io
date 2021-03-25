@@ -24,10 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **19 March 2021, 16:00 CET (!)**  
-**Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
-[Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
-[IITM Pune](https://www.tropmet.res.in/index.php)  
 + **26 March 2021**  
 **Collective learning for a sustainable future**  
 [Wolfram Barfuss](https://wbarfuss.github.io/)  
@@ -52,6 +48,10 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **19 March 2021, 16:00 CET (!)**  
+**Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
+[Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
+[IITM Pune](https://www.tropmet.res.in/index.php)  
 + **12 March 2021**  
 **Generative adversarial training for simulation-based inference**  
 [Poornima Ramesh]()  
