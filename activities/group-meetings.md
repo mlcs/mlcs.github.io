@@ -24,12 +24,8 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **26 March 2021**  
-**Collective learning for a sustainable future**  
-[Wolfram Barfuss](https://wbarfuss.github.io/)  
-[School of Mathematics, University of Leeds](https://eps.leeds.ac.uk/maths)  
 + **2 April 2021**  
-**TBA**  
+**Application of edit distance method to recurrence plot and climate network**  
 [Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
 [Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 + **9 April 2021, 9 AM CET (!)**  
@@ -48,6 +44,10 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **26 March 2021**  
+**Collective learning for a sustainable future**  
+[Wolfram Barfuss](https://wbarfuss.github.io/)  
+[School of Mathematics, University of Leeds](https://eps.leeds.ac.uk/maths)  
 + **19 March 2021, 16:00 CET (!)**  
 **Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
 [Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
