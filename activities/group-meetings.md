@@ -24,14 +24,12 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **2 April 2021**  
-**Application of edit distance method to recurrence plot and climate network**  
-[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
-[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
++ _2 April 2021_  
+_Good Friday_
 + **9 April 2021, 9 AM CET (!)**  
 **Developing a novel hydrological proxy from trace metals in stalagmites**  
 [Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
-[Waikato Environmental Geoschemistry](https://wegeochem.com/)
+[Waikato Environmental Geochemistry](https://wegeochem.com/)
 + **16 April 2021**  
 **Trial Talks for #vEGU2021**  
 [Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
@@ -39,6 +37,10 @@ meetings are entirely on Zoom.
 _vEGU 2021_
 + _30 April 2021_  
 _vEGU 2021_
++ **7 May 2021**  
+**Application of edit distance method to recurrence plot and climate network**  
+[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
+[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 
 ***
 
