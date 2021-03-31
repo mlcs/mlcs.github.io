@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD position (m/f/d; E13 TV-L, 65%)
+title: Open position for PhD (m/f/d; E13 TV-L, 65%)
 subtitle:
 tags: [mlcs, jobs, mustein]
 ---
