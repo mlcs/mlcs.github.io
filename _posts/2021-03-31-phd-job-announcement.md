@@ -27,10 +27,12 @@ developments and prepare accordingly, (iii) partially control the
 developments, and (iv) explain the hidden causes and influences in an
 accessible, causal manner.
 
-More details at [this
-link](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/#c1297104).
+You can download the full job announcement
+[here](/files/mustein_p1_announcement.pdf){:target="_blank"} or read it
+online at [this
+link](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/#c1297104){:target="_blank"}.
 
-For any queries please send an email to Dr. Bedartha Goswami at
+For any further queries please send an email to Dr. Bedartha Goswami at
 [bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de).
 
 
