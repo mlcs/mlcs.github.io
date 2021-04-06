@@ -853,7 +853,7 @@ The paper
 was presented by Julia H.
 
 Discussion:
-- probabilistic analysis would be more expressive P(EB|NAO) and P(EB|~NAO)
+- probabilistic analysis would be more expressive P(EB\|NAO) and P(EB\|~NAO)
 
 
 [Back to top](#journal-club)
