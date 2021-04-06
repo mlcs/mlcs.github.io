@@ -18,15 +18,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ***
 
 ## Upcoming
-+ **30 March 2021**  
-Presentation of 
-[Yang et al., Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate (2020)](https://doi.org/10.1029/2019GL085868)
-by Markus D. 
-+ **06 April 2021**  
-Presentation of 
-[Li et al. (2020)](https://iopscience.iop.org/article/10.1088/1748-9326/aba6ad)
-on Impact of NAO and atmospheric blockin on European heatwaves 
-by Julia H.
 + **13 April 2021**  
 Presentation of 
 [Domeisen, Grams, & Papritz, Weather Clim. Dyn., (2020)](https://doi.org/10.5194/wcd-1-373-2020)
@@ -66,7 +57,9 @@ by Bedartha G.
 [23.02.21 - Literature review on reduced representations](#23022021)\
 [12.03.21 - Oliver et. al (2020) Marine Heatwaves](#12032021)\
 [16.03.21 - Acosta et al. (2019) Competing Topographic Mechanisms for the Summer Indo‐Asian Monsoon](#16032021)\
-[23.03.21 - England et al. (2020) Tropical climate responses to projected Arctic and Antarctic sea-ice loss](#23032021)
+[23.03.21 - England et al. (2020) Tropical climate responses to projected Arctic and Antarctic sea-ice loss](#23032021)\
+[30.03.21 - Yang et al. (2020) Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate](#30032021)\
+[06.04.21 - Li et al. (2020) Impact of NAO and atmospheric blockin on European heatwaves](#06042021)
 
 ***
 
@@ -835,6 +828,32 @@ Discussion:
 The paper  
 [England et al., Tropical climate responses to projected Arctic and Antarctic sea-ice loss (2020)](https://doi.org/10.1038/s41561-020-0546-9)
 was presented by Lea E. 
+
+
+[Back to top](#journal-club)
+
+### 30.03.2021 
+**Yang et al. (2020) Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate**
+
+
+The paper by 
+[Yang et al. (2020)](https://doi.org/10.1029/2019GL085868)
+was presentd by Markus D. 
+
+The presentation can be found 
+[here](/files/jc_21.03.30_Yang_2020.pdf "Presentation of Yang et al. (2020)")
+
+[Back to top](#journal-club)
+
+### 06.04.2021  
+**Li et al. (2020) Impact of NAO and atmospheric blockin on European heatwaves**
+
+The paper 
+[Li et al. (2020)](https://iopscience.iop.org/article/10.1088/1748-9326/aba6ad)
+was presented by Julia H.
+
+Discussion:
+- probabilistic analysis would be more expressive P(EB|NAO) and P(EB|~NAO)
 
 
 [Back to top](#journal-club)
