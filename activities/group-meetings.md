@@ -24,22 +24,12 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **19 March 2021, 16:00 CET (!)**  
-**Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
-[Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
-[IITM Pune](https://www.tropmet.res.in/index.php)  
-+ **26 March 2021**  
-**Collective learning for a sustainable future**  
-[Wolfram Barfuss](https://wbarfuss.github.io/)  
-[School of Mathematics, University of Leeds](https://eps.leeds.ac.uk/maths)  
-+ **2 April 2021**  
-**TBA**  
-[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
-[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
++ _2 April 2021_  
+_Good Friday_
 + **9 April 2021, 9 AM CET (!)**  
 **Developing a novel hydrological proxy from trace metals in stalagmites**  
 [Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
-[Waikato Environmental Geoschemistry](https://wegeochem.com/)
+[Waikato Environmental Geochemistry](https://wegeochem.com/)
 + **16 April 2021**  
 **Trial Talks for #vEGU2021**  
 [Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
@@ -47,11 +37,23 @@ meetings are entirely on Zoom.
 _vEGU 2021_
 + _30 April 2021_  
 _vEGU 2021_
++ **7 May 2021**  
+**Application of edit distance method to recurrence plot and climate network**  
+[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
+[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 
 ***
 
 ## Past Meetings
 
++ **26 March 2021**  
+**Collective learning for a sustainable future**  
+[Wolfram Barfuss](https://wbarfuss.github.io/)  
+[School of Mathematics, University of Leeds](https://eps.leeds.ac.uk/maths)  
++ **19 March 2021, 16:00 CET (!)**  
+**Fingerprint of volcanic forcing on the ENSO-Indian Monsoon coupling**  
+[Manmeet Singh](https://www.tropmet.res.in/119-Manmeet%20%20Singh-scientist_detail)  
+[IITM Pune](https://www.tropmet.res.in/index.php)  
 + **12 March 2021**  
 **Generative adversarial training for simulation-based inference**  
 [Poornima Ramesh]()  
