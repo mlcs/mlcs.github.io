@@ -17,7 +17,7 @@ goes on till around 12 noon. Since the beginning of November 2020, the
 meetings are entirely on Zoom. 
 
 **Topic:** MLCS Group Meeting  
-**Time:** Fridays, 10 am CET  
+**Time:** Fridays, 10 am CEST  
 **Join Zoom Meeting:** [Send email](mailto:bedartha.goswami@uni-tuebingen.de)
 
 ***
@@ -26,7 +26,7 @@ meetings are entirely on Zoom.
 
 + _2 April 2021_  
 _Good Friday_
-+ **9 April 2021, 9 AM CET (!)**  
++ **9 April 2021, 9 AM CEST (!)**  
 **Developing a novel hydrological proxy from trace metals in stalagmites**  
 [Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
 [Waikato Environmental Geochemistry](https://wegeochem.com/)
