@@ -852,6 +852,9 @@ The paper
 [Li et al. (2020)](https://iopscience.iop.org/article/10.1088/1748-9326/aba6ad)
 was presented by Julia H.
 
+The presentation can be found 
+[here](/files/jc_21.04.06_Li_2020.pdf "Presentation of Li et al. (2020)")
+
 Discussion:
 - probabilistic analysis would be more expressive P(EB\|NAO) and P(EB\|~NAO)
 
