@@ -12,7 +12,7 @@ title: Summer 2021
 
 21 April 2021 -- 28 July 2021  
 Wednesdays, 10:00 -- 12:00  
-14 lectures in total  
+14 lectures of 2 hours each
 No lecture on 26 May 2021 (Pentecost break).  
 
 ### Location
@@ -30,7 +30,7 @@ Medium of instruction: English
 
 ### Evaluation
 
-Oral presentation and written report
+Paper presentation, project presentation, and written project report
 
 
 ### About the course
