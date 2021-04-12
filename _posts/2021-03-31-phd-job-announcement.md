@@ -27,7 +27,8 @@ developments and prepare accordingly, (iii) partially control the
 developments, and (iv) explain the hidden causes and influences in an
 accessible, causal manner.
 
-You can download the full job announcement
+To apply for the position, please follow the instructions given in the
+full job announcement
 [here](/files/mustein_p1_announcement.pdf){:target="_blank"} or read it
 online at [this
 link](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/#c1297104){:target="_blank"}.
