@@ -33,6 +33,8 @@ navbar-links:
   Research:
       - Projects: "/research/projects"
       - Publications: "/research/publications"
+  Teaching:
+      - Summer 2021: "/teaching/summer2021"
   Activities:
       - Journal Club: "/activities/journal-club"
       - Group Meetings: "/activities/group-meetings"
