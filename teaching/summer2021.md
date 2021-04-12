@@ -1,7 +1,7 @@
 ---
 layout: page
 subtitle: Machine learning approaches in climate science
-title: Summer semester 2021
+title: Summer 2021
 ---
 
 ### Lecturer
