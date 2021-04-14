@@ -24,12 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ _2 April 2021_  
-_Good Friday_
-+ **9 April 2021, 9 AM CEST (!)**  
-**Developing a novel hydrological proxy from trace metals in stalagmites**  
-[Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
-[Waikato Environmental Geochemistry](https://wegeochem.com/)
 + **16 April 2021**  
 **Trial Talks for #vEGU2021**  
 [Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
@@ -46,6 +40,12 @@ _vEGU 2021_
 
 ## Past Meetings
 
++ **9 April 2021, 9 AM CEST (!)**  
+**Developing a novel hydrological proxy from trace metals in stalagmites**  
+[Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
+[Waikato Environmental Geochemistry](https://wegeochem.com/)
++ _2 April 2021_  
+_Good Friday_
 + **26 March 2021**  
 **Collective learning for a sustainable future**  
 [Wolfram Barfuss](https://wbarfuss.github.io/)  
