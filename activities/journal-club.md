@@ -19,6 +19,28 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
++ **4 May 2021**  
+TBA by Jakob S.
+
++ **11 May 2021**  
+TBA by Felix S.
+
++ **18 May 2021**  
+TBA by Lea E.
+
++ **25 May 2021**  
+TBA by Markus D.
+
++ **1 June 2021**  
+TBA by Julia H.
+
++ **8 June 2021**  
+TBA by Alexey.
+
++ **15 June 2021**  
+TBA by Bedartha G.
+
+
 ***
 
 ## Past meetings
@@ -868,6 +890,6 @@ The paper
 was presentd by Bedartha G. 
 
 The presentation can be found 
-[here](/files/jc_21.04.06_Li_2020.pdf "Presentation of Li et al. (2020)")
+[here](/files/jc_21.04.13_SuddenStratosphericWarming.pdf "Presentation of Domeisen et al. (2020)")
 
 [Back to top](#journal-club)
