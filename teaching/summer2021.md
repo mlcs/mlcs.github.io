@@ -120,7 +120,7 @@ models; finding low dimensional representations
 what are climate networks; hidden spatial patterns; teleconnections;
 early warning systems; feature detection for deep learning
 
-**L9. 23 June 2021: Machine learning methods in paleoclimate**  
+**L9. 23 June 2021: Machine learning approaches in paleoclimate**  
 climate field reconstructions; detecting abrupt transitions;
 paleoclimate proxy parametrizations
 
