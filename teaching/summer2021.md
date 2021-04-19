@@ -72,6 +72,75 @@ paleoclimatology, meteorology
 
 ### Enrollment information
 
-Simply send an email to bedartha.goswami@uni-tuebingen.de expressing
-your interest to register in the course. You will be contacted later
-with more details (Zoom link, etc.).
+Simply send an email to
+[bedartha.goswami@uni-tuebingen.de](bedartha.goswami@uni-tuebingen.de)
+expressing your interest to register in the course. You will be
+contacted later with more details (Zoom link, etc.).
+
+**Update 19 April 2021:**  
+**Registration for the course is now closed. A maximum of 30
+participants is already reached.**
+
+### Lecture plan
+
+**L1. 21 April 2021: Introduction and Preview**  
+Highlights of course contents; evaluation criteria; general information
+
+**L2. 28 April 2021: An introduction to weather and climate**  
+Why do we have weather; what are the important circulation modes;
+important circulation cycles; energy balance basics
+
+**L3. 5 May 2021: Measurement of weather and climate**  
+how do we measure weather; station based measurements; satellite based
+measurements; paleoclimate proxy records
+
+**L4. 12 May 2021: Models of the weather and climate**  
+energy balance revisited; general circulation models; conceptual models;
+numerical weather models; statistical weather generators
+
+**L5. 19 May 2021: Important climatic systems**  
+El Niño Southern Oscillation; North Atlantic Oscillation; Pacific
+Decadal Oscillation; Indian Ocean Dipole; monsoon systems
+
+_26 May 2021: Pfingstpause (Pentecost break)_  
+_No lecture_
+
+**31 May 2021: Last date for project topic finalisation**
+_Students have to hand in their project topics by this date._
+
+**L6. 2 June 2021: Classical learning approaches for weather and climate**  
+empirical orthogonal functions; clustering approaches; Markov models;
+statistical models for trend, seasonality, and residuals
+
+**L7. 9 June 2021: Deep learning approaches for weather and climate**  
+weather forecasts; forecasting climate indices; improving climate
+models; finding low dimensional representations
+
+**L8. 16 June 2021: Climate network approaches for weather and climate**  
+what are climate networks; hidden spatial patterns; teleconnections;
+early warning systems; feature detection for deep learning
+
+**L9. 23 June 2021: Machine learning methods in paleoclimate**  
+climate field reconstructions; detecting abrupt transitions;
+paleoclimate proxy parametrizations
+
+**L10. 30 June 2021: Introduction to scientific communication**  
+how to write a scientific paper; how to give a scientific presentation;
+how to search for scientific state-of-the-art on the internet
+
+**L11. 7 July 2021: Presentations I**  
+Project presentations by the students.
+
+**L12. 14 July 2021: Guest lecture by Peter Dueben, ECMWF, UK**  
+Peter Dueben conducts research on high-resolute weather and cliamte
+simulations at the European Center for Medium-range Weather Forecasting
+(ECMWF) at Reading in the UK. He will talk to us about his views on
+machine learning for weather and climate predictions.
+
+**L13. 21 July 2021: Presentations II**  
+Project presentations by the students.
+
+**L14. 28 July 2021: Presentations III**  
+Project presentations by the students.
+
+
