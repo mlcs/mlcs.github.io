@@ -134,7 +134,7 @@ how to write a scientific paper; how to give a scientific presentation;
 how to search for scientific state-of-the-art on the internet
 
 **L12. 14 July 2021: Guest lecture by Peter Dueben, ECMWF, UK**  
-Peter Dueben conducts research on high-resolute weather and cliamte
+Peter Dueben conducts research on high-resolute weather and climate
 simulations at the European Center for Medium-range Weather Forecasting
 (ECMWF) at Reading in the UK. He will talk to us about his views on
 machine learning for weather and climate predictions.
