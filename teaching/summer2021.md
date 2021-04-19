@@ -81,7 +81,7 @@ contacted later with more details (Zoom link, etc.).
 **Registration for the course is now closed. A maximum of 30
 participants is already reached.**
 
-### Lecture plan
+### Tentative Lecture plan
 
 **L1. 21 April 2021: Introduction and Preview**  
 Highlights of course contents; evaluation criteria; general information
