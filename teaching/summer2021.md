@@ -124,12 +124,14 @@ early warning systems; feature detection for deep learning
 climate field reconstructions; detecting abrupt transitions;
 paleoclimate proxy parametrizations
 
-**L10. 30 June 2021: Introduction to scientific communication**  
+**L10. 30 June 2021: Tutorial lecture**  
+discuss points that need further clarification; students have to come
+up with a lost of topics from previous lectures that were difficult to
+understand; further discussions possible on ongoing project work
+
+**L11. 7 July 2021: Introduction to scientific communication**  
 how to write a scientific paper; how to give a scientific presentation;
 how to search for scientific state-of-the-art on the internet
-
-**L11. 7 July 2021: Presentations I**  
-Project presentations by the students.
 
 **L12. 14 July 2021: Guest lecture by Peter Dueben, ECMWF, UK**  
 Peter Dueben conducts research on high-resolute weather and cliamte
@@ -137,10 +139,10 @@ simulations at the European Center for Medium-range Weather Forecasting
 (ECMWF) at Reading in the UK. He will talk to us about his views on
 machine learning for weather and climate predictions.
 
-**L13. 21 July 2021: Presentations II**  
+**L13. 21 July 2021: Presentations I**  
 Project presentations by the students.
 
-**L14. 28 July 2021: Presentations III**  
+**L14. 28 July 2021: Presentations II**  
 Project presentations by the students.
 
 
