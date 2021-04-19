@@ -105,7 +105,7 @@ Decadal Oscillation; Indian Ocean Dipole; monsoon systems
 _26 May 2021: Pfingstpause (Pentecost break)_  
 _No lecture_
 
-**31 May 2021: Last date for project topic finalisation**  
+_31 May 2021: Last date for project topic finalisation_  
 _Students have to hand in their project topics by this date._
 
 **L6. 2 June 2021: Classical learning approaches for weather and climate**  
