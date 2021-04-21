@@ -84,7 +84,8 @@ participants is already reached.**
 ### Tentative Lecture plan
 
 **L1. 21 April 2021: Introduction and Preview**  
-Highlights of course contents; evaluation criteria; general information
+Highlights of course contents; evaluation criteria; general information  
+[slides](/files/sose2021/l1.pdf)
 
 **L2. 28 April 2021: An introduction to weather and climate**  
 Why do we have weather; what are the important circulation modes;
