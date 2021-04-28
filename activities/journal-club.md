@@ -36,9 +36,12 @@ TBA by Markus D.
 TBA by Julia H.
 
 + **8 June 2021**  
-TBA by Alexey.
+TBA by Alexej O.
 
 + **15 June 2021**  
+TBA by Christian F.
+
++ **22 June 2021**
 TBA by Bedartha G.
 
 
