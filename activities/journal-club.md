@@ -20,7 +20,8 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ## Upcoming
 
 + **4 May 2021**  
-TBA by Jakob S.
+Presentation of [Bécenac et al. (2019) Deep learning for physical processes:
+incorporating prior scientific knowledge](https://doi.org/10.1088/1742-5468/ab3195) by Jakob S.
 
 + **11 May 2021**  
 TBA by Felix S.
