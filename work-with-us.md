@@ -9,9 +9,9 @@ use-site-title: false
 MLCS welcomes highly motivated researchers at all stages of their
 careers to tackle challenging problems in climate science. A background
 in Computer Science, Physics, or Mathematics is ideal but not necessary.
-Feel free to [contact us](https://mlcs.github.io/about-mlcs/#contact) if
-you want to work with us at the interface of machine learning and
-climate.
+Feel free to [contact
+us](https://mlcs.github.io/about/our-group/#contact) if you want to work
+with us at the interface of machine learning and climate.
 
 ## Doctoral and postdoctoral projects
 
