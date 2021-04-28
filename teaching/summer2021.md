@@ -90,7 +90,7 @@ Highlights of course contents; evaluation criteria; general information
 **L2. 28 April 2021: An introduction to the earth's climate**  
 What is climate; what are the components of the climate system;
 a detailed look at the atmosphere; additional topics: climate forcings,
-climate sensitivity
+climate sensitivity  
 [slides](/files/sose2021/l2.pdf)
 
 **L3. 5 May 2021: Measurement of weather and climate**  
