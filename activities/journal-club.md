@@ -20,29 +20,35 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ## Upcoming
 
 + **4 May 2021**  
-Presentation of [Bécenac et al. (2019) Deep learning for physical processes:
-incorporating prior scientific knowledge](https://doi.org/10.1088/1742-5468/ab3195) by Jakob S.
+Presentation of 
+[Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](https://doi.org/10.1088/1742-5468/ab3195)
+by Jakob S.
 
 + **11 May 2021**  
-TBA by Felix S.
+No journal club due to [French-German Machine Learning Symposium](https://fgml2021.in.tum.de/)
 
 + **18 May 2021**  
-TBA by Lea E.
+TBA by Felix S.
 
 + **25 May 2021**  
-TBA by Markus D.
+TBA by Lea E.
 
 + **1 June 2021**  
-TBA by Julia H.
+TBA by Markus D.
 
 + **8 June 2021**  
-TBA by Alexej O.
+Presentation of [Traxl et al., Deep Graphs (2016) ](https://doi.org/10.1063/1.4952963) by Julia H.
 
 + **15 June 2021**  
-TBA by Christian F.
+TBA by Alexej O.
 
 + **22 June 2021**
-TBA by Bedartha G.
+TBA by Christian F.
+
++ **29 June 2021**
+Presentation of 
+[Gerhardus et al., High-recall causal discovery for autocorrelated timeseries with latent confounders (2021)](https://arxiv.org/pdf/2007.01884.pdf)
+by Bedartha G.
 
 
 ***
