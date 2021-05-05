@@ -19,37 +19,39 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **4 May 2021**  
-Presentation of 
-[Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](https://doi.org/10.1088/1742-5468/ab3195)
-by Jakob S.
-
 + **11 May 2021**  
 No journal club due to [French-German Machine Learning Symposium](https://fgml2021.in.tum.de/)
 
 + **18 May 2021**  
-TBA by Felix S.
+Presentation of 
+[Pathak et al., Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.024102) 
+by Felix S.
 
 + **25 May 2021**  
-TBA by Lea E.
+Presentation of 
+[Liang et al., Gated Recurrent UnitNetwork for Wind Speed Forecasting (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189890) 
+by Lea E.
 
 + **1 June 2021**  
-TBA by Markus D.
+Presentation of  
+[Gaussian Processes](http://www.gaussianprocess.org/gpml/)
+by Markus D.
 
 + **8 June 2021**  
 Presentation of [Traxl et al., Deep Graphs (2016) ](https://doi.org/10.1063/1.4952963) by Julia H.
 
 + **15 June 2021**  
-TBA by Alexej O.
+Presentation of 
+[Mokhov et al., Alternating mutual influence of ENSO and Indian Monsoon (2011)](https://doi.org/10.1029/2010GL045932) 
+by Alexej O.
 
 + **22 June 2021**
-TBA by Christian F.
+Presentation of [Cachay et al., The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks (2021)](https://arxiv.org/abs/2104.05089) by Christian F.
 
 + **29 June 2021**
 Presentation of 
 [Gerhardus et al., High-recall causal discovery for autocorrelated timeseries with latent confounders (2021)](https://arxiv.org/pdf/2007.01884.pdf)
 by Bedartha G.
-
 
 ***
 
@@ -88,7 +90,9 @@ by Bedartha G.
 [23.03.21 - England et al. (2020) Tropical climate responses to projected Arctic and Antarctic sea-ice loss](#23032021)\
 [30.03.21 - Yang et al. (2020) Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate](#30032021)\
 [06.04.21 - Li et al. (2020) Impact of NAO and atmospheric blockin on European heatwaves](#06042021)\
-[13.04.21 - Domeisen et al. (2020) The surface impact of sudden stratospheric warming events](#13042021)
+[13.04.21 - Domeisen et al. (2020) The surface impact of sudden stratospheric warming events](#13042021)\
+[04.05.21 - Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](#04052021)
+
 
 ***
 
@@ -903,3 +907,18 @@ The presentation can be found
 [here](/files/jc_21.04.13_SuddenStratosphericWarming.pdf "Presentation of Domeisen et al. (2020)")
 
 [Back to top](#journal-club)
+
+
+### 04.05.2021
+
+**Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge**
+
+The paper  
+[Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](https://doi.org/10.1088/1742-5468/ab3195)
+was presented by Jakob S.
+
+The presentation can be found 
+[here](/files/jc_21.05.04_Bezenac2019.pdf "Presentation of Bezenac et al. (2019)")
+
+[Back to top](#journal-club)
+
