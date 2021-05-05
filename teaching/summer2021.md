@@ -95,7 +95,8 @@ climate sensitivity
 
 **L3. 5 May 2021: Measurement of weather and climate**  
 how do we measure weather; station based measurements; satellite based
-measurements; paleoclimate proxy records
+measurements; paleoclimate proxy records  
+[slides](/files/sose2021/l3.pdf)
 
 **L4. 12 May 2021: Models of the weather and climate**  
 energy balance revisited; general circulation models; conceptual models;
