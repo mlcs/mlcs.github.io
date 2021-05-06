@@ -24,22 +24,46 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **16 April 2021**  
-**Trial Talks for #vEGU2021**  
-[Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
-+ _23 April 2021_  
-_vEGU 2021_
-+ _30 April 2021_  
-_vEGU 2021_
 + **7 May 2021**  
 **Application of edit distance method to recurrence plot and climate network**  
 [Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
 [Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 
++ **14 May 2021**  
+_TBA_  
+
++ **21 May 2021**  
+_TBA_  
+
++ **28 May 2021**  
+**Ensemble Prediction**  
+[Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
+[Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
+
++ **4 June 2021**  
+_TBA_  
+
++ **11 June 2021**  
+_TBA_  
+
++ **18 June 2021**  
+_TBA_  
+
++ **25 June 2021**  
+_TBA_  
+
+
 ***
 
 ## Past Meetings
 
++ _30 April 2021_  
+_vEGU 2021_
++ _23 April 2021_  
+_vEGU 2021_
++ **16 April 2021**  
+**Trial Talks for #vEGU2021**  
+[Presentation by Members of MLCS](https://machineclimate.de/about/our-group/#team)
 + **9 April 2021, 9 AM CEST (!)**  
 **Developing a novel hydrological proxy from trace metals in stalagmites**  
 [Sebastian Höpker](https://wegeochem.com/students-and-visitors/#seb-hoepker)  
