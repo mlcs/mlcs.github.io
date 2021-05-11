@@ -30,15 +30,18 @@ meetings are entirely on Zoom.
 [Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 
 + **14 May 2021**  
-_TBA_  
+**Ensemble Prediction**  
+[Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
+[Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
 
 + **21 May 2021**  
 _TBA_  
 
 + **28 May 2021**  
-**Ensemble Prediction**  
-[Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
-[Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
+__TBA__  
+[Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
+[ESMO, PIK
+Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)  
 
 + **4 June 2021**  
 _TBA_  
