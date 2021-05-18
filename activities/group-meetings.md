@@ -39,9 +39,9 @@ __TBA__
 Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)
 
 + **4 June 2021**  
-_TBA_
-[Christian Fröhlich]()  
-[Working group]()
+**Curvature-based analysis of climate networks**  
+[Christian Fröhlich](https://twitter.com/froehlicherchr)  
+MLCS
 
 + **11 June 2021**  
 _TBA_
