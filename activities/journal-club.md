@@ -19,14 +19,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **11 May 2021**  
-No journal club due to [French-German Machine Learning Symposium](https://fgml2021.in.tum.de/)
-
-+ **18 May 2021**  
-Presentation of 
-[Pathak et al., Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.024102) 
-by Felix S.
-
 + **25 May 2021**  
 Presentation of 
 [Liang et al., Gated Recurrent UnitNetwork for Wind Speed Forecasting (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189890) 
@@ -91,7 +83,10 @@ by Bedartha G.
 [30.03.21 - Yang et al. (2020) Poleward Shift of the Major Ocean Gyres Detected in a Warming Climate](#30032021)\
 [06.04.21 - Li et al. (2020) Impact of NAO and atmospheric blockin on European heatwaves](#06042021)\
 [13.04.21 - Domeisen et al. (2020) The surface impact of sudden stratospheric warming events](#13042021)\
-[04.05.21 - Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](#04052021)
+[04.05.21 - Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](#04052021)\
+[18.05.21 - Pathak et al. (2018) Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](#18052021)
+
+****
 
 
 ***
@@ -922,3 +917,17 @@ The presentation can be found
 
 [Back to top](#journal-club)
 
+
+### 18.05.2021
+
+**Pathak et al. (2018) Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach**
+
+The paper 
+[Pathak et al., Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.024102) 
+was presentd by Felix S.
+
+The presentation can be found 
+[here](/files/jc_21.05.18_Bezenac2019.pdf "Presentation of Pathak et al. (2018)")
+
+
+[Back to top](#journal-club)
