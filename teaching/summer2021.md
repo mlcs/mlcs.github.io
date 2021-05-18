@@ -100,7 +100,8 @@ measurements; paleoclimate proxy records
 
 **L4. 12 May 2021: Models of the weather and climate**  
 energy balance revisited; general circulation models; conceptual models;
-numerical weather models; statistical weather generators
+numerical weather models; statistical weather generators  
+[slides](/files/sose2021/l4.pdf)
 
 **L5. 19 May 2021: Important climatic systems**  
 El Niño Southern Oscillation; North Atlantic Oscillation; Pacific
