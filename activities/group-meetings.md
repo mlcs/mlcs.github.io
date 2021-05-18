@@ -30,10 +30,11 @@ meetings are entirely on Zoom.
 [Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
 
 + **21 May 2021**  
-_TBA_  
+Get-to-Know & Informal discussion
 
 + **28 May 2021**  
-__TBA__  
+**Analysing tropical - extratropical teleconnection in boreal
+summer with causal maps: ERA-I vs SEAS5**  
 [Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
 [ESMO, PIK
 Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)
