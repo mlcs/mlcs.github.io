@@ -24,11 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **7 May 2021**  
-**Application of edit distance method to recurrence plot and climate network**  
-[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
-[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
-
 + **14 May 2021**  
 **Ensemble Prediction**  
 [Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
@@ -41,25 +36,39 @@ _TBA_
 __TBA__  
 [Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
 [ESMO, PIK
-Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)  
+Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)
 
 + **4 June 2021**  
-_TBA_  
+_TBA_
+[Christian Fröhlich]()  
+[Working group]()
 
 + **11 June 2021**  
-_TBA_  
+_TBA_
 
 + **18 June 2021**  
-_TBA_  
+_IMPRS Boot Camp_
 
 + **25 June 2021**  
-_TBA_  
+_TBA_
+
++ **2 July 2021**  
+**Interpretable neural networks to identify which density Information
+determines the state of the AMOC**  
+[Björn Mayer
+](https://www.ifm.uni-hamburg.de/en/institute/staff/mayerbjoern.html)  
+[Climate Modelling, Institute of Oceanography, Universität
+Hamburg](https://www.ifm.uni-hamburg.de/en/workareas/climatemodelling.html)
 
 
 ***
 
 ## Past Meetings
 
++ **7 May 2021**  
+**Application of edit distance method to recurrence plot and climate network**  
+[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
+[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 + _30 April 2021_  
 _vEGU 2021_
 + _23 April 2021_  

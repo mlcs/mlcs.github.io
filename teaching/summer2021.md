@@ -98,9 +98,9 @@ how do we measure weather; station based measurements; satellite based
 measurements; paleoclimate proxy records  
 [slides](/files/sose2021/l3.pdf)
 
-**L4. 12 May 2021: Models of the weather and climate**  
-energy balance revisited; general circulation models; conceptual models;
-numerical weather models; statistical weather generators  
+**L4. 12 May 2021: Models of the earth's climate**  
+climate model basics; energy balance models; models of intermediate
+complexity; general circulation models  
 [slides](/files/sose2021/l4.pdf)
 
 **L5. 19 May 2021: Important climatic systems**  
