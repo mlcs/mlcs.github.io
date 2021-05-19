@@ -104,8 +104,9 @@ complexity; general circulation models
 [slides](/files/sose2021/l4.pdf)
 
 **L5. 19 May 2021: Important climatic systems**  
-El Niño Southern Oscillation; North Atlantic Oscillation; Pacific
-Decadal Oscillation; Indian Ocean Dipole; monsoon systems
+El Niño Southern Oscillation; North Atlantic Oscillation; Arctic
+Oscillation; Indian Ocean Dipole  
+[slides](/files/sose2021/l5.pdf)
 
 _26 May 2021: Pfingstpause (Pentecost break)_  
 _No lecture_
