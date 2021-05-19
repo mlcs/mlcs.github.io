@@ -61,6 +61,22 @@ determines the state of the AMOC**
 [Climate Modelling, Institute of Oceanography, Universität
 Hamburg](https://www.ifm.uni-hamburg.de/en/workareas/climatemodelling.html)
 
++ **9 July 2021**  
+**Prediction of soil type maps using uncertainty**  
+[Kerstin Rau](https://uni-tuebingen.de/en/153786)  
+[Soil Science and Geomorphology, University of Tübingen](https://uni-tuebingen.de/en/104517)
+
++ **14 July 2021 (Guest Lecture for ML-4430 course)**  
+_TBA_  
+[Peter Dueben](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-dueben)  
+[Earth System Modelling Seciton, ECMFW](https://www.ecmwf.int/)
+
++ **23 July 2021**  
+_TBA_
+
+
++ **30 July 2021**  
+_TBA_
 
 ***
 
