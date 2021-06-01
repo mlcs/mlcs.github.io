@@ -24,21 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **14 May 2021**  
-**Ensemble Prediction**  
-[Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
-[Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
-
-+ **21 May 2021**  
-Get-to-Know & Informal discussion
-
-+ **28 May 2021**  
-**Analysing tropical - extratropical teleconnection in boreal
-summer with causal maps: ERA-I vs SEAS5**  
-[Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
-[ESMO, PIK
-Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)
-
 + **4 June 2021**  
 **Curvature-based analysis of climate networks**  
 [Christian Fröhlich](https://twitter.com/froehlicherchr)  
@@ -52,6 +37,8 @@ _IMPRS Boot Camp_
 
 + **25 June 2021**  
 _TBA_
+**Thomas lymburn**  
+**University of Western Australia**
 
 + **2 July 2021**  
 **Interpretable neural networks to identify which density Information
@@ -81,6 +68,21 @@ _TBA_
 ***
 
 ## Past Meetings
+
++ **28 May 2021**  
+**Analysing tropical - extratropical teleconnection in boreal
+summer with causal maps: ERA-I vs SEAS5**  
+[Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
+[ESMO, PIK
+Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)
+
++ **21 May 2021**  
+Get-to-Know & Informal discussion
+
++ **14 May 2021**  
+**Ensemble Prediction**  
+[Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
+[Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
 
 + **7 May 2021**  
 **Application of edit distance method to recurrence plot and climate network**  
