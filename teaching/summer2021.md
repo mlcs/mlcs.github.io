@@ -114,9 +114,9 @@ _No lecture_
 _31 May 2021: Last date for project topic finalisation_  
 _Students have to hand in their project topics by this date._
 
-**L6. 2 June 2021: Classical learning approaches for weather and climate**  
-empirical orthogonal functions; clustering approaches; Markov models;
-statistical models for trend, seasonality, and residuals
+**L6. 2 June 2021: Non-neural network approaches**  
+empirical orthogonal functions; clustering analysis  
+[slides](/files/sose2021/l6.pdf)
 
 **L7. 9 June 2021: Deep learning approaches for weather and climate**  
 weather forecasts; forecasting climate indices; improving climate
