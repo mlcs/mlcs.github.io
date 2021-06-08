@@ -98,14 +98,15 @@ how do we measure weather; station based measurements; satellite based
 measurements; paleoclimate proxy records  
 [slides](/files/sose2021/l3.pdf)
 
-**L4. 12 May 2021: Models of the weather and climate**  
-energy balance revisited; general circulation models; conceptual models;
-numerical weather models; statistical weather generators  
+**L4. 12 May 2021: Models of the earth's climate**  
+climate model basics; energy balance models; models of intermediate
+complexity; general circulation models  
 [slides](/files/sose2021/l4.pdf)
 
 **L5. 19 May 2021: Important climatic systems**  
-El Niño Southern Oscillation; North Atlantic Oscillation; Pacific
-Decadal Oscillation; Indian Ocean Dipole; monsoon systems
+El Niño Southern Oscillation; North Atlantic Oscillation; Arctic
+Oscillation; Indian Ocean Dipole  
+[slides](/files/sose2021/l5.pdf)
 
 _26 May 2021: Pfingstpause (Pentecost break)_  
 _No lecture_
@@ -113,9 +114,9 @@ _No lecture_
 _31 May 2021: Last date for project topic finalisation_  
 _Students have to hand in their project topics by this date._
 
-**L6. 2 June 2021: Classical learning approaches for weather and climate**  
-empirical orthogonal functions; clustering approaches; Markov models;
-statistical models for trend, seasonality, and residuals
+**L6. 2 June 2021: Non-neural network approaches**  
+empirical orthogonal functions; clustering analysis  
+[slides](/files/sose2021/l6.pdf)
 
 **L7. 9 June 2021: Deep learning approaches for weather and climate**  
 weather forecasts; forecasting climate indices; improving climate

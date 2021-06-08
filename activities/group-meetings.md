@@ -24,42 +24,70 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **7 May 2021**  
-**Application of edit distance method to recurrence plot and climate network**  
-[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
-[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
++ **11 June 2021**  
+_TBA_
+
++ **18 June 2021**  
+_IMPRS Boot Camp_
+
++ **25 June 2021**  
+**Reservoir computing with swarms** 
+Thomas Lymburn  
+University of Western Australia
+
++ **2 July 2021**  
+**Interpretable neural networks to identify which density Information
+determines the state of the AMOC**  
+[Björn Mayer
+](https://www.ifm.uni-hamburg.de/en/institute/staff/mayerbjoern.html)  
+[Climate Modelling, Institute of Oceanography, Universität
+Hamburg](https://www.ifm.uni-hamburg.de/en/workareas/climatemodelling.html)
+
++ **9 July 2021**  
+**Prediction of soil type maps using uncertainty**  
+[Kerstin Rau](https://uni-tuebingen.de/en/153786)  
+[Soil Science and Geomorphology, University of Tübingen](https://uni-tuebingen.de/en/104517)
+
++ **14 July 2021 (Guest Lecture for ML-4430 course)**  
+_TBA_  
+[Peter Dueben](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-dueben)  
+[Earth System Modelling Seciton, ECMFW](https://www.ecmwf.int/)
+
++ **23 July 2021**  
+_TBA_
+
+
++ **30 July 2021**  
+_TBA_
+
+***
+
+## Past Meetings
+
++ **4 June 2021**  
+**Curvature-based analysis of climate networks**  
+[Christian Fröhlich](https://twitter.com/froehlicherchr)  
+MLCS
+
++ **28 May 2021**  
+**Analysing tropical - extratropical teleconnection in boreal
+summer with causal maps: ERA-I vs SEAS5**  
+[Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
+[ESMO, PIK
+Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)
+
++ **21 May 2021**  
+Get-to-Know & Informal discussion
 
 + **14 May 2021**  
 **Ensemble Prediction**  
 [Online Public Lecture by Tim Palmer](https://youtu.be/_mm3d1bv9Kw)  
 [Perspectives Climate](https://www.youtube.com/channel/UCjgGryoHE55uAhZTDpw8xOg)  
 
-+ **21 May 2021**  
-_TBA_  
-
-+ **28 May 2021**  
-__TBA__  
-[Giorgia Di Capua](https://www.pik-potsdam.de/members/dicapua/homepage)  
-[ESMO, PIK
-Potsdam](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation)  
-
-+ **4 June 2021**  
-_TBA_  
-
-+ **11 June 2021**  
-_TBA_  
-
-+ **18 June 2021**  
-_TBA_  
-
-+ **25 June 2021**  
-_TBA_  
-
-
-***
-
-## Past Meetings
-
++ **7 May 2021**  
+**Application of edit distance method to recurrence plot and climate network**  
+[Abhirup Banerjee](https://www.pik-potsdam.de/members/banerjee)  
+[Complexity Science, PIK Potsdam](https://www.pik-potsdam.de/en/institute/departments/complexity-science)  
 + _30 April 2021_  
 _vEGU 2021_
 + _23 April 2021_  
