@@ -19,28 +19,15 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **25 May 2021**  
-Presentation of 
-[Liang et al., Gated Recurrent UnitNetwork for Wind Speed Forecasting (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189890) 
-by Lea E.
-
-+ **1 June 2021**  
-Presentation of  
-[Gaussian Processes](http://www.gaussianprocess.org/gpml/)
-by Markus D.
-
-+ **8 June 2021**  
-Presentation of [Traxl et al., Deep Graphs (2016) ](https://doi.org/10.1063/1.4952963) by Julia H.
-
 + **15 June 2021**  
 Presentation of 
 [Mokhov et al., Alternating mutual influence of ENSO and Indian Monsoon (2011)](https://doi.org/10.1029/2010GL045932) 
 by Alexej O.
 
-+ **22 June 2021**
++ **22 June 2021**\
 Presentation of [Cachay et al., The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks (2021)](https://arxiv.org/abs/2104.05089) by Christian F.
 
-+ **29 June 2021**
++ **29 June 2021**\
 Presentation of 
 [Gerhardus et al., High-recall causal discovery for autocorrelated timeseries with latent confounders (2021)](https://arxiv.org/pdf/2007.01884.pdf)
 by Bedartha G.
@@ -84,9 +71,10 @@ by Bedartha G.
 [06.04.21 - Li et al. (2020) Impact of NAO and atmospheric blockin on European heatwaves](#06042021)\
 [13.04.21 - Domeisen et al. (2020) The surface impact of sudden stratospheric warming events](#13042021)\
 [04.05.21 - Bécenac et al. (2019) Deep learning for physical processes: incorporating prior scientific knowledge](#04052021)\
-[18.05.21 - Pathak et al. (2018) Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](#18052021)
-
-****
+[18.05.21 - Pathak et al. (2018) Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](#18052021)\
+[25.05.21 - Liang et al. (2020) Gated Recurrent UnitNetwork for Wind Speed Forecasting](#25052021)\
+[01.06.21 - Sun et al. (2014) Monthly streamflow forecasting using Gaussian Process Regression](#01062021)\
+[08.06.21 - Traxl et al. (2016) Deep Graphs](#08062021)
 
 
 ***
@@ -929,5 +917,42 @@ was presentd by Felix S.
 The presentation can be found 
 [here](/files/jc_21.05.18_Bezenac2019.pdf "Presentation of Pathak et al. (2018)")
 
+[Back to top](#journal-club)
+
+***
+
+### 25.05.2021
+
+**Liang et al., Gated Recurrent UnitNetwork for Wind Speed Forecasting (2020)**
+
+The paper 
+[Liang et al., Gated Recurrent UnitNetwork for Wind Speed Forecasting (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189890) 
+was precented by Lea E.
+
+[Back to top](#journal-club)
+
+***
+
+### 01.06.2021
+
+**Sun et al., Monthly streamflow forecasting using Gaussian Process Regression (2014)**
+
+The paper  
+[Sun et al., Monthly streamflow forecasting using Gaussian Process Regression (2014)](https://doi.org/10.1016/j.jhydrol.2014.01.023)
+was presentd by Markus D.
+
+[Back to top](#journal-club)
+
+***
+
+### 08.06.2021
+
+**Traxl et al., Deep Graphs (2016)**
+
+The paper [Traxl et al., Deep Graphs (2016) ](https://doi.org/10.1063/1.4952963)
+was presented by Julia H.
+
+The presentation can be found 
+[here](/files/jc_21.06.08_DeepGraphs.pdf "Presentation of Deep Graphs")
 
 [Back to top](#journal-club)
