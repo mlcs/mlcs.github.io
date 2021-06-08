@@ -24,11 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **4 June 2021**  
-**Curvature-based analysis of climate networks**  
-[Christian Fröhlich](https://twitter.com/froehlicherchr)  
-MLCS
-
 + **11 June 2021**  
 _TBA_
 
@@ -36,9 +31,9 @@ _TBA_
 _IMPRS Boot Camp_
 
 + **25 June 2021**  
-_TBA_
-**Thomas lymburn**  
-**University of Western Australia**
+**Reservoir computing with swarms** 
+Thomas Lymburn  
+University of Western Australia
 
 + **2 July 2021**  
 **Interpretable neural networks to identify which density Information
@@ -68,6 +63,11 @@ _TBA_
 ***
 
 ## Past Meetings
+
++ **4 June 2021**  
+**Curvature-based analysis of climate networks**  
+[Christian Fröhlich](https://twitter.com/froehlicherchr)  
+MLCS
 
 + **28 May 2021**  
 **Analysing tropical - extratropical teleconnection in boreal
