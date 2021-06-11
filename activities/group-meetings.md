@@ -25,7 +25,9 @@ meetings are entirely on Zoom.
 ## Upcoming
 
 + **11 June 2021**  
-_TBA_
+**Intro to the ML Cloud SLURM queue**  
+Discussion led by Felix Strnad  
+MLCS
 
 + **18 June 2021**  
 _IMPRS Boot Camp_
