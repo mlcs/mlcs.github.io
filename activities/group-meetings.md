@@ -33,7 +33,7 @@ MLCS
 _IMPRS Boot Camp_
 
 + **25 June 2021**  
-**Reservoir computing with swarms** 
+**Reservoir computing with swarms**   
 Thomas Lymburn  
 University of Western Australia
 
