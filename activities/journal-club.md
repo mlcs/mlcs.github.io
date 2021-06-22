@@ -19,14 +19,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **15 June 2021**  
-Presentation of 
-[Mokhov et al., Alternating mutual influence of ENSO and Indian Monsoon (2011)](https://doi.org/10.1029/2010GL045932) 
-by Alexej O.
-
-+ **22 June 2021**\
-Presentation of [Cachay et al., The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks (2021)](https://arxiv.org/abs/2104.05089) by Christian F.
-
 + **29 June 2021**\
 Presentation of 
 [Gerhardus et al., High-recall causal discovery for autocorrelated timeseries with latent confounders (2021)](https://arxiv.org/pdf/2007.01884.pdf)
@@ -74,7 +66,10 @@ by Bedartha G.
 [18.05.21 - Pathak et al. (2018) Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](#18052021)\
 [25.05.21 - Liang et al. (2020) Gated Recurrent UnitNetwork for Wind Speed Forecasting](#25052021)\
 [01.06.21 - Sun et al. (2014) Monthly streamflow forecasting using Gaussian Process Regression](#01062021)\
-[08.06.21 - Traxl et al. (2016) Deep Graphs](#08062021)
+[08.06.21 - Traxl et al. (2016) Deep Graphs](#08062021)\
+[15.06.21 - Mokhov et al. (2011) Alternating mutual influence of ENSO and Indian Monsoon](#15062021)\
+[22.06.21 - Cachay et al. (2021) The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks](#22062021)
+
 
 
 ***
@@ -929,6 +924,9 @@ The paper
 [Liang et al., Gated Recurrent UnitNetwork for Wind Speed Forecasting (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189890) 
 was precented by Lea E.
 
+The presentation can be found 
+[here](/files/jc_21.05.25_Tao.pdf "Presentation of Liang et al. (2020)")
+
 [Back to top](#journal-club)
 
 ***
@@ -940,6 +938,9 @@ was precented by Lea E.
 The paper  
 [Sun et al., Monthly streamflow forecasting using Gaussian Process Regression (2014)](https://doi.org/10.1016/j.jhydrol.2014.01.023)
 was presentd by Markus D.
+
+The presentation can be found 
+[here](/files/jc_21.06.01_GPs.pdf "Presentation of Gaussian Processes for Streamflow")
 
 [Back to top](#journal-club)
 
@@ -954,5 +955,36 @@ was presented by Julia H.
 
 The presentation can be found 
 [here](/files/jc_21.06.08_DeepGraphs.pdf "Presentation of Deep Graphs")
+
+[Back to top](#journal-club)
+
+### 15.06.2021
+
+**Mokhov et al., Alternating mutual influence of ENSO and Indian Monsoon (2011)**
+
+The paper
+[Mokhov et al., Alternating mutual influence of ENSO and Indian Monsoon (2011)](https://doi.org/10.1029/2010GL045932) 
+was presented by Alexej O.
+
+The presentation can be found 
+[here](/files/jc_21.06.15_Mokhov_2011.pdf "Presentation of Mokhov (2011)")
+
+[Back to top](#journal-club)
+
+### 22.06.2021
+
+**Cachay et al., The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks (2021)**
+
+The paper [Cachay et al., The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks (2021)](https://arxiv.org/abs/2104.05089) was presented by Christian F.
+
+Discussion:
+- Overall an very interesting paper connecting climate networks with forecasting
+- The learned graphs do not have a lot in common with climate networks and thus their interpretability is hard 
+- How would a saliency map of the GNN look like?
+- As most statistical ENSO models it fails to predict the extreme events 
+
+The presentation can be found 
+[here](/files/jc_21.06.22_TheWorldAsAGraph.pdf "Presentation of Cachay (2021)")
+
 
 [Back to top](#journal-club)
