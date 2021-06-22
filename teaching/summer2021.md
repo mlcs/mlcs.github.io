@@ -118,13 +118,16 @@ _Students have to hand in their project topics by this date._
 empirical orthogonal functions; clustering analysis  
 [slides](/files/sose2021/l6.pdf)
 
-**L7. 9 June 2021: Deep learning approaches for weather and climate**  
-weather forecasts; forecasting climate indices; improving climate
-models; finding low dimensional representations
+**L7. 9 June 2021: Neural network approaches**  
+weather forecast post-processing; climate model parametrisations;
+data-driven modelling; ENSO forecasting  
+[slides](/files/sose2021/l7.pdf)
 
-**L8. 16 June 2021: Climate network approaches for weather and climate**  
-what are climate networks; hidden spatial patterns; teleconnections;
-early warning systems; feature detection for deep learning
+**L8. 16 June 2021: Climate networks**  
+what are climate networks & what do they tell us; potential pitfalls in
+climate networks; climate networks from graphical models; climate
+networks with machine learning  
+[slides](/files/sose2021/l8.pdf)
 
 **L9. 23 June 2021: Machine learning approaches in paleoclimate**  
 climate field reconstructions; detecting abrupt transitions;
