@@ -129,9 +129,10 @@ climate networks; climate networks from graphical models; climate
 networks with machine learning  
 [slides](/files/sose2021/l8.pdf)
 
-**L9. 23 June 2021: Machine learning approaches in paleoclimate**  
-climate field reconstructions; detecting abrupt transitions;
-paleoclimate proxy parametrizations
+**L9. 23 June 2021: Machine learning for paleoclimate**  
+climate field reconstructions; paleoclimate proxy climate networks  
+[slides](/files/sose2021/l9.pdf)
+
 
 **L10. 30 June 2021: Tutorial lecture**  
 discuss points that need further clarification; students have to come
