@@ -24,19 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **11 June 2021**  
-**Intro to the ML Cloud SLURM queue**  
-Discussion led by Felix Strnad  
-MLCS
-
-+ **18 June 2021**  
-_IMPRS Boot Camp_
-
-+ **25 June 2021**  
-**Reservoir computing with swarms**   
-Thomas Lymburn  
-University of Western Australia
-
 + **2 July 2021**  
 **Interpretable neural networks to identify which density Information
 determines the state of the AMOC**  
@@ -65,6 +52,19 @@ _TBA_
 ***
 
 ## Past Meetings
+
++ **25 June 2021**  
+**Reservoir computing with swarms**   
+Thomas Lymburn  
+University of Western Australia
+
++ **18 June 2021**  
+_IMPRS Boot Camp_
+
++ **11 June 2021**  
+**Intro to the ML Cloud SLURM queue**  
+Discussion led by Felix Strnad  
+MLCS
 
 + **4 June 2021**  
 **Curvature-based analysis of climate networks**  
