@@ -20,46 +20,59 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ## Upcoming
 
 + **13 July 2021**
+
   [3rd Cluster Conference "Machine Learning in Science" 2021](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/events/events/#c1271139)
 
 + **20 July 2021**
+
   Presentation of 
   [Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](https://dl.acm.org/doi/10.1145/3429309.3429326)
   by Jakob S.
 
 + **27 July 2021**
+
   TBA by Felix S.
 
 + **3 August 2021**
+
   TBA by Moritz M.
 
 + **10 August 2021**
+
   Presentation of 
   [Liu et al. (2016) Stein Variational Gradient Descent](https://papers.nips.cc/paper/2016/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
   by Jannik T.
 
 + **17 August 2021**
+
   TBA by Felix O.
 
 + **24 August 2021**
+
   TBA by Julia H.
 
 + **31 August 2021**
+
   TBA by Ranganatha B.
 
 + **7 September 2021**
+
   TBA by Alexej O.
 
 + **14 September 2021**
+
   TBA by Altaf A.
 
 + **21 September 2021**
+
   TBA by Davide L.
 
 + **28 September 2021**
+
   TBA by Andreas B.
 
 + **5 October 2021**
+
   TBA by Bedartha G.
 
 Presentation of 
