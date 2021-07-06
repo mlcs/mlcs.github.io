@@ -24,27 +24,6 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **11 June 2021**  
-**Intro to the ML Cloud SLURM queue**  
-Discussion led by Felix Strnad  
-MLCS
-
-+ **18 June 2021**  
-_IMPRS Boot Camp_
-
-+ **25 June 2021**  
-**Reservoir computing with swarms**   
-Thomas Lymburn  
-University of Western Australia
-
-+ **2 July 2021**  
-**Interpretable neural networks to identify which density Information
-determines the state of the AMOC**  
-[Björn Mayer
-](https://www.ifm.uni-hamburg.de/en/institute/staff/mayerbjoern.html)  
-[Climate Modelling, Institute of Oceanography, Universität
-Hamburg](https://www.ifm.uni-hamburg.de/en/workareas/climatemodelling.html)
-
 + **9 July 2021**  
 **Prediction of soil type maps using uncertainty**  
 [Kerstin Rau](https://uni-tuebingen.de/en/153786)  
@@ -56,8 +35,10 @@ _TBA_
 [Earth System Modelling Seciton, ECMFW](https://www.ecmwf.int/)
 
 + **23 July 2021**  
-_TBA_
-
+**An investigation into precipitation history using HYSPLIT and 
+PySplit within SE Uzbekistan**  
+[Evie Merrygold](https://www.linkedin.com/in/evie-merrygold-001b99188)  
+University of Northumbria, UK
 
 + **30 July 2021**  
 _TBA_
@@ -65,6 +46,27 @@ _TBA_
 ***
 
 ## Past Meetings
+
++ _Cancelled 2 July 2021_  
+_Interpretable neural networks to identify which density Information
+determines the state of the AMOC_  
+[Björn Mayer
+](https://www.ifm.uni-hamburg.de/en/institute/staff/mayerbjoern.html)  
+[Climate Modelling, Institute of Oceanography, Universität
+Hamburg](https://www.ifm.uni-hamburg.de/en/workareas/climatemodelling.html)
+
++ **25 June 2021**  
+**Reservoir computing with swarms**   
+Thomas Lymburn  
+University of Western Australia
+
++ **18 June 2021**  
+_IMPRS Boot Camp_
+
++ **11 June 2021**  
+**Intro to the ML Cloud SLURM queue**  
+Discussion led by Felix Strnad  
+MLCS
 
 + **4 June 2021**  
 **Curvature-based analysis of climate networks**  

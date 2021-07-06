@@ -129,14 +129,22 @@ climate networks; climate networks from graphical models; climate
 networks with machine learning  
 [slides](/files/sose2021/l8.pdf)
 
-**L9. 23 June 2021: Machine learning approaches in paleoclimate**  
-climate field reconstructions; detecting abrupt transitions;
-paleoclimate proxy parametrizations
+**L9. 23 June 2021: Machine learning for paleoclimate**  
+climate field reconstructions; paleoclimate proxy climate networks  
+[slides](/files/sose2021/l9.pdf)
+
 
 **L10. 30 June 2021: Tutorial lecture**  
-discuss points that need further clarification; students have to come
-up with a lost of topics from previous lectures that were difficult to
-understand; further discussions possible on ongoing project work
+EOF analysis of SST anomalies in the entire Pacific ocean region  
+[ERA5 monthly SST data from 1979-01 to 2020-12 on a 1 deg x 1 deg
+grid](/files/sose2021/tutorial/sst_1979_2020_pacific_coarse.nc)  
+[Monthly Oceanic Niño index from 1979-01 to
+2020-12](/files/sose2021/tutorial/oni.csv)  
+[Monthly global mean surface temperature from 1979-01 to 2020-12](/files/sose2021/tutorial/gmst.csv)  
+[Monthly Pacific Decadal Oscillation index from 1979-01 to
+2020-12](/files/sose2021/tutorial/pdo.csv)  
+[Jupyter notebook](/files/sose2021/tutorial/pca_pacific.ipynb)  
+[Python script](/files/sose2021/tutorial/pca_pacific.py)  
 
 **L11. 7 July 2021: Introduction to scientific communication**  
 how to write a scientific paper; how to give a scientific presentation;
