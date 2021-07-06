@@ -19,7 +19,49 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **29 June 2021**\
++ **13 July 2021**
+  [3rd Cluster Conference "Machine Learning in Science" 2021](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/events/events/#c1271139)
+
++ **20 July 2021**
+  Presentation of 
+  [Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](https://dl.acm.org/doi/10.1145/3429309.3429326)
+  by Jakob S.
+
++ **27 July 2021**
+  TBA by Felix S.
+
++ **3 August 2021**
+  TBA by Moritz M.
+
++ **10 August 2021**
+  Presentation of 
+  [Liu et al. (2016) Stein Variational Gradient Descent](https://papers.nips.cc/paper/2016/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+  by Jannik T.
+
++ **17 August 2021**
+  TBA by Felix O.
+
++ **24 August 2021**
+  TBA by Julia H.
+
++ **31 August 2021**
+  TBA by Ranganatha B.
+
++ **7 September 2021**
+  TBA by Alexej O.
+
++ **14 September 2021**
+  TBA by Altaf A.
+
++ **21 September 2021**
+  TBA by Davide L.
+
++ **28 September 2021**
+  TBA by Andreas B.
+
++ **5 October 2021**
+  TBA by Bedartha G.
+
 Presentation of 
 [Gerhardus et al., High-recall causal discovery for autocorrelated timeseries with latent confounders (2021)](https://arxiv.org/pdf/2007.01884.pdf)
 by Bedartha G.
@@ -68,7 +110,8 @@ by Bedartha G.
 [01.06.21 - Sun et al. (2014) Monthly streamflow forecasting using Gaussian Process Regression](#01062021)\
 [08.06.21 - Traxl et al. (2016) Deep Graphs](#08062021)\
 [15.06.21 - Mokhov et al. (2011) Alternating mutual influence of ENSO and Indian Monsoon](#15062021)\
-[22.06.21 - Cachay et al. (2021) The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks](#22062021)
+[22.06.21 - Cachay et al. (2021) The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks](#22062021)\
+[06.07.21 - Runge et al. (2019) Detecting and quantifying causal associations in large nonlinear time series datasets](#06072021)
 
 
 
@@ -985,6 +1028,22 @@ Discussion:
 
 The presentation can be found 
 [here](/files/jc_21.06.22_TheWorldAsAGraph.pdf "Presentation of Cachay (2021)")
+
+
+[Back to top](#journal-club)
+
+***
+
+###  06.07.2021
+
+**Runge et al. (2019) Detecting and quantifying causal associations in large nonlinear time series datasets**
+
+The paper by  
+[Runge et al. (2019) Detecting and quantifying causal associations in large nonlinear time series datasets](https://advances.sciencemag.org/content/5/11/eaau4996.full)
+was presented by Bedartha G.
+
+The presentation can be found 
+[here](/files/jc_21.06.22_TheWorldAsAGraph.pdf "Presentation of Runge (2019)")
 
 
 [Back to top](#journal-club)
