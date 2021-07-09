@@ -1056,7 +1056,7 @@ The paper by
 was presented by Bedartha G.
 
 The presentation can be found 
-[here](/files/jc_21.06.22_TheWorldAsAGraph.pdf "Presentation of Runge (2019)")
+[here](/files/jc_2021.07.06_Runge_2019.pdf "Presentation of Runge (2019)")
 
 
 [Back to top](#journal-club)
