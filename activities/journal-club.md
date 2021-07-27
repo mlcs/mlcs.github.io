@@ -19,28 +19,14 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **13 July 2021**
-
-  [3rd Cluster Conference "Machine Learning in Science" 2021](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/events/events/#c1271139)
-
-+ **20 July 2021**
-
-  Presentation of 
-  [Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](https://dl.acm.org/doi/10.1145/3429309.3429326)
-  by Jakob S.
-
-+ **27 July 2021**
-
-  TBA by Felix S.
-
 + **3 August 2021**
 
-  TBA by Moritz M.
+  TBA by Felix S.
 
 + **10 August 2021**
 
   Presentation of 
-  [Liu et al. (2016) Stein Variational Gradient Descent](https://papers.nips.cc/paper/2016/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+  [Liu et al., Stein Variational Gradient Descent (2016)](https://papers.nips.cc/paper/2016/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
   by Jannik T.
 
 + **17 August 2021**
@@ -49,7 +35,9 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 + **24 August 2021**
 
-  TBA by Julia H.
+  Presentation of 
+  [Vicedo-Cabrera et al., The burden of heat-related mortality attributable to recent human-induced climate change (2021)](https://www.nature.com/articles/s41558-021-01058-x)
+  by Julia H.
 
 + **31 August 2021**
 
@@ -73,11 +61,9 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 + **5 October 2021**
 
-  TBA by Bedartha G.
-
-Presentation of 
-[Gerhardus et al., High-recall causal discovery for autocorrelated timeseries with latent confounders (2021)](https://arxiv.org/pdf/2007.01884.pdf)
-by Bedartha G.
+  Presentation of 
+  [Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](https://journals.ametsoc.org/view/journals/clim/31/19/jcli-d-17-0842.1.xml)
+  by Bedartha G.
 
 ***
 
@@ -124,7 +110,9 @@ by Bedartha G.
 [08.06.21 - Traxl et al. (2016) Deep Graphs](#08062021)\
 [15.06.21 - Mokhov et al. (2011) Alternating mutual influence of ENSO and Indian Monsoon](#15062021)\
 [22.06.21 - Cachay et al. (2021) The World as a Graph: Improving El Nino Forecasts with Graph Neural Networks](#22062021)\
-[06.07.21 - Runge et al. (2019) Detecting and quantifying causal associations in large nonlinear time series datasets](#06072021)
+[06.07.21 - Runge et al. (2019) Detecting and quantifying causal associations in large nonlinear time series datasets](#06072021)\
+[20.07.21 - Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](#20072021)\
+[27.07.21 - Gerhardus, Runge (2020) High-recall causal discovery for autocorrelated time series with latent confounders](#27072021)
 
 
 
@@ -1060,3 +1048,37 @@ The presentation can be found
 
 
 [Back to top](#journal-club)
+
+***
+
+### 20.07.2021
+
+**Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche**
+
+The paper 
+[Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](https://dl.acm.org/doi/10.1145/3429309.3429326)
+was presented by Jakob S.
+
+The presentation can be found 
+[here](/files/jc_21.07.20_Sinha_2020.pdf "Presentation of Sinha et al. (2020)")
+
+
+[Back to top](#journal-club)
+
+***
+
+### 27.07.2021
+
+**Gerhardus, Runge (2020) High-recall causal discovery for autocorrelated time series with latent confounders**
+
+The paper
+[Gerhardus, Runge (2020) High-recall causal discovery for autocorrelated time series with latent confounders](https://proceedings.neurips.cc/paper/2020/file/94e70705efae423efda1088614128d0b-Paper.pdf)
+was presented by Moritz H.
+
+
+The presentation can be found 
+[here](/files/jc_21.07.27_LPCMCI.pdf "P").
+
+[Back to top](#journal-club)
+
+***
