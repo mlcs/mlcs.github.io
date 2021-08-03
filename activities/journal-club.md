@@ -19,10 +19,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **3 August 2021**
-
-  TBA by Felix S.
-
 + **10 August 2021**
 
   Presentation of 
@@ -69,6 +65,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[03.08.21 - Walker et al., Interannual Variability in the Large-Scale Dynamics of the South Asian Summer Monsoon (2015)](#03082021)\
 [27.07.21 - Gerhardus, Runge (2020) High-recall causal discovery for autocorrelated time series with latent confounders](#27072021)\
 [20.07.21 - Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](#20072021)\
 [06.07.21 - Runge et al. (2019) Detecting and quantifying causal associations in large nonlinear time series datasets](#06072021)\
@@ -114,6 +111,18 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+
+### 03.08.2021
+
+**Walker et al., Interannual Variability in the Large-Scale Dynamics of the South Asian Summer Monsoon (2015)**
+
+The paper by
+[Walker et al., Interannual Variability in the Large-Scale Dynamics of the South Asian Summer Monsoon (2015)](https://journals.ametsoc.org/view/journals/clim/28/9/jcli-d-14-00612.1.xml)
+was presented by Felix S.
+
+[Back to top](#journal-club)
 
 ***
 
