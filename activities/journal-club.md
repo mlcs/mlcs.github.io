@@ -19,16 +19,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **10 August 2021**
-
-  Presentation of 
-  [Liu et al., Stein Variational Gradient Descent (2016)](https://papers.nips.cc/paper/2016/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
-  by Jannik T.
-
-+ **17 August 2021**
-
-  TBA by Felix O.
-
 + **24 August 2021**
 
   Presentation of 
@@ -65,6 +55,8 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[17.10.21 - Weyn et al., Sub-Seasonal Forecasting With a Large Ensemble of Deep-Learning Weather Prediction Models (2021)](#17102021)\
+[10.08.21 - Liu et al., Stein Variational Gradient Descent (2016)](#10082021)\
 [03.08.21 - Walker et al., Interannual Variability in the Large-Scale Dynamics of the South Asian Summer Monsoon (2015)](#03082021)\
 [27.07.21 - Gerhardus, Runge (2020) High-recall causal discovery for autocorrelated time series with latent confounders](#27072021)\
 [20.07.21 - Sinha et al. (2020) Variational Autoencoder Anomaly-Detection of Avalanche](#20072021)\
@@ -111,6 +103,30 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+
+### 17.10.2021
+
+**Weyn et al., Sub-Seasonal Forecasting With a Large Ensemble of Deep-Learning Weather Prediction Models (2021)**
+
+The paper
+[Weyn et al., Sub-Seasonal Forecasting With a Large Ensemble of Deep-Learning Weather Prediction Models (2021)](https://doi.org/10.1029/2021MS002502)
+was presented by Felix O.
+
+[Back to top](#journal-club)
+
+***
+
+### 10.08.2021
+
+**Liu et al., Stein Variational Gradient Descent (2016)**
+
+The paper 
+[Liu et al., Stein Variational Gradient Descent (2016)](https://papers.nips.cc/paper/2016/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+was presented by Jannik T.
+
+[Back to top](#journal-club)
 
 ***
 
