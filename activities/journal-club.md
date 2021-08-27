@@ -27,7 +27,9 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 + **7 September 2021**
 
-  TBA by Alexej O.
+  Presentation of
+  [Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](https://doi.org/10.1175/JCLI-D-15-0654.1)
+  by Alexej O.
 
 + **14 September 2021**
 
