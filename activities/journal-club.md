@@ -19,11 +19,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **31 August 2021**
-
-  Presentation of 
-  [Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)](https://arxiv.org/abs/1910.10566)
-  by Ranganatha B.
 
 + **7 September 2021**
 
@@ -53,6 +48,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[31.10.21 - Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)](#31102021)\
 [24.10.21 - Vicedo-Cabrera et al., The burden of heat-related mortality attributable to recent human-induced climate change (2021)](24102021)\
 [17.10.21 - Weyn et al., Sub-Seasonal Forecasting With a Large Ensemble of Deep-Learning Weather Prediction Models (2021)](#17102021)\
 [10.08.21 - Liu et al., Stein Variational Gradient Descent (2016)](#10082021)\
@@ -102,6 +98,16 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+
+### 31.10.2021
+
+**Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)**
+
+The paper 
+[Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)](https://arxiv.org/abs/1910.10566)
+was presented by Ranganatha B.
 
 ***
 
