@@ -19,16 +19,11 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-
-+ **7 September 2021**
-
-  Presentation of
-  [Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](https://doi.org/10.1175/JCLI-D-15-0654.1)
-  by Alexej O.
-
 + **14 September 2021**
 
-  TBA by Altaf A.
+  Presentation of 
+  [Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958)
+  by Altaf A.
 
 + **21 September 2021**
 
@@ -36,7 +31,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 + **28 September 2021**
 
-  TBA by Andreas B.
+  TBA
 
 + **5 October 2021**
 
@@ -48,6 +43,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[07.09.21 - Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](#07092021)\
 [31.10.21 - Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)](#31102021)\
 [24.10.21 - Vicedo-Cabrera et al., The burden of heat-related mortality attributable to recent human-induced climate change (2021)](24102021)\
 [17.10.21 - Weyn et al., Sub-Seasonal Forecasting With a Large Ensemble of Deep-Learning Weather Prediction Models (2021)](#17102021)\
@@ -98,6 +94,16 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+
+### 07.09.2021
+
+**Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)**
+
+The paper
+[Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](https://doi.org/10.1175/JCLI-D-15-0654.1)
+was presented by Alexej O.
 
 ***
 
