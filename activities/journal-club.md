@@ -19,21 +19,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **14 September 2021**
-
-  Presentation of 
-  [Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958)
-  by Altaf A.
-
-+ **21 September 2021**
-
-  TBA by Davide L.
-
 + **28 September 2021**
-
-  TBA
-
-+ **5 October 2021**
 
   Presentation of 
   [Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](https://journals.ametsoc.org/view/journals/clim/31/19/jcli-d-17-0842.1.xml)
@@ -43,6 +29,8 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[21.09.21 - Deo et al., Drought forecasting in eastern Australia ... (2017)](#21092021)\
+[14.09.21 - Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](#14092021)\
 [07.09.21 - Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](#07092021)\
 [31.10.21 - Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)](#31102021)\
 [24.10.21 - Vicedo-Cabrera et al., The burden of heat-related mortality attributable to recent human-induced climate change (2021)](24102021)\
@@ -96,6 +84,27 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 
 ***
+
+### 21.09.2021
+
+**Deo et al., Drought forecasting in eastern Australia ... (2017)**
+
+The paper 
+[Deo et al., Drought forecasting in eastern Australia using multivariate adaptive regression spline, least square support vector machine and M5Tree model (2017)](http://dx.doi.org/10.1016/j.atmosres.2016.10.004)
+was presented by Davide L.
+
+***
+
+### 14.09.2021
+
+**Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)**
+
+The paper
+[Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958)
+was presented by Altaf A.
+
+***
+
 
 ### 07.09.2021
 
