@@ -19,16 +19,61 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **28 September 2021**
++ **05 October 2021**
 
-  Presentation of 
-  [Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](https://journals.ametsoc.org/view/journals/clim/31/19/jcli-d-17-0842.1.xml)
-  by Bedartha G.
+    Presentation of 
+    [Cleary et al., Calibrate, emulate, sample (2021)](https://doi.org/10.1016/j.jcp.2020.109716)
+    by Jakob S.
+
++ **12 October 2021**
+
+    TBA by Felix S.
+
++ **19 October 2021**
+
+    TBA by Moritz H.
+
++ **26 October 2021**
+
+    TBA by Jannik K.
+
++ **02 November 2021**
+
+    TBA by Felix O.
+
++ **09 November 2021**
+
+    TBA by Julia H.
+
++ **16 November 2021**
+
+    TBA by Ranganatha B.
+
++ **23 November 2021**
+
+    TBA by Alexej O.
+
++ **30 November 2021**
+
+    TBA by Altaf A.
+
++ **07 December 2021**
+
+    TBA by Davide L. 
+
++ **14 December 2021**
+
+    TBA 
+
++ **21 December 2021**
+ 
+    TBA
 
 ***
 
 ## Past meetings
 
+[28.09.21 - Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](#28092021)\
 [21.09.21 - Deo et al., Drought forecasting in eastern Australia ... (2017)](#21092021)\
 [14.09.21 - Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](#14092021)\
 [07.09.21 - Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](#07092021)\
@@ -84,6 +129,17 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 
 ***
+
+### 28.09.2021
+
+**Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)**
+
+The paper 
+[Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](https://journals.ametsoc.org/view/journals/clim/31/19/jcli-d-17-0842.1.xml)
+was presented by Bedartha G.
+
+***
+
 
 ### 21.09.2021
 
