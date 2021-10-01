@@ -24,15 +24,18 @@ meetings are entirely on Zoom.
 
 ## Upcoming
 
-+ **9 July 2021**  
-**Prediction of soil type maps using uncertainty**  
-[Kerstin Rau](https://uni-tuebingen.de/en/153786)  
-[Soil Science and Geomorphology, University of Tübingen](https://uni-tuebingen.de/en/104517)
 
-+ **14 July 2021 (Guest Lecture for ML-4430 course)**  
-_TBA_  
-[Peter Dueben](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-dueben)  
-[Earth System Modelling Seciton, ECMFW](https://www.ecmwf.int/)
++ **15 October 2021**  
+__TBA__  
+
++ **22 October 2021**  
+__TBA__  **Bachelors Thesis Defense**  
+[Markus Deppner](https://machineclimate.de/people/deppner/)  
+Department of Computer Science, University of Tübingen
+
+***
+
+## Past Meetings
 
 + **23 July 2021**  
 **An investigation into precipitation history using HYSPLIT and 
@@ -40,12 +43,15 @@ PySplit within SE Uzbekistan**
 [Evie Merrygold](https://www.linkedin.com/in/evie-merrygold-001b99188)  
 University of Northumbria, UK
 
-+ **30 July 2021**  
-_TBA_
++ **14 July 2021 (Guest Lecture for ML-4430 course)**  
+_TBA_  
+[Peter Dueben](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-dueben)  
+[Earth System Modelling Seciton, ECMFW](https://www.ecmwf.int/)
 
-***
-
-## Past Meetings
++ **9 July 2021**  
+**Prediction of soil type maps using uncertainty**  
+[Kerstin Rau](https://uni-tuebingen.de/en/153786)  
+[Soil Science and Geomorphology, University of Tübingen](https://uni-tuebingen.de/en/104517)
 
 + _Cancelled 2 July 2021_  
 _Interpretable neural networks to identify which density Information
