@@ -19,12 +19,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **05 October 2021**
-
-    Presentation of 
-    [Cleary et al., Calibrate, emulate, sample (2021)](https://doi.org/10.1016/j.jcp.2020.109716)
-    by Jakob S.
-
 + **12 October 2021**
 
     TBA by Felix S.
@@ -73,6 +67,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[05.10.21 - Cleary et al., Calibrate, emulate, sample, Jour. Comp. Phys. (2021)](#05102021)\
 [28.09.21 - Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](#28092021)\
 [21.09.21 - Deo et al., Drought forecasting in eastern Australia ... (2017)](#21092021)\
 [14.09.21 - Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](#14092021)\
@@ -130,6 +125,26 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ***
 
+### 05.10.2021
+
+**Cleary et al., Calibrate, emulate, sample, Jour. Comp. Phys. (2021)**
+
+The paper [Cleary et al., Calibrate, emulate, sample (2021)](https://doi.org/10.1016/j.jcp.2020.109716)
+was presented by Jakob S.
+
+The presentation can be found 
+[here](/files/jc_21.10.05_cleary_2020.pdf "P").
+
+Discussion:
+- How does ensemble Kalman inversion scale with number of parameters?
+- What constraints do time-average have on the data and model?
+- Can the method be extended to capture structural model biases?
+
+[Back to top](#journal-club)
+
+***
+
+
 ### 28.09.2021
 
 **Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)**
@@ -137,6 +152,8 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 The paper 
 [Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](https://journals.ametsoc.org/view/journals/clim/31/19/jcli-d-17-0842.1.xml)
 was presented by Bedartha G.
+
+[Back to top](#journal-club)
 
 ***
 
@@ -149,6 +166,8 @@ The paper
 [Deo et al., Drought forecasting in eastern Australia using multivariate adaptive regression spline, least square support vector machine and M5Tree model (2017)](http://dx.doi.org/10.1016/j.atmosres.2016.10.004)
 was presented by Davide L.
 
+[Back to top](#journal-club)
+
 ***
 
 ### 14.09.2021
@@ -158,6 +177,8 @@ was presented by Davide L.
 The paper
 [Chattopadhyay et al., Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning (2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001958)
 was presented by Altaf A.
+
+[Back to top](#journal-club)
 
 ***
 
@@ -170,6 +191,8 @@ The paper
 [Kretschmer et al., Using Causal Effect Networks to Analyze Different Arctic Drivers of Midlatitude Winter Circulation (2016)](https://doi.org/10.1175/JCLI-D-15-0654.1)
 was presented by Alexej O.
 
+[Back to top](#journal-club)
+
 ***
 
 ### 31.10.2021
@@ -179,6 +202,8 @@ was presented by Alexej O.
 The paper 
 [Giffard-Roisin et al., Tropical Cyclone Track Forecasting using Fused Deep Learning from Aligned Reanalysis Data (2020)](https://arxiv.org/abs/1910.10566)
 was presented by Ranganatha B.
+
+[Back to top](#journal-club)
 
 ***
 
