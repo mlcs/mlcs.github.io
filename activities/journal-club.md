@@ -19,17 +19,15 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **12 October 2021**
-
-    TBA by Felix S.
-
 + **19 October 2021**
 
-    TBA by Moritz H.
+    The paper 
+    [Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)](https://www.nature.com/articles/s41586-021-03854-z)
+    will be presented by Jannik K.
 
 + **26 October 2021**
 
-    TBA by Jannik K.
+    TBA by Moritz H.
 
 + **02 November 2021**
 
@@ -67,6 +65,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[12.10.21 - A quick guide through the IPCC 2021](#12102021)\
 [05.10.21 - Cleary et al., Calibrate, emulate, sample, Jour. Comp. Phys. (2021)](#05102021)\
 [28.09.21 - Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](#28092021)\
 [21.09.21 - Deo et al., Drought forecasting in eastern Australia ... (2017)](#21092021)\
@@ -122,6 +121,22 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+
+### 12.10.2021
+
+**A quick guide through the IPCC 2021**
+
+The quick guide through the
+[IPCC 2021](https://www.ipcc.ch/report/ar6/wg1/#FullReport) 
+was presented by Felix S. 
+
+The presentation can be found 
+[here](/files/jc_21.10.12_IPCC_2021.pdf "P").
+
+
+[Back to top](#journal-club)
 
 ***
 
