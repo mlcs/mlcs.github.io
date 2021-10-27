@@ -27,11 +27,34 @@ meetings are entirely on Zoom.
 
 + **15 October 2021**  
 __TBA__  
+[Jakob Schlör](https://machineclimate.de/people/schloer/) and [Felix
+Strnad](https://machineclimate.de/people/strnad/)
+MLCS
 
 + **22 October 2021**  
-__TBA__  **Bachelors Thesis Defense**  
+__TBA__  **Bachelor's Thesis Defense**  
 [Markus Deppner](https://machineclimate.de/people/deppner/)  
-Department of Computer Science, University of Tübingen
+
++ **29 October 2021**  
+__TBA__  
+[Moritz Haas]()  
+MLCS
+
++ **5 November 2021**  
+__TBA__  
+[Alexej Onken]()  
+MLCS
+
++ **12 November 2021**  
+__TBA__ **Master's Thesis Defense"**  
+[Lea Elsemüller](https://machineclimate.de/people/elsemueller/)  
+MLCS
+
++ **19 November 2021**  
+__TBA__  
+[Julia Hellmig]()  
+MLCS
+
 
 ***
 
