@@ -19,19 +19,12 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-+ **19 October 2021**
 
-    The paper 
-    [Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)](https://www.nature.com/articles/s41586-021-03854-z)
-    will be presented by Jannik K.
-
-+ **26 October 2021**
-
-    TBA by Moritz H.
 
 + **02 November 2021**
 
-    TBA by Felix O.
+    Felix O. will present
+    [Praveen et al., Analyzing trend and forecasting of rainfall changes in India using non-parametrical and machine learning approaches (2020)](https://doi.org/10.1038/s41598-020-67228-7)
 
 + **09 November 2021**
 
@@ -65,6 +58,8 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[26.10.21 - Abatzoglou et al., Multivariate climate departures have outpaced univariate changes across global lands (2020)](#26102021)\
+[19.10.21 - Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)](#19102021)\
 [12.10.21 - A quick guide through the IPCC 2021](#12102021)\
 [05.10.21 - Cleary et al., Calibrate, emulate, sample, Jour. Comp. Phys. (2021)](#05102021)\
 [28.09.21 - Capotondi et al., The Nature of the Stochastic Wind Forcing of ENSO (2018)](#28092021)\
@@ -121,6 +116,29 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+
+### 26.10.2021
+
+**Abatzoglou et al., Multivariate climate departures have outpaced univariate changes across global lands (2020)**
+
+The paper
+[Abatzoglou et al., Multivariate climate departures have outpaced univariate changes across global lands (2020)](https://www.nature.com/articles/s41598-020-60270-5) was presented by Moritz H.
+
+[Back to top](#journal-club)
+
+***
+
+### 19.10.2021
+
+**Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)**
+
+The paper 
+[Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)](https://www.nature.com/articles/s41586-021-03854-z)
+was presented by Jannik K.
+
+[Back to top](#journal-club)
 
 ***
 
