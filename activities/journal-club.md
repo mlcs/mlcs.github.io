@@ -20,12 +20,6 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 ## Upcoming
 
 
-
-+ **02 November 2021**
-
-    Felix O. will present
-    [Praveen et al., Analyzing trend and forecasting of rainfall changes in India using non-parametrical and machine learning approaches (2020)](https://doi.org/10.1038/s41598-020-67228-7)
-
 + **09 November 2021**
 
     TBA by Julia H.
@@ -58,6 +52,7 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Past meetings
 
+[02.11.21 - Praveen et al., Analyzing trend and forecasting of rainfall changes in India (2020)](#02112021)\
 [26.10.21 - Abatzoglou et al., Multivariate climate departures have outpaced univariate changes across global lands (2020)](#26102021)\
 [19.10.21 - Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)](#19102021)\
 [12.10.21 - A quick guide through the IPCC 2021](#12102021)\
@@ -118,6 +113,20 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 
 ***
+
+### 02.11.2021
+
+**Praveen et al., Analyzing trend and forecasting of rainfall changes in India using non-parametrical and machine learning approaches (2020)**
+
+The paper
+[Praveen et al., Analyzing trend and forecasting of rainfall changes in India using non-parametrical and machine learning approaches (2020)](https://doi.org/10.1038/s41598-020-67228-7) was presented by Felix O.
+
+
+Notes:
+- non-parametric trend analysis
+    - mann-kendall-test with pre-whitening
+    - pettitt change point test
+
 
 ### 26.10.2021
 
