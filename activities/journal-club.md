@@ -19,39 +19,40 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
+11.01.22 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf) presented by Moritz H.
 
-+ **09 November 2021**
+18.01.22 - [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf) by Ranganatha
 
-    TBA by Julia H.
+25.01.22 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 
-+ **16 November 2021**
+01.02.22 - [Physics-informed semantic inpainting: Application to geostatistical modeling](https://arxiv.org/pdf/1909.09459.pdf)
 
-    TBA by Ranganatha B.
+08.02.22 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
-+ **23 November 2021**
+15.02.22 - [Variational Autoencoding of PDE Inverse Problems](https://arxiv.org/pdf/2006.15641.pdf)
 
-    TBA by Alexej O.
+22.02.22 - [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
 
-+ **30 November 2021**
+01.03.22 - [Sequential Neural Likelihood](http://proceedings.mlr.press/v89/papamakarios19a/papamakarios19a.pdf)
 
-    TBA by Altaf A.
+08.03.22 - [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://arxiv.org/abs/2012.09816)
 
-+ **07 December 2021**
+15.03.22 - [Universal gap scaling in percolation ](https://www.nature.com/articles/s41567-019-0783-2)
 
-    TBA by Davide L. 
+22.03.22 - [Using network theory and machine learning to predict El Niño](https://doi.org/10.5194/esd-9-969-2018)
 
-+ **14 December 2021**
+29.03.22 - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 
-    TBA 
 
-+ **21 December 2021**
- 
-    TBA
 
 ***
 
 ## Past meetings
 
+[14.12.21 - Zambrano et al., Prediction of drought-induced reduction of agricultural productivity ... (2018)](#14122021)\
+[07.12.21 - Kholodovsky et al., A generalized Spatio-Temporal Threshold Clustering method for identification of extreme event patterns (2021)](#07122021)\
+[23.12.21 - Andersson et al., Seasonal Arctic sea ice forecasting (2021)](#23122021)\
+[16.11.21 - Yuan et al., Typhoon Intensity Froecasting Based on LSTM (2021)](#16112021)\
 [02.11.21 - Praveen et al., Analyzing trend and forecasting of rainfall changes in India (2020)](#02112021)\
 [26.10.21 - Abatzoglou et al., Multivariate climate departures have outpaced univariate changes across global lands (2020)](#26102021)\
 [19.10.21 - Ravuri et al., Skillful Precipitation Nowcasting using Deep Generative Models of Radar (2021)](#19102021)\
@@ -111,6 +112,56 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 [02.09.20 - Renard et al. (2019) Hidden Climate Indices for Floodings](#02092020)\
 [01.09.20 - Petersik et al. (2020) Probabilistic ENSO Forecasting](#01092020)
 
+
+***
+### 14.12.21
+
+**Zambrano et al., Prediction of drought-induced reduction of agricultural productivity in Chile from MODIS, rainfall estimates, and climate oscillation indices (2018)**
+
+The [paper](https://www.sciencedirect.com/science/article/pii/S0034425718304541?via%3Dihub) was presented by Davide L.
+
+[Back to top](#journal-club)
+
+***
+
+### 07.12.2021
+
+**Kholodovsky et al. (2021) A generalized Spatio-Temporal Threshold Clustering method for identification of extreme event patterns**
+
+The [paper](https://ascmo.copernicus.org/articles/7/35/2021/) was presented by Julia H.
+
+[Back to top](#journal-club)
+
+***
+
+### 30.11.21
+
+**Better Better — machine learning for improved climate models and projections - AI for Good**
+
+Watch AI for Good video.
+
+[Back to top](#journal-club)
+
+***
+
+### 23.12.2021
+
+**Andersson et al., Seasonal Arctic sea ice forecasting with probabilistic deep learning, Nature Communications, 2021**
+
+The [paper](https://www.nature.com/articles/s41467-021-25257-4.pdf) was presented by Alexej O.
+
+[Back to top](#journal-club)
+
+***
+
+### 16.11.2021
+
+**Yuan et al., Typhoon Intensity Froecasting Based on LSTM (2021)**
+
+The paper was presented by Ranganatha B.
+
+
+[Back to top](#journal-club)
 
 ***
 
