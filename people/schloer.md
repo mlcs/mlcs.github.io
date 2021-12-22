@@ -24,13 +24,12 @@ I'm a theoretical physicist mainly interested in climate data analysis using pro
 ## Research Interests
 
 + Climate data analysis (i.e. spatial-temporal data from satellites and meteorology)
-+ El Nino Southern Oscillation prediction and diversity
-+ Interaction between climate systems  
-+ Uncertainty quantification 
-+ Probabilistic models (Gaussian process regression, Bayesian NN)
++ El Nino Southern Oscillation diversity  
 + Generative models (Hidden Markov models, Variational Autoencoders)
-+ Nonlinear data analysis (complex networks, kernel methods)
-
++ Representational learning
++ Physics-informed Machine Learning (parameter inference, EnKF)
++ Uncertainty quantification 
++ Climate networks
 
 ***
 ## CV
@@ -38,9 +37,11 @@ I'm a theoretical physicist mainly interested in climate data analysis using pro
 I obtained my Bachelor in Physics at the University of Konstanz which was followed by a Masters in Physics at the University of Regensburg. During my studies I spent five months at the Weizmann Institute of Science in Israel and half a year at Bosch Research in Renningen. Since September 2020, I'm a PhD student in the Machine Learning for Climate Science group at the University of Tübingen and I'm part of the International Max-Planck Research School for Intelligent Systems. Privately, I love sports, nature and wildlife.     
 
 ***
-## Publications
+## Publications and conferences
 
-[2020](#2020) 
+### 2021
+
++ [Schlör, J. and Goswami, B.: A data-driven generative model for sea surface temperature fields in the tropical Pacific, EGU General Assembly 2021](https://doi.org/10.5194/egusphere-egu21-12362)
 
 ### 2020
 + Daniel Hernangómez-Pérez, **Jakob Schlör**, David A. Egger, Laerte L. Patera, Jascha Repp, and Ferdinand Evers, 
