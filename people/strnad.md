@@ -20,7 +20,7 @@ I am a complex systems physicists investigating monsoon dynamics and the spatial
     hydrological station networks)
 + Nonlinear data analysis like climate networks and probilistic community detection methods
 + Ricci-curvature based analysis of complex networks
-+ event synchronization methods
++ Event synchronization methods
 + Reinforcement Learning
 
 A more detailed project description can be found [here](https://machineclimate.de/research/projects/).
@@ -28,7 +28,7 @@ A more detailed project description can be found [here](https://machineclimate.d
 ***
 ## CV
 
-I obtained my Bachelor in Physics at the Georg-August University of Göttingen, followed by a specialization in Master of Physics of Complex Systems at the University of Göttingen. During my universtiy studies I spent one year at the University of Pisa. My Master's thesis I wrote at the Potsdam Institute for Climate Impact Research (PIK). I spent one further year as a research assistant at PIK in the Real Estimate Climate Asset Mapping Project (RECAM). Since September 2020, I'm a PhD student in the Machine Learning for Climate Science group at the University of Tübingen and I'm part of the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). 
+I obtained my Bachelor in Physics at the Georg-August University of Göttingen, followed by a specialization in Master of Physics of Complex Systems at the University of Göttingen. During my universtiy studies I spent one year at the University of Pisa. My Master's thesis I wrote at the Potsdam Institute for Climate Impact Research (PIK). I spent one further year as a research assistant at PIK in the Real Estimate Climate Asset Mapping Project (RECAM). Since September 2020, I'm a PhD student in the Machine Learning in Climate Science group at the University of Tübingen and I'm part of the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). 
 Beside science, in my free-time I play in an orchestra, love to go running and doing sports.     
 ## Publications
 
