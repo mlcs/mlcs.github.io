@@ -18,9 +18,9 @@ Maria-von-Linden-Str. 6
 
 + Climate data analysis (reanalysis, satellites, meteorological and
     hydrological station networks)
-+ Interactions between climatic systems
-+ Nonlinear data analysis (complex networks, PCA)
-+ Supervised and unsupervised learning
++ spatial patterns of extreme rainfall events
++ South Asian Monsoon System variability
++ Nonlinear data analysis (climate networks, community detection)
 + Reinforcement Learning in Earth System Models
 
 ## Publications
