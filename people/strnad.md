@@ -3,7 +3,7 @@ layout: page
 title: Felix Strnad
 subtitle: PhD Student
 ---
-
+![FS-ProfilePic](/img/fs_profile_pic.png){: .center-block :}
 ## Contact
 
 Cluster of Excellence "Machine Learning"  
