@@ -15,14 +15,15 @@ Maria-von-Linden-Str. 6
 
 
 ## Research Interests
-
+I am a complex systems physicists investigating monsoon dynamics and the spatial distribution of extreme rainfall events by the means of: 
 + Climate data analysis (reanalysis, satellites, meteorological and
     hydrological station networks)
-+ spatial patterns of extreme rainfall events
-+ South Asian Monsoon System variability
-+ Nonlinear data analysis (climate networks, community detection)
-+ Reinforcement Learning in Earth System Models
++ Nonlinear data analysis like climate networks and probilistic community detection methods
++ Ricci-curvature based analysis of complex networks
++ event synchronization methods
++ Reinforcement Learning
 
+A more detailed project description can be found [here](https://machineclimate.de/research/projects/)
 ## Publications
 
 [2019](#2019) 

@@ -42,21 +42,13 @@ be able to provide local SST forecasts from a global perspective.
 ![SSTA-2016](/img/ssta_elnino_2016.png){: style="float: right"}
 
 
-### Analyzing the Global Monsoon System
+### Analyzing the Monsoon Dynamics by Complex Networks
 #### [Felix Strnad](https://machineclimate.de/people/strnad/)
 
 Analyzing rainfall events reveals areas on every continent that reveal
 similar behaviour: Heavy rainfalls during metereological summer and
 drier conditions during metereological winter. These areas are labelled
-as monsoon systems.  According to (Wang and Ding, 2008) the various
-monsoon areas can be identified as regions where local summer minus
-winter precipitation exceeds 2 mm/day and summer accounts for at least
-55% of the annual total precipitation. Principal component analysis of
-global divergent circulation (Trenberth et al., 2000) suggests not to
-treat different monsoon systems as isolated subsystems of regional scale
-but to acknowledge them as one global phenomena. In the last years, this
-phenomena has emerged as the concept of the Global Monsoon (GM), a
-global-scale solstitial mode that drives the annual variation of
+as monsoon systems. In the last years, the phenomena has emerged as the concept of the Global Monsoon (GM), a global-scale solstitial mode that drives the annual variation of
 tropical and subtropical precipitation. However, its underlying
 dynamical behavior and interconnections to other global scale weather
 systems is so far not fully understood.  We want to investigate the
@@ -64,8 +56,9 @@ dynamics of the GM via methods from complex network analysis and
 Bayesian Inference. By better understanding the common/different
 variabilities in monsoon dynamics we hope to provide reliable estimates
 of the consequences of global climate change to the monsoon system. 
+Complex Climate Networks of extreme rainfall events can tell us a lot about synchronization of rainfall events over long-range spatial  distances. We use it to better understand the physical mechanisms behind these long-range spatial teleconnections.
 
-![GM-def](/img/gm_def_wang.png){: .center-block :}
+![GM-def](/img/climate_network_links.png){: .center-block :}
 
 ## Undergrad Projects
 
