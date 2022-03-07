@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Open position for PhD (m/f/d; E13 TV-L, 65%)
+title: [Closed] Open position for PhD (m/f/d; E13 TV-L, 65%)
 subtitle:
 tags: [mlcs, jobs, mustein]
 ---
 
 We are inviting applications for a
 
-**[Closed] PhD position (m/f/d; E13 TV-L, 65%)**
+**PhD position (m/f/d; E13 TV-L, 65%)**
 
 to develop seasonal forecasts of extreme rainfall events over Germany
 and western Europe using spatiotemporal artificial neural networks
