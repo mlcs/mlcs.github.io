@@ -7,7 +7,7 @@ tags: [mlcs, jobs, mustein]
 
 We are inviting applications for a
 
-**PhD position (m/f/d; E13 TV-L, 65%)**
+**[Closed] PhD position (m/f/d; E13 TV-L, 65%)**
 
 to develop seasonal forecasts of extreme rainfall events over Germany
 and western Europe using spatiotemporal artificial neural networks
