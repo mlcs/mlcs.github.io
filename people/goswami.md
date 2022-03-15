@@ -72,18 +72,22 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 
 
 ## Publications
-[2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+[2021](#2021)  [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
 [2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012)
 
-### 2020
+
+### 2021
 + A. Banerjee, **B. Goswami**, Y. Hirata, D. Eroglu, B. Merz, J. Kurths, &
     N. Marwan,
     Recurrence analysis of extreme event like data,
-    _Nonlinear Processes in Geophysics Discussions_
-    (2020)
-    1-25.  
-    [doi.org/10.5194/npg-2020-41](https://doi.org/10.5194/npg-2020-41)
+    _Nonlinear Processes in Geophysics_
+    **28**
+    (2021)
+    213--229.  
+    [doi.org/10.5194/npg-28-213-2021](https://doi.org/10.5194/npg-28-213-2021)
 
+
+### 2020
 + M. Singh, R. Krishnan, **B. Goswami**, A. D. Choudhury, P. Swapna, R.
     Vellore, A. G. Prajeesh, N. Sandeep, C. Venkataraman, R. V. Donner,
     N. Marwan, J. Kurths,
