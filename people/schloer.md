@@ -39,11 +39,15 @@ I obtained my Bachelor in Physics at the University of Konstanz which was follow
 ***
 ## Publications and conferences
 
-### 2021
+### 2022
++ Felix M. Strnad, **Jakob Schlör**, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
 
+### 2021
 + [Schlör, J. and Goswami, B.: A data-driven generative model for sea surface temperature fields in the tropical Pacific, EGU General Assembly 2021](https://doi.org/10.5194/egusphere-egu21-12362)
 
 ### 2020
++ Felix M. Strnad, **Jakob Schlör**, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
+
 + Daniel Hernangómez-Pérez, **Jakob Schlör**, David A. Egger, Laerte L. Patera, Jascha Repp, and Ferdinand Evers, 
     Reorganization energy and polaronic effects of pentacene on NaCl films, 
     [Phys. Rev. B 102, 115419 (2020)](https://doi.org/10.1103/PhysRevB.102.115419) \

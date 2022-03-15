@@ -19,36 +19,28 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ## Upcoming
 
-11.01.22 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf) presented by Moritz H.
+15.03.22 - [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://arxiv.org/abs/2012.09816)
 
-18.01.22 - [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf) by Ranganatha
+22.03.22 - [Sequential Neural Likelihood](http://proceedings.mlr.press/v89/papamakarios19a/papamakarios19a.pdf)
 
-25.01.22 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+29.03.22 - [Universal gap scaling in percolation ](https://www.nature.com/articles/s41567-019-0783-2)
 
-01.02.22 - [Physics-informed semantic inpainting: Application to geostatistical modeling](https://arxiv.org/pdf/1909.09459.pdf)
+05.04.22 - [Using network theory and machine learning to predict El Niño](https://doi.org/10.5194/esd-9-969-2018)
 
-08.02.22 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
-
-15.02.22 - [Variational Autoencoding of PDE Inverse Problems](https://arxiv.org/pdf/2006.15641.pdf)
-
-22.02.22 - [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
-
-01.03.22 - [Sequential Neural Likelihood](http://proceedings.mlr.press/v89/papamakarios19a/papamakarios19a.pdf)
-
-08.03.22 - [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://arxiv.org/abs/2012.09816)
-
-15.03.22 - [Universal gap scaling in percolation ](https://www.nature.com/articles/s41567-019-0783-2)
-
-22.03.22 - [Using network theory and machine learning to predict El Niño](https://doi.org/10.5194/esd-9-969-2018)
-
-29.03.22 - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
-
+12.04.22 - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 
 
 ***
 
 ## Past meetings
 
+[01.03.22 - Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) \
+[22.02.22 - Variational Autoencoding of PDE Inverse Problems](https://arxiv.org/pdf/2006.15641.pdf) \
+[15.02.22 - Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) \
+[01.02.22 - Physics-informed semantic inpainting: Application to geostatistical modeling](https://arxiv.org/pdf/1909.09459.pdf) \
+[25.01.22 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) \
+[18.01.22 - Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/pdf/1506.04214.pdf) \
+[11.01.22 - Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf) \
 [14.12.21 - Zambrano et al., Prediction of drought-induced reduction of agricultural productivity ... (2018)](#14122021)\
 [07.12.21 - Kholodovsky et al., A generalized Spatio-Temporal Threshold Clustering method for identification of extreme event patterns (2021)](#07122021)\
 [23.12.21 - Andersson et al., Seasonal Arctic sea ice forecasting (2021)](#23122021)\
