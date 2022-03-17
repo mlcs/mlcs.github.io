@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Former Members of MLCS
+title: Former Members
 ---
 
 # Masters Students
