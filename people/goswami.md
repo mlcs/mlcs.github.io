@@ -19,7 +19,7 @@ Maria-von-Linden-Str. 6
 
 
 ## Research Interests
-I try to address relevant methodological questions in paleoclimate and
+I address relevant methodological questions in paleoclimate and
 climate data analysis with tools and techniques from classical
 statistics, machine learning, nonlinear time series analysis, and
 complex networks. The data are diverse and heterogeneous, arising from
