@@ -34,6 +34,7 @@ navbar-links:
       - Publications: "/research/publications"
   Teaching:
       - Summer 2021: "/teaching/summer2021"
+      - Winter 2021-22 ML1: "/teaching/winter2021-22-ml1"
   Activities:
       - Journal Club: "/activities/journal-club"
       - Group Meetings: "/activities/group-meetings"
