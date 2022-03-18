@@ -68,3 +68,10 @@ Enrollment is via [ALMA](https://alma.uni-tuebingen.de/)
 
 
 ![ML1-Lecture-Plan](/img/wise2021-22-ml1-timetable.png){: .center-block :}
+
+
+### Link to tutorial code
+
+You can find the codes that are being discussed in the tutorial at the
+following Github repository:
+[https://github.com/mlcs/seminar_ws22](https://github.com/mlcs/seminar_ws22)
