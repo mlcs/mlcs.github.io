@@ -22,7 +22,8 @@ applications to third-party funding may be necessary.
 
 ## Bachelors and Masters theses projects
 
-Please fill out the following form.
+If you are interested in doing your Bachelors or Masters thesis project
+in our group then please fill out the following form.
 
 [Form for potential undergrad theses](https://forms.gle/LBWUqMe8Gc7Dvyhw5)
 
