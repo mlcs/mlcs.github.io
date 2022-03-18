@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: Machine Learning 1
-title: Summer 2021
+subtitle: Data Analysis and Modeling Methods (Machine Learning 1)
+title: Winter 2021-22
 ---
 
 ### Lecturer
@@ -67,7 +67,7 @@ Enrollment is via [ALMA](https://alma.uni-tuebingen.de/)
 ### Tentative lecture plan
 
 
-![ML1-Lecture-Plan](/img/wise2021-22-ml1-timetable.png)
+[![ML1-Lecture-Plan](/img/wise2021-22-ml1-timetable.png)](https://machineclimate.de/img/wise2021-22-ml1-timetable.png)
 
 
 ### Link to tutorial code
