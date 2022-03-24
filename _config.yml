@@ -28,13 +28,13 @@ navbar-links:
       - Felix Strnad: "/people/strnad"
       - Jakob Schlör: "/people/schloer"
       - Elena Sizana: "/people/sizana"
-      - Lea Elsemüller: "/people/elsemueller"
-      - Markus Deppner: "/people/deppner"
+      - Former Members: "/people/former_members"
   Research:
       - Projects: "/research/projects"
       - Publications: "/research/publications"
   Teaching:
       - Summer 2021: "/teaching/summer2021"
+      - Winter 2021-22 ML1: "/teaching/winter2021-22-ml1"
   Activities:
       - Journal Club: "/activities/journal-club"
       - Group Meetings: "/activities/group-meetings"

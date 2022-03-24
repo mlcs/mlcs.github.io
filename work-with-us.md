@@ -8,24 +8,24 @@ use-site-title: false
 
 MLCS welcomes highly motivated researchers at all stages of their
 careers to tackle challenging problems in climate science. A background
-in Computer Science, Physics, or Mathematics is ideal but not necessary.
-Feel free to [contact
-us](https://mlcs.github.io/about/our-group/#contact) if you want to work
-with us at the interface of machine learning and climate.
+in Computer Science, Physics, or Mathematics is ideal. Prior experience
+with machine learning methods such unsupervised learning, causality
+inference, maximum likelihood estimation, and deep neural networks is
+preferred.
 
 ## Doctoral and postdoctoral projects
 
 Please send a brief summary of your background and research interests
 (in one page), a rough sketch of the research questions that you would
-like to work on (also in one page), and brief CV. Also keep in mind that
+like to work on (also in one page), and brief CV.  Also keep in mind that
 applications to third-party funding may be necessary.
 
 ## Bachelors and Masters theses projects
 
-Please send us an email summarising your university background, the
-courses you have taken, and research experience, if any. Please send a
-copy of your current university transcripts as well. If you already have
-a research topic or question in mind, write a brief paragraph about it.
-Otherwise, we also have a running list of potential Bachelors and
-Masters thesis--level project ideas which we would love to discuss with
-you.
+If you are interested in doing your Bachelors or Masters thesis project
+in our group then please fill out the following form.
+
+[Form for potential undergrad theses](https://forms.gle/LBWUqMe8Gc7Dvyhw5)
+
+We will get back to you via email asking for your CV and transcripts.
+Please do not send in unsolicited transcripts and CVs`.
