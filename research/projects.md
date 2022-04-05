@@ -61,7 +61,54 @@ Complex Climate Networks of extreme rainfall events can tell us a lot about sync
 
 ![GM-def](/img/climate_network_links.png){: .center-block :}
 
-## Undergrad Projects
+
+## Masters Projects
+
+### Parameter inference and uncertainty quantification for an intermediate complexity climate model
+#### [Benedict Roeder](https://machinecliamte.de/people/roeder/) (Master's Thesis)
+
+Well-adapted parameters in climate models are essential to make accurate
+predictions for future projections.  In climate science, the record of precise
+and comprehensive observational data is rather short and parameters of climate
+models are often hand-tuned or learned from artificially generated data.  Due
+to limited and noisy data, one wants to use Bayesian models to have access to
+uncertainties of the inferred parameters.  Most popular algorithms for
+learning parameters from observational data like the Kalman inversion approach
+only provide point estimates of parameters.  In this work, we compare two
+Bayesian parameter inference approaches applied to the intermediate complexity
+model for the El Niño-Southern Oscillation by Zebiak & Cane.  i) The
+"Calibrate, Emulate, Sample" (CES) approach, an extension of the ensemble
+Kalman inversion which allows posterior inference by emulating the model via
+Gaussian Processes and thereby enables efficient sampling.  ii) The
+simulation-based inference (SBI) approach where the approximate posterior
+distribution is learned from simulated model data and observational data using
+neural networks.  We evaluate the performance of both approaches by comparing
+their run times and the number of required model evaluations, assess the
+scalability with respect to the number of inference parameters, and examine
+their posterior distributions.
+
+![ENSO-Model](/img/roeder_project_figure.jpg){: .center-block :}
+
+## Bachelors Projects
+
+### Machine Learning Methods to Model Monthly Precipitation over Southern Europe Using Climate Indices
+
+#### [Davide Lussu](https://machineclimate.de/people/lussu) (Bachelor's Thesis)
+
+The Mediterranean region is one of the regions most strongly affected by
+climate change. A decline in precipitation is observed in the region with
+consequences for agriculture and water resources.  Various atmospheric modes
+such as the North Atlantic Oscillation impact the precipitation in this
+region. Indices measuring the pressure difference between two locations to
+describe these oscillating modes can be correlated to the precipitation.  This
+project explores different statistical machine learning methods to describe
+precipitation based on the Oscillation Indices. Regression is performed on
+timeseries of all indices to model precipitation provided by the ERA5 monthly
+precipitation dataset spanning over the past 40 years. The methods used are
+basic Linear Regression, a Random Forest Regressor and an Artificial Neural
+Network (ANN) which are fitted to the time series on each location on the map.
+Also a further ANN approach is tested that uses all time series with added
+coordinates as an input for training
 
 ### Impact of strong El Niño events on river discharge in South America 
 #### [Markus Deppner](https://machineclimate.de/people/deppner/) (Bachelor's Thesis)
