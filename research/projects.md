@@ -142,6 +142,27 @@ their posterior distributions.
 
 ![ENSO-Model](/img/roeder_project_figure.jpg){: .center-block :}
 
+
+### Spatiotemporal patterns of European heatwaves and their influence on vegetation
+#### [Julia Hellmig](https://machinecliamte.de/people/hellmig/)
+
+Heatwaves are extreme events that have the potential to cause deaths,
+agricultural loss and damage ecosystems. With anthropogenic climate change,
+heatwaves have been shown to occur more often already and are suspected to
+become even more frequent in the future. Especially Europe is a heatwave
+epicenter, with mega-heatwaves in 2003, 2010 and 2018 just to name a few.
+This project aims to analyze spatio-temporal patterns of European heatwaves
+with the graphs framework Deep Graphs. We try to cluster Euopean heatwaves
+spatially and temporally, in order to find distinct heatwave families. We
+suggest that heatwaves within one family might be caused by the same
+atmospheric regime. In the long run this approach could be a first step to
+better predict heatwave in the future.  A second part of the project analyzes
+the influence of heatwave families and individual heatwaves on vegetation. We
+expect to see differences in the influence of extreme heat on vegetation at
+different locations in Europe.
+
+![Scandi-Heatwave](/img/jh_project_figure.jpg){: .center-block :}
+
 ## Bachelors Projects
 
 ### Machine Learning Methods to Model Monthly Precipitation over Southern Europe Using Climate Indices
