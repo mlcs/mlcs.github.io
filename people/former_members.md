@@ -25,6 +25,12 @@ Convergence Zone using wind convergences** in November 2021.
 
 # Bachelors Students
 
+### Alexej Onken
+Alexej completed his Bachelor's thesis on the **Evolution of ENSO
+precipitation teleconnections** in March 2022.
+
+[Link to Alexej's Bachelors Thesis](/files/bachelors_thesis_onken_alexej.pdf)
+
 ### Markus Deppner
 
 ![MD-ProfilePic](/img/md_profile_pic.png){: .center-block :}
