@@ -117,6 +117,9 @@ precipitation data, we hope that tangles is a promising tool to quantify
 community structures and to reveal underlying geophysical processes leading to
 these structures.
 
+![Hard-Clustering](/img/mk_project_figure.jpg){: .center-block :}
+
+
 ### Parameter inference and uncertainty quantification for an intermediate complexity climate model
 #### [Benedict Roeder](https://machinecliamte.de/people/roeder/) (Master's Thesis)
 
