@@ -14,7 +14,8 @@ and a third one set to start in spring. Below we provide brief summaries
 of these projects going on the group.
 
 [Doctoral Projects](#doctoral-projects)  
-[Undergrad projects](#undergrad-projects)  
+[Masters projects](#masters-projects)  
+[Bachelors projects](#bachelors-projects)  
 
 ***
 

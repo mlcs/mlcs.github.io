@@ -10,7 +10,7 @@ Cluster of Excellence "Machine Learning"
 Maria-von-Linden-Str. 6  
 72076 Tübingen  
 [+49 7071 2970894](tel:+4970712970894)  
-[benedict.roeder@student.uni-tuebingen.de](mailtobenedict.roeder@student.uni-tuebingen.de)]
+[benedict.roeder@student.uni-tuebingen.de](mailtobenedict.roeder@student.uni-tuebingen.de)
 
 
 ## Research Interests
@@ -20,6 +20,9 @@ I'm a computer science student currently working on my master's thesis.
 - Modelling and predicting the El Niño Southern Oscillation
 - Reinforcement Learning
 - Robotics
+
+More details about my masters tehsis project is available
+[here](https://machineclimate.de/research/projects/#masters-projects)
 
 ## Bio
 
