@@ -85,8 +85,8 @@ of modeling the effects of teleconnections across large spatial and temporal
 scales.
 
 
-### Pitfalls and possible improvements in cliamte networok construction
-#### [Moritz Haas](https://machinecliamte.de/people/haas/)
+### Pitfalls and possible improvements in climate networok construction
+#### [Moritz Haas](https://machineclimate.de/people/haas/)
 
 ![Network-Measures](/img/mh_project_figure.jpg){: .center-block :}
 
@@ -100,7 +100,7 @@ where the shortest links are formed.
 ## Masters Projects
 
 ### Explainable community structure in climate networks
-#### [Merle Kammer](https://machinecliamte.de/people/kammer/)
+#### [Merle Kammer](https://machineclimate.de/people/kammer/)
 
 Climate networks have helped to uncover complex structures in climatic
 observables.  For instance, climate networks were used to reduce rainfall data
@@ -121,7 +121,7 @@ these structures.
 
 
 ### Parameter inference and uncertainty quantification for an intermediate complexity climate model
-#### [Benedict Roeder](https://machinecliamte.de/people/roeder/) (Master's Thesis)
+#### [Benedict Roeder](https://machineclimate.de/people/roeder/) (Master's Thesis)
 
 Well-adapted parameters in climate models are essential to make accurate
 predictions for future projections.  In climate science, the record of precise
@@ -147,7 +147,7 @@ their posterior distributions.
 
 
 ### Spatiotemporal patterns of European heatwaves and their influence on vegetation
-#### [Julia Hellmig](https://machinecliamte.de/people/hellmig/)
+#### [Julia Hellmig](https://machineclimate.de/people/hellmig/)
 
 Heatwaves are extreme events that have the potential to cause deaths,
 agricultural loss and damage ecosystems. With anthropogenic climate change,
