@@ -99,6 +99,24 @@ where the shortest links are formed.
 
 ## Masters Projects
 
+### Explainable community structure in climate networks
+#### [Merle Kammer](https://machinecliamte.de/people/kammer/)
+
+Climate networks have helped to uncover complex structures in climatic
+observables.  For instance, climate networks were used to reduce rainfall data
+to relevant patterns that can be linked to geophysical processes. However, the
+identification of regions that show similar behavior with respect to the
+timing and spatial distribution of extreme rainfall events (EREs) remains
+challenging. We want to apply a recently developed algorithmic framework based
+on tangles to discover community structures in the spatial distribution of
+EREs. Tangles enables us to create a hierarchical tree representation of
+communities including the likelihood that spatial locations belong to a
+community. Each tree layer can be associated to a closed question, thus making
+the division of different communities transparent.  Applied to global
+precipitation data, we hope that tangles is a promising tool to quantify
+community structures and to reveal underlying geophysical processes leading to
+these structures.
+
 ### Parameter inference and uncertainty quantification for an intermediate complexity climate model
 #### [Benedict Roeder](https://machinecliamte.de/people/roeder/) (Master's Thesis)
 
