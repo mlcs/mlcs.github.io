@@ -85,6 +85,18 @@ of modeling the effects of teleconnections across large spatial and temporal
 scales.
 
 
+### Pitfalls and possible improvements in cliamte networok construction
+#### [Moritz Haas](https://machinecliamte.de/people/haas/)
+
+![Network-Measures](/img/mh_project_figure.jpg){: .center-block :}
+
+Empirical distributions of node-wise network characteristics using Pearson
+correlation (common for climate networks) for data generated from a Matern
+isotropic Gaussian random field. Dotted lines denote the ground truth
+distributions. In the regime of scarce data (in time), the empirical networks
+have systematically distorted characteristics compared to the ground truth,
+where the shortest links are formed.
+
 ## Masters Projects
 
 ### Parameter inference and uncertainty quantification for an intermediate complexity climate model
@@ -132,6 +144,8 @@ basic Linear Regression, a Random Forest Regressor and an Artificial Neural
 Network (ANN) which are fitted to the time series on each location on the map.
 Also a further ANN approach is tested that uses all time series with added
 coordinates as an input for training
+
+![DL-Project](/img/dl_project_figure.png){: .center-block :}
 
 ### Impact of strong El Niño events on river discharge in South America 
 #### [Markus Deppner](https://machineclimate.de/people/deppner/) (Bachelor's Thesis)
