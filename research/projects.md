@@ -191,6 +191,30 @@ of extreme precipitation.
 
 ## Bachelors Projects
 
+### Spatial and frequency dependence of westerly wind events causing ENSO diversity
+#### [Jakob Unterholzner](https://machineclimate.de/people/unterholzner/)
+
+The El Nino Southern Oscillation (ENSO) shows different characteristics
+regarding the location of its highest Sea Surface Temperature anomalies,
+ranging from Eastern Pacific (EP) to Central Pacific (CP) events. Both types
+of ENSO events inhabit different teleconnections and impacts around the world.
+While stochastic wind forcing is one of the known drivers of the ENSO, the
+influence of westerly wind anomalies over the equatorial pacific on ENSO
+development, regarding its diversity remain unclear.  We conduct a spectral
+analysis of daily wind data, yielding high and low frequency components of
+wind anomalies for different equatorial pacific regions. As a starting point
+we investigate their respective influence on ENSO diversity by means of
+multiple linear regression models. Following we use causal network discovery
+with PCMCI algorithm to infer the important westerly wind events that drive
+ENSO diversity. These result are used for ENSO prediction with multiple layer
+perceptrons, to demonstrate that specific regions at specific lead times are
+most important for either EP or CP events.  This study might help climate
+models in their prediction ability of ENSO diversity by including relevant
+wind information and thereby improve forecasting of ENSO and its implications.
+
+![EP-CP-WWD](/img/ju_project_figure.jpg){: .center-block :}
+
+
 ### Machine Learning Methods to Model Monthly Precipitation over Southern Europe Using Climate Indices
 
 #### [Davide Lussu](https://machineclimate.de/people/lussu) (Bachelor's Thesis)
