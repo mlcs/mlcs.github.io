@@ -62,6 +62,29 @@ Complex Climate Networks of extreme rainfall events can tell us a lot about sync
 ![GM-def](/img/climate_network_links.png){: .center-block :}
 
 
+### Seasonal weather forecasts using deep learning
+#### [Jannik Thümmel](https://machineclimate.de/people/thuemmel/)
+
+Atmospheric processes are highly non-linear and chaotic rendering long-term
+forecasts of their dynamics impossible. However, there exist recurring
+patterns in the climate system that lead to predictable tendencies in weather.
+These patterns are termed teleconnections for their effects on distant regions
+of the planet. Well-known examples include the El-Nino-Southern-Oscillation,
+the Northern-Atlantic-Oscillation and the Madden-Julian-Oscillation, which
+occur on annual (ENSO), seasonal (NAO) and sub-seasonal (MJO) temporal scales.
+Teleconnections are known to be a significant driver of weather patterns and
+could be exploited to generate predictions of weather trends far beyond the
+forecast horizon of atmospheric models. Machine Learning is ideally suited to
+identify subtle patterns in complex data and exploit these patterns to
+generate predictions. Therefore the aim of our project is to develop machine
+learning systems that are able to identify teleconnection patterns from data
+and generate skillful predictions at time scales that are difficult to model
+with numerical methods. We are looking to design neural network architectures
+that incorporate physical knowledge as inductive biases and that are capable
+of modeling the effects of teleconnections across large spatial and temporal
+scales.
+
+
 ## Masters Projects
 
 ### Parameter inference and uncertainty quantification for an intermediate complexity climate model
