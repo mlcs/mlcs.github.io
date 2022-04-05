@@ -163,6 +163,29 @@ different locations in Europe.
 
 ![Scandi-Heatwave](/img/jh_project_figure.jpg){: .center-block :}
 
+
+### Spatiotemporal analysis of extreme rainfall clusters over North Indian Ocean
+#### [Ranganatha B R](https://machineclimate.de/people/ranganatha/)
+
+The project aims at studying tropical cyclones and their tracks using
+precipitation data. The statistical analysis of the storm tracks
+constructed using Deepgraphs allows us to differentiate between different
+physical phenomena which are different over land and ocean. Further, the
+tracks exhibit a pattern that can be studied using Machine Learning which
+can help us be well prepared for future heavy precipitation events like
+tropical cyclones and depressions. Since Long Short Term Memory (LSTM) is a
+special kind of Recurrent Neural Network that can learn sequence data much
+more efficiently than other deep learning methods, we use them to predict
+future track. We use different models with varying inputs to efficiently
+predict the storm track. Successful training of these models validates the
+existence of a storm track pattern in the North Indian Ocean along with the
+proof of the concept that tropical cyclones can be studied under the banner
+of extreme precipitation.
+
+![Storm-Tracks](/img/rbr_project_figure.jpg){: .center-block :}
+
+
+
 ## Bachelors Projects
 
 ### Machine Learning Methods to Model Monthly Precipitation over Southern Europe Using Climate Indices
