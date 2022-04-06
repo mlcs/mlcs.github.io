@@ -21,7 +21,7 @@ I'm a computer science student currently working on my master's thesis.
 - Reinforcement Learning
 - Robotics
 
-More details about my masters tehsis project is available
+More details about my masters thesis project is available
 [here](https://machineclimate.de/research/projects/#masters-projects)
 
 ## Bio
