@@ -43,15 +43,18 @@ at Maria-von-Linden-Str. 6.
 
 ### Team
 
-+ [Bedartha Goswami](https://machineclimate.de/people/goswami/) (Group
-    Leader)
-+ [Felix Strnad](https://machineclimate.de/people/strnad/) (Doctoral
-    student)
-+ [Jakob Schlör](https://machineclimate.de/people/schloer/) (Doctoral
-    Student)
++ [Bedartha Goswami](https://machineclimate.de/people/goswami/) (Group Leader)
 + [Elena Sizana](https://machineclimate.de/people/sizana/)
-    (Administrative Assistant)
-+ [Lea Elsemüller](https://machineclimate.de/people/elsemueller/)
-    (Master's Student)
-+ [Markus Deppner](https://machineclimate.de/people/deppner/)
-    (Bachelor's Student)
+  (Administrative Assistant)
++ [Felix Strnad](https://machineclimate.de/people/strnad/) (Doctoral student)
++ [Jakob Schlör](https://machineclimate.de/people/schloer/) (Doctoral Student)
++ [Moritz Haas](https://machineclimate.de/people/haas/)(Doctoral Student)
++ [Jannik Thümmel](https://machineclimate.de/people/thuemmel/)(Doctoral Student)
++ [Julia Hellmig](https://machineclimate.de/people/hellmig/)(Masters Student)
++ [Ranganatha B R](Https://machineclimate.de/people/ranganatha/)(Masters
++ [Benedict Roeder](https://machineclimate.de/people/roeder/)(Masters Student)
++ [Merle Kammer](https://machineclimate.de/people/kammer/)(Masters Student)
+  Student)
++ [Davide Lussu](https://machineclimate.de/people/lussu/)(Bachelors Student)
++ [Jakob Unterholzner](htpps://machineclimate.de/people/unterholzner/)(Bachelors
+  Student)
