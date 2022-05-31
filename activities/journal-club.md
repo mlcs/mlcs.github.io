@@ -8,8 +8,7 @@ use-site-title: false
 
 # Journal Club
 
-Currently our Journal Club takes place every Tuesday at 1 pm CEST. Since
-the beginning of November 2020, the club meets entirely online on Zoom:
+Currently our Journal Club takes place every Tuesday at 1 pm CEST. The meeting is in a hybrid format on Zoom and the conference room at the Maria-von-Linden Strasse 4th floor:
 
 **Topic:** MLCS Journal Club  
 **Time:** Tuesdays, 1 pm CET  
@@ -17,23 +16,19 @@ the beginning of November 2020, the club meets entirely online on Zoom:
 
 ***
 
-## Upcoming
-
-15.03.22 - [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://arxiv.org/abs/2012.09816)
-
-22.03.22 - [Sequential Neural Likelihood](http://proceedings.mlr.press/v89/papamakarios19a/papamakarios19a.pdf)
-
-29.03.22 - [Universal gap scaling in percolation ](https://www.nature.com/articles/s41567-019-0783-2)
-
-05.04.22 - [Using network theory and machine learning to predict El Niño](https://doi.org/10.5194/esd-9-969-2018)
-
-12.04.22 - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
-
-
-***
 
 ## Past meetings
 
+[31.05.22 - Canceled] \
+[24.05.22 - EGU General Assembly Meeting in Vienna] \
+[17.05.22 - EGU Test Talks] \
+[10.05.22 - Thomas et al. (2018) The Role of Stochastic Forcing in Gernerating ENSO Diversity](https://doi.org/10.1175/JCLI-D-17-0582.1) \
+[03.05.22 - Di Capua et al. (2020) Dominant patterns of interaction between the tropics and mid-latitudes in boreal summer: causal relationships and the role of timescales](https://wcd.copernicus.org/articles/1/519/2020/wcd-1-519-2020.pdf) \
+[12.04.22 - Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) \
+[05.04.22 - Using network theory and machine learning to predict El Niño](https://doi.org/10.5194/esd-9-969-2018) \
+[29.03.22 - Universal gap scaling in percolation ](https://www.nature.com/articles/s41567-019-0783-2) \
+[22.03.22 - Sequential Neural Likelihood](http://proceedings.mlr.press/v89/papamakarios19a/papamakarios19a.pdf) \
+[15.03.22 - Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://arxiv.org/abs/2012.09816) \
 [01.03.22 - Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) \
 [22.02.22 - Variational Autoencoding of PDE Inverse Problems](https://arxiv.org/pdf/2006.15641.pdf) \
 [15.02.22 - Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) \
