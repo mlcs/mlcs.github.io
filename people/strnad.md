@@ -12,6 +12,7 @@ Maria-von-Linden-Str. 6
 [+49 7071 2970896](tel:+4970712970896)  
 [felix.strnad@uni-tuebingen.de](mailto:felix.strnad@uni-tuebingen.de)  
 [Github](https://github.com/fstrnad)
+[Twitter](https://twitter.com/strnad_f)
 
 ***
 ## Research Interests
