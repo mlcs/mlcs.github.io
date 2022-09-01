@@ -16,12 +16,10 @@ Maria-von-Linden-Str. 6
 ***
 ## Research Interests
 I am a complex systems physicists investigating monsoon dynamics and the spatial distribution of extreme rainfall events by the means of: 
-+ Climate data analysis (reanalysis, satellites, meteorological and
-    hydrological station networks)
 + Nonlinear data analysis like climate networks and probilistic community detection methods
-+ Ricci-curvature based analysis of complex networks
-+ Event synchronization methods
-+ Reinforcement Learning
++ Global teleconnection structures of modes of variability (e.g. El Nino-Southern Oscillation)
++ Spatial Organization of Extreme Rainfalls
+
 
 A more detailed project description can be found [here](https://machineclimate.de/research/projects/).
 
@@ -31,8 +29,16 @@ A more detailed project description can be found [here](https://machineclimate.d
 I obtained my Bachelor in Physics at the Georg-August University of Göttingen, followed by a specialization in Master of Physics of Complex Systems at the University of Göttingen. During my universtiy studies I spent one year at the University of Pisa. My Master's thesis I wrote at the Potsdam Institute for Climate Impact Research (PIK). I spent one further year as a research assistant at PIK in the Real Estimate Climate Asset Mapping Project (RECAM). Since September 2020, I'm a PhD student in the Machine Learning in Climate Science group at the University of Tübingen and I'm part of the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). 
 Beside science, in my free-time I play in an orchestra, love to go running and doing sports.     
 
+My CV can be found [here](./../files/cv_felix_strnad.pdf).
+
 ***
 ## Publications
+
+### 2022
++ **Felix M. Strnad**, Jakob Schlör, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, _Geophysical Research LettersGeophysical Research Letters (in press)_
+    (2019) [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
+
++ Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving simulated Precipitation from Earth System Models; _Nature Machine Intelligence (in press)_, (2022)
 
 [2019](#2019) 
 
