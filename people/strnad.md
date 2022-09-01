@@ -15,8 +15,8 @@ Maria-von-Linden-Str. 6
 
 ***
 ## Research Interests
-I am a complex systems physicists investigating monsoon dynamics and the spatial distribution of extreme rainfall events by the means of: 
-+ Nonlinear data analysis like climate networks and probilistic community detection methods
+I am a complex systems physicists with a special interest on: 
++ Nonlinear time series analysis like climate networks and probilistic machine learning methods
 + Global teleconnection structures of modes of variability (e.g. El Nino-Southern Oscillation)
 + Spatial Organization of Extreme Rainfalls
 
@@ -35,10 +35,10 @@ My CV can be found [here](./../files/cv_felix_strnad.pdf).
 ## Publications
 
 ### 2022
-+ **Felix M. Strnad**, Jakob Schlör, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, _Geophysical Research LettersGeophysical Research Letters (in press)_
-    (2019) [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
++ **Felix M. Strnad**, Jakob Schlör, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, _Geophysical Research Letters_,
+    (2022) (in press), [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
 
-+ Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving simulated Precipitation from Earth System Models; _Nature Machine Intelligence (in press)_, (2022)
++ Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving simulated Precipitation from Earth System Models; _Nature Machine Intelligence_, (2022),  (in press)
 
 [2019](#2019) 
 
