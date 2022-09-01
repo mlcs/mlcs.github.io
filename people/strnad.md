@@ -34,14 +34,14 @@ My CV can be found [here](./../files/cv_felix_strnad.pdf).
 
 ***
 ## Publications
-
+[2019](#2019) [2022](#2022) 
 ### 2022
 + **Felix M. Strnad**, Jakob Schlör, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, _Geophysical Research Letters_,
     (2022) (in press), [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
 
 + Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving Precipitation Fields from Earth System Models; _Nature Machine Intelligence_, (2022),  (in press)
 
-[2019](#2019) 
+
 
 ### 2019
 + **Felix M. Strnad**, Wolfram Barfuss, Jonathan F. Donges and Jobst Heitzig,
