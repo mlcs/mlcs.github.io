@@ -11,13 +11,13 @@ Maria-von-Linden-Str. 6
 72076 Tübingen  
 [+49 7071 2970896](tel:+4970712970896)  
 [felix.strnad@uni-tuebingen.de](mailto:felix.strnad@uni-tuebingen.de)  
-[Github](https://github.com/fstrnad)
+[Github](https://github.com/fstrnad)\
 [Twitter](https://twitter.com/strnad_f)
 
 ***
 ## Research Interests
 I am a complex systems physicists with a special interest on: 
-+ Nonlinear time series analysis like climate networks and probilistic machine learning methods
++ Nonlinear time series analysis tools like climate networks and probilistic machine learning methods
 + Global teleconnection structures of modes of variability (e.g. El Nino-Southern Oscillation)
 + Spatial Organization of Extreme Rainfalls
 
@@ -37,7 +37,7 @@ My CV can be found [here](./../files/cv_felix_strnad.pdf).
 [2019](#2019) [2022](#2022) 
 ### 2022
 + **Felix M. Strnad**, Jakob Schlör, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, _Geophysical Research Letters_,
-    (2022) (in press), [arXiv Preprint (2022), 2203.07035](https://doi.org/10.48550/arXiv.2203.07035)
+    (2022), [doi.org/10.1029/2022GL098571](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098571)
 
 + Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving Precipitation Fields from Earth System Models; _Nature Machine Intelligence_, (2022),  (in press)
 
