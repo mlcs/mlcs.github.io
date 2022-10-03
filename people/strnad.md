@@ -10,7 +10,7 @@ Cluster of Excellence "Machine Learning"
 Maria-von-Linden-Str. 6  
 72076 Tübingen  
 [+49 7071 2970896](tel:+4970712970896)  
-[felix.strnad@uni-tuebingen.de](mailto:felix.strnad@uni-tuebingen.de)  
+felix dot. strnad at uni-tuebingen dot. de
 [Github](https://github.com/fstrnad)\
 [Twitter](https://twitter.com/strnad_f)
 
