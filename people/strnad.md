@@ -39,7 +39,7 @@ My CV can be found [here](./../files/cv_felix_strnad.pdf).
 + **Felix M. Strnad**, Jakob Schlör, Christian Fröhlich, and Bedartha Goswami, Teleconnection patterns of different El Nino types revealed by climate network curvature, _Geophysical Research Letters_,
     (2022), [doi.org/10.1029/2022GL098571](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL098571)
 
-+ Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving Precipitation Fields from Earth System Models; _Nature Machine Intelligence_, (2022),  (in press)
++ Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**, Niklas Boers; Physically Constrained Generative Adversarial Networks for Improving Precipitation Fields from Earth System Models; _Nature Machine Intelligence_, (2022),  [doi.org/10.1038/s42256-022-00540-1](https://www.nature.com/articles/s42256-022-00540-1)
 
 
 
