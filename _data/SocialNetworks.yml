@@ -94,4 +94,4 @@ yelp:
 mastodon:
   name: "Mastodon"
   baseURL: "https://masto.ai/@"
-  icon: "fa-mastodon"
+  icon: "fa-brands fa-mastodon"
