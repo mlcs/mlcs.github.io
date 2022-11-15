@@ -33,7 +33,7 @@ Davide completed his Bachelor's thesis on **Machine Learning Methods to
 Model Monthly Precipitation over the Western Mediterranean Using Climate
 Indices** in July 2022.
 
-## Research Interests
+#### Research Interests
 - Precipitation in the Mediterranean
 - Teleconnections of atmospheric oscillation indices (such as NAO)
 - Regression modeling using
@@ -47,7 +47,7 @@ Indices** in July 2022.
 Jakob completed his Bachelor's thesis on **Spatial and frequency dependence of westerly
 wind events causing ENSO diversity** in June 2022
 
-## Research Interests
+#### Research Interests
 - Climate Data Analyses
 - El Nino Southern Oscillation diversity, especially atmospheric precursers
 - Causal Inference methods(Regression, PCMCI Algorithm)
