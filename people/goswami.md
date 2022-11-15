@@ -15,6 +15,7 @@ Maria-von-Linden-Str. 6
 [CV](/files/goswami_cv_jan2021.pdf){:target="_blank"}  
 [Github](https://github.com/bedartha){:target="_blank"}
 [Twitter](https://twitter.com/bedartha){:target="_blank"}
+[Mastodon](https://masto.ai/@bedartha){:target="_blank"}
 [Orcid](http://orcid.org/0000-0002-2302-166X){:target="_blank"}
 
 
