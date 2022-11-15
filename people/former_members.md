@@ -42,6 +42,18 @@ Indices** in July 2022.
 
 [Link to Davide's Bachelor's Thesis](/files/bachelors_thesis_lussu_davide.pdf)
 
+### Jakob Unterholzner
+
+Jakob completed his Bachelor's thesis on **Spatial and frequency dependence of westerly
+wind events causing ENSO diversity** in June 2022
+
+## Research Interests
+- Climate Data Analyses
+- El Nino Southern Oscillation diversity, especially atmospheric precursers
+- Causal Inference methods(Regression, PCMCI Algorithm)
+
+[Link to Jakob's Bachelor's Thesis](/files/bachelors_thesis_unterholzner_jakob.pdf)
+
 ### Alexej Onken
 Alexej completed his Bachelor's thesis on the **Evolution of ENSO
 precipitation teleconnections** in March 2022.
