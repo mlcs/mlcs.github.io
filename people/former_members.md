@@ -25,6 +25,21 @@ Convergence Zone using wind convergences** in November 2021.
 
 # Bachelors Students
 
+### Davide Lussu
+
+Davide completed his Bachelor's thesis on **Machine Learning Methods to
+Model Monthly Precipitation over the Western Mediterranean Using Climate
+Indices** in July 2022.
+
+## Research Interests
+- Precipitation in the Mediterranean
+- Teleconnections of atmospheric oscillation indices (such as NAO)
+- Regression modeling using
+    - Statistical ML methods
+    - Artificial Neural Networks/MLP
+
+[Link to Davide's Bachelor's Thesis](/files/bachelors_thesis_lussu_davide.pdf)
+
 ### Alexej Onken
 Alexej completed his Bachelor's thesis on the **Evolution of ENSO
 precipitation teleconnections** in March 2022.
