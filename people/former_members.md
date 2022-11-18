@@ -27,6 +27,8 @@ Thesis](/files/masters_thesis_toeder_benedict.pdf)
 
 ### Julia Hellmig
 
+![PH-ProfilePic](/img/placeholder_profile_pic.png){: .center-block :}
+
 Julia completed her Master's thesis on **Spatio-Temporal Patterns of
 European Heat Waves and Their Influence on Vegetation** in July 2022.
 
@@ -40,6 +42,8 @@ European Heat Waves and Their Influence on Vegetation** in July 2022.
 [Link to Julia's Masters Thesis](/files/masters_thesis_hellmig_julia.pdf)
 
 ### Lea Elsemüller
+
+![PH-ProfilePic](/img/placeholder_profile_pic.png){: .center-block :}
 
 Lea completed her Masters thesis on **Quantifying the Intertropical
 Convergence Zone using wind convergences** in November 2021.
@@ -78,6 +82,8 @@ Indices** in July 2022.
 
 ### Jakob Unterholzner
 
+![PH-ProfilePic](/img/placeholder_profile_pic.png){: .center-block :}
+
 Jakob completed his Bachelor's thesis on **Spatial and frequency dependence of westerly
 wind events causing ENSO diversity** in June 2022
 
@@ -89,6 +95,9 @@ wind events causing ENSO diversity** in June 2022
 [Link to Jakob's Bachelor's Thesis](/files/bachelors_thesis_unterholzner_jakob.pdf)
 
 ### Alexej Onken
+
+![PH-ProfilePic](/img/placeholder_profile_pic.png){: .center-block :}
+
 Alexej completed his Bachelor's thesis on the **Evolution of ENSO
 precipitation teleconnections** in March 2022.
 
@@ -113,7 +122,6 @@ discharge in South America** in October 2021.
 
 
 # Administrative Staff
-
 
 ![ES-ProfilePic](/img/es_profile_pic.png){: .center-block :}
 
