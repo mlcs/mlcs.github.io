@@ -88,7 +88,7 @@ scales.
 ### Pitfalls and possible improvements in climate networok construction
 #### [Moritz Haas](https://machineclimate.de/people/haas/)
 
-![Network-Measures](/img/mh_project_figure.jpg){: .center-block :}
+![Network-Measures](/img/mh_project_figure.png){: .center-block :}
 
 Empirical distributions of node-wise network characteristics using Pearson
 correlation (common for climate networks) for data generated from a Matern
@@ -117,7 +117,7 @@ precipitation data, we hope that tangles is a promising tool to quantify
 community structures and to reveal underlying geophysical processes leading to
 these structures.
 
-![Hard-Clustering](/img/mk_project_figure.jpg){: .center-block :}
+![Hard-Clustering](/img/mk_project_figure.png){: .center-block :}
 
 
 ### Parameter inference and uncertainty quantification for an intermediate complexity climate model
@@ -164,7 +164,7 @@ the influence of heatwave families and individual heatwaves on vegetation. We
 expect to see differences in the influence of extreme heat on vegetation at
 different locations in Europe.
 
-![Scandi-Heatwave](/img/jh_project_figure.jpg){: .center-block :}
+![Scandi-Heatwave](/img/jh_project_figure.png){: .center-block :}
 
 
 ### Spatiotemporal analysis of extreme rainfall clusters over North Indian Ocean
@@ -212,7 +212,7 @@ most important for either EP or CP events.  This study might help climate
 models in their prediction ability of ENSO diversity by including relevant
 wind information and thereby improve forecasting of ENSO and its implications.
 
-![EP-CP-WWD](/img/ju_project_figure.jpg){: .center-block :}
+![EP-CP-WWD](/img/ju_project_figure.png){: .center-block :}
 
 
 ### Machine Learning Methods to Model Monthly Precipitation over Southern Europe Using Climate Indices
