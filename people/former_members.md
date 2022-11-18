@@ -5,6 +5,20 @@ title: Former Members
 
 # Masters Students
 
+### Julia Hellmig
+
+Julia completed her Masters thesis on **Spatio-Temporal Patterns of
+European Heat Waves and Their Influence on Vegetation** in July 2022.
+
+#### Research Interests
+- Climate Data Analysis
+- Extreme Climate Events
+- Supervised and unsupervised learning
+- Clustering
+- Convolutional Neural Networks
+
+[Link to Julia's Masters Thesis](/files/masters_thesis_hellmig_julia.pdf)
+
 ### Lea Elsemüller
 
 Lea completed her Masters thesis on **Quantifying the Intertropical
@@ -76,3 +90,19 @@ discharge in South America** in October 2021.
 + Data reconstruction and prediction
 
 [Link to Markus's Bachelors Thesis](/files/bachelors_thesis_deppner_markus.pdf)
+
+
+# Administrative Staff
+
+
+![ES-ProfilePic](/img/es_profile_pic.png){: .center-block :}
+
+## CV
+
+I obtained both my BA in Literature and my MA in Media Studies at the
+University of Milan, Italy. After working for two Italian publishers, I
+moved to Germany, where I worked as a project manager for a translation
+company. In September 2020, I joined the Cluster of Excellence “Machine
+Learning.” In my free time I teach Italian (my native language), read
+and cook a lot and travel whenever I can.  Recently, I have started to
+take interest in sustainable fashion.
