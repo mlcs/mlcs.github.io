@@ -25,14 +25,11 @@ navbar-links:
       - Around Us: "/about/around-us"
   People:
       - Bedartha Goswami: "/people/goswami"
-      - Elena Sizana: "/people/sizana"
       - Felix Strnad: "/people/strnad"
       - Jakob Schlör: "/people/schloer"
       - Moritz Haas: "/people/haas"
       - Jannik Thümmel: "/people/thuemmel"
-      - Julia Hellmig: "/people/hellmig"
       - Ranganatha B R: "/people/ranganatha"
-      - Benedict Roeder: "/people/roeder"
       - Merle Kammer: "/people/kammer"
       - Former Members: "/people/former_members"
   Research:

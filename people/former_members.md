@@ -5,9 +5,29 @@ title: Former Members
 
 # Masters Students
 
+### Benedict Röder
+
+![BR-ProfilePic](/img/br_profile_pic.png){: .center-block :}
+
+Benedict completed his Master's thesis on **Parameter Inference and
+Uncertainty Quantification for an intermediate complexity climate
+model** in August 2022.
+
+#### Research Interests
+
+I'm a computer science student currently working on my master's thesis.
+- Hybrid Machine Learning / Physics-informed Machine Learning
+- Modelling and predicting the El Niño Southern Oscillation
+- Reinforcement Learning
+- Robotics
+
+[Link to Benedict's Masters
+Thesis](/files/masters_thesis_toeder_benedict.pdf)
+
+
 ### Julia Hellmig
 
-Julia completed her Masters thesis on **Spatio-Temporal Patterns of
+Julia completed her Master's thesis on **Spatio-Temporal Patterns of
 European Heat Waves and Their Influence on Vegetation** in July 2022.
 
 #### Research Interests
