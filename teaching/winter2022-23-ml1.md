@@ -76,6 +76,6 @@ Enrollment is via [ALMA](https://alma.uni-tuebingen.de/)
 ### Tentative lecture plan
 
 
-[![ML1-Lecture-Plan](/img/wise2021-22-ml1-timetable.png)](https://machineclimate.de/img/wise202223_ml1_lectureplan.png)
+[![ML1-Lecture-Plan](/img/wise2223_ml1_timetable.png)](https://machineclimate.de/img/wise2223_ml1_lectureplan.png)
 
 
