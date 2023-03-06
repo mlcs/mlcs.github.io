@@ -74,4 +74,3 @@ Enrollment is via [ALMA](https://alma.uni-tuebingen.de/)
 
 You can find the codes that are being discussed in the tutorial at the
 following Github repository:
-[https://github.com/mlcs/seminar_ws22](https://github.com/mlcs/seminar_ws22)
