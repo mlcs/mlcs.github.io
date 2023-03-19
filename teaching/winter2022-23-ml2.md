@@ -12,7 +12,7 @@ title: Winter 2022-23
 
 20 March 2023 -- 24 March 2023  
 Monday--Friday, 09:00 -- 16:00  
-11 lectures of 1.5 hours each, 9 tutorials of 1.5 hours each   
+10 lectures of 1.5 hours each, 10 tutorials of 1.5 hours each   
 
 ### Location
 
