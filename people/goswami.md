@@ -55,7 +55,7 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
   news sources such as
   [Firstpost](https://www.firstpost.com/tech/science/volcanic-eruptions-may-help-better-predict-indian-monsoons-claims-indo-german-research-team-9061621.html){:target="_blank"}
   in India, and
-  [Scienmag](https://www.eurekalert.org/pub_releases/2020-09/pifc-imc091620.php){:target="_blank"}
+  [Sciencemag](https://www.eurekalert.org/pub_releases/2020-09/pifc-imc091620.php){:target="_blank"}
   in the US.
 + [Our 2019
   paper](https://doi.org/10.1038/s41586-018-0872-x){:target="_blank"}
@@ -72,10 +72,29 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
   [EurekAlert!](https://www.eurekalert.org/pub_releases/2019-01/pifc-rea013119.php){:target="_blank"}.
 
 
+## Preprints
+
++	J. Thümmel, M. Karlbauer,  Sebastian Otte, Christiane Zarfl, Georg
+	Martius, Nicole Ludwig, Thomas Scholten, Ulrich Friedrich, Volker
+	Wulfmeyer,  **B. Goswami**, & Martin Butz,
+	Inductive biases in deep learning models for weather prediction
+	(in prep., journal undecided, likely submitted by May)  
+	[https://arxiv.org/abs/2304.04664](https://arxiv.org/abs/2304.04664)
+
++	F. Strnad, JU. Schlör, R. Geen, N. Boers, B.Goswami,
+    
+	Propagation pathways of South Asian rainfall extremes are modulated
+	by Pacific sea surface temperatures,
+	_Nat. Comms._
+	(under review)
+	[https://arxiv.org/abs/2302.00425](https://arxiv.org/abs/2302.00425)
+
+
+
 ## Publications
-[2022](#2022) [2021](#2021)  [2020](#2020) [2019](#2019) [2018](#2018)
-[2017](#2017) [2016](#2016) [2015](#2015) [2014](#2014) [2013](#2013)
-[2012](#2012)
+[2023](#2023) [2022](#2022) [2021](#2021)  [2020](#2020) [2019](#2019)
+[2018](#2018) [2017](#2017) [2016](#2016) [2015](#2015) [2014](#2014)
+[2013](#2013) [2012](#2012)
 
 
 ### 2023
