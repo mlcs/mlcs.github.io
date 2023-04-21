@@ -82,8 +82,7 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 	(in prep., journal undecided, likely submitted by May)  
 	[https://arxiv.org/abs/2304.04664](https://arxiv.org/abs/2304.04664)
 
-+	F. Strnad, JU. Schlör, R. Geen, N. Boers, B.Goswami,
-    
++	F. Strnad, JU. Schlör, R. Geen, N. Boers, & **B.Goswami**,
 	Propagation pathways of South Asian rainfall extremes are modulated
 	by Pacific sea surface temperatures,
 	_Nat. Comms._
