@@ -78,6 +78,25 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 [2012](#2012)
 
 
+### 2023
++	M. Haas, **B.Goswami**, & U. Luxburg,
+	Pitfalls of Climate Network Construction - A Statistical
+	Perspective,
+	_Journal of Climate_
+	**36**
+	3321–3342.  
+	[https://doi.org/10.1175/JCLI-D-22-0549.1](https://doi.org/10.1175/JCLI-D-22-0549.1)
+
++	A. Banerjee, M. Kemter, **B. Goswami**, B. Merz, J. Kurths, & N. Marwan,
+	Spatial coherence patterns of extreme winter precipitation in the
+	United States,
+	_Theoretical & Applied Climatology_
+	**152**
+	(2023)
+	385--395.  
+	[https://doi.org/10.1007/s00704-023-04393-5](https://doi.org/10.1007/s00704-023-04393-5)
+
+
 ### 2022
 
 +	F. M. Strnad, J. Schlör, C. Fröhlich, & **B. Goswami**,
@@ -86,7 +105,8 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 	_Geophysical Research Letters_
 	**49**
 	(2022)
-	e2022GL098571
+	e2022GL098571.  
+	[https://doi.org/10.1029/2022GL098571](https://doi.org/10.1029/2022GL098571)
 
 
 ### 2021
@@ -116,8 +136,9 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
     Holocene climate forcings and lacustrine regime shifts in the Indian
     Summer Monsoon realm,
     _Earth Surface Processes and Landforms_
+	**45**
     (2020)
-    (in press).  
+    3842--3853.  
     [doi.org/10.1002/esp.5004](https://doi.org/10.1002/esp.5004)
 
 ### 2019
