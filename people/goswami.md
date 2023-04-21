@@ -17,6 +17,7 @@ Maria-von-Linden-Str. 6
 [Twitter](https://twitter.com/bedartha){:target="_blank"}
 [Mastodon](https://masto.ai/@bedartha){:target="_blank"}
 [Orcid](http://orcid.org/0000-0002-2302-166X){:target="_blank"}
+[arXiv](https://arxiv.org/a/goswami_b_1.html){:target="_blank"}
 
 
 ## Research Interests
