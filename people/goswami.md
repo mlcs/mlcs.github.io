@@ -12,7 +12,7 @@ Maria-von-Linden-Str. 6
 [+49 7071 2970894](tel:+4970712970894)  
 [bedartha.goswami@uni-tuebingen.de](mailto:bedartha.goswami@uni-tuebingen.de)  
 [PGP Public Key](/files/goswami_pgp_publickey.asc){:target="_blank"}  
-[CV](/files/goswami_cv_jan2021.pdf){:target="_blank"}  
+[CV](/files/goswami_cv_apr2023.pdf){:target="_blank"}  
 [Github](https://github.com/bedartha){:target="_blank"}
 [Twitter](https://twitter.com/bedartha){:target="_blank"}
 [Mastodon](https://masto.ai/@bedartha){:target="_blank"}
@@ -73,12 +73,24 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 
 
 ## Publications
-[2021](#2021)  [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
-[2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012)
+[2022](#2022) [2021](#2021)  [2020](#2020) [2019](#2019) [2018](#2018)
+[2017](#2017) [2016](#2016) [2015](#2015) [2014](#2014) [2013](#2013)
+[2012](#2012)
+
+
+### 2022
+
++	F. M. Strnad, J. Schlör, C. Fröhlich, & **B. Goswami**,
+	Teleconnection patterns of different El Niño types revealed by
+	climate network curvature,
+	_Geophysical Research Letters_
+	**49**
+	(2022)
+	e2022GL098571
 
 
 ### 2021
-+ A. Banerjee, **B. Goswami**, Y. Hirata, D. Eroglu, B. Merz, J. Kurths, &
++	A. Banerjee, **B. Goswami**, Y. Hirata, D. Eroglu, B. Merz, J. Kurths, &
     N. Marwan,
     Recurrence analysis of extreme event like data,
     _Nonlinear Processes in Geophysics_
@@ -89,7 +101,7 @@ plots](https://doi.org/10.3390/vibration2040021){:target="_blank"} and
 
 
 ### 2020
-+ M. Singh, R. Krishnan, **B. Goswami**, A. D. Choudhury, P. Swapna, R.
++	M. Singh, R. Krishnan, **B. Goswami**, A. D. Choudhury, P. Swapna, R.
     Vellore, A. G. Prajeesh, N. Sandeep, C. Venkataraman, R. V. Donner,
     N. Marwan, J. Kurths,
     Fingerprint of volcanic forcing on the ENSO--Indian monsoon coupling,
