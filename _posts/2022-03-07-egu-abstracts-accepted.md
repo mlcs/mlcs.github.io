@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eight abstracts accepted to EGU21
+title: Eight abstracts accepted to EGU22
 subtitle:
 tags: [mlcs, conferences, egu]
 ---
