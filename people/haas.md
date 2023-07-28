@@ -20,19 +20,14 @@ In general, I am interested in finding guarantees for and limitations of
 machine learning algorithms, as well as suitable inductive biases in the
 climate science context.
 
-For my current project, I study pitfalls and possible improvements in climate
-network construction.
+In our recent [paper](https://journals.ametsoc.org/view/journals/clim/36/10/JCLI-D-22-0549.1.xml?tab_body=pdf), we explored empirical distortions in climate networks originating in limited amounts of noisy data. We also found that common resampling procedures to quantify significant behaviour in climate networks do not adequately capture intrinsic network variance. It remains a matter of ongoing work to find suitable statistical corrections as well as resampling procedures that adequately capture intrinsic network variance.
 
 ## Research Interests
 
 + High-dimensional Probability
-+ Ensemble Methods
-+ Calibrated Uncertainty Quantification
-+ Graph Neural Networks
-+ Representation Learning
-+ Bayesian Inference
-+ Distribution Shifts
 + Overparametrization
++ Calibrated Uncertainty Quantification
++ Representation Learning
 + Climate Data Analysis
 
 ***
