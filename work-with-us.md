@@ -6,27 +6,34 @@ use-site-title: false
 ---
 ![MLCS-Logo](/img/mlcs_logo_small.png){: .center-block :}
 
-MLCS welcomes highly motivated researchers at all stages of their
-careers to tackle challenging problems in climate science. A background
-in Computer Science, Physics, or Mathematics is ideal. Prior experience
-with machine learning methods such unsupervised learning, causality
-inference, maximum likelihood estimation, and deep neural networks is
-preferred.
+Right now we are not accepting any applications for doctoral or
+postdoctoral projects.
 
-## Doctoral and postdoctoral projects
+We are also not accepting any requests for Bachelor's and Master's
+thesis supervision for Winter Semester 2023/24 since our group is
+already operating at capacity.
 
-Please send a brief summary of your background and research interests
-(one page), a rough sketch of the research questions that you would like
-to work on (one page), and a brief CV (one page).  Also keep in mind
-that applications to third-party funding may be necessary.
+<!--MLCS welcomes highly motivated researchers at all stages of their                       -->
+<!--careers to tackle challenging problems in climate science. A background                 -->
+<!--in Computer Science, Physics, or Mathematics is ideal. Prior experience                 -->
+<!--with machine learning methods such unsupervised learning, causality                     -->
+<!--inference, maximum likelihood estimation, and deep neural networks is                   -->
+<!--preferred.                                                                              -->
 
-## Bachelors and Masters theses projects
+<!--## Doctoral and postdoctoral projects                                                   -->
 
-If you are interested in doing your Bachelors or Masters thesis project
-in our group then please fill out the following form.
+<!--Please send a brief summary of your background and research interests                   -->
+<!--(one page), a rough sketch of the research questions that you would like                -->
+<!--to work on (one page), and a brief CV (one page).  Also keep in mind                    -->
+<!--that applications to third-party funding may be necessary.                              -->
 
-[Form for potential Bachelor's and Master's theses](https://forms.gle/LBWUqMe8Gc7Dvyhw5)
+<!--## Bachelors and Masters theses projects                                                -->
 
-We will get back to you via email asking for your CV and transcripts.
-Note that if you are looking for a project to start more than 3 months
-in the future, then we would that you contact us at that point, not now.
+<!--If you are interested in doing your Bachelors or Masters thesis project                 -->
+<!--in our group then please fill out the following form.                                   -->
+
+<!--[Form for potential Bachelor's and Master's theses](https://forms.gle/LBWUqMe8Gc7Dvyhw5)-->
+
+<!--We will get back to you via email asking for your CV and transcripts.                   -->
+<!--Note that if you are looking for a project to start more than 3 months                  -->
+<!--in the future, then we would that you contact us at that point, not now.                -->
