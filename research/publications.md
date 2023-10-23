@@ -11,7 +11,7 @@ use-site-title: false
 [2020](#2020) [2019](#2019) [2018](#2018)
 
 ### 2023
-+	**F. Strnad**, **J. Schlör**, R. Geen, N. Boers, & **B.Goswami**,
++	**F. M. Strnad**, **J. Schlör**, R. Geen, N. Boers, & **B.Goswami**,
 	Propagation pathways of South Asian rainfall extremes are modulated
 	by Pacific sea surface temperatures,
 	_Nature Communications_
@@ -50,8 +50,7 @@ use-site-title: false
 	e2022GL098571.  
 	[doi.org/10.1029/2022GL098571](https://doi.org/10.1029/2022GL098571)
 
-+	Philipp Hess, Markus Drüke, Stefan Petri, **Felix M. Strnad**,
-	Niklas Boers,
++	P. Hess, M. Drüke, S. Petri, **F. M. Strnad**, N. Boers,
 	Physically Constrained Generative Adversarial Networks for 
 	Improving Precipitation Fields from Earth System Models,
 	_Nature	Machine Intelligence_
@@ -119,7 +118,7 @@ use-site-title: false
     2013–2033.  
     [doi.org/10.1029/2018JF004827](https://doi.org/10.1029/2018JF004827)
 
-+   **Felix M. Strnad**, Wolfram Barfuss, Jonathan F. Donges and Jobst Heitzig,
++   **F. M. Strnad**, W. Barfuss, J. F. Donges and J. Heitzig,
     Deep reinforcement learning in World-Earth system models to discover
 	sustainable management strategies,  
     _Chaos_
