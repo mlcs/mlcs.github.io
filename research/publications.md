@@ -17,7 +17,7 @@ use-site-title: false
 	_Nature Communications_
 	**14**
 	(2023)
-	5708.
+	5708.  
     [doi.org/10.1038/s41467-023-41400-9](https://doi.org/10.1038/s41467-023-41400-9)
 
 +	**M. Haas**, **B.Goswami**, & U. Luxburg,
@@ -56,7 +56,8 @@ use-site-title: false
 	Improving Precipitation Fields from Earth System Models,
 	_Nature	Machine Intelligence_
 	**4**
-	(2022),
+	(2022)
+	828--839.  
     [doi.org/10.1038/s42256-022-00540-1](https://doi.org/10.1038/s42256-022-00540-1)
 
 
@@ -95,8 +96,9 @@ use-site-title: false
     Holocene climate forcings and lacustrine regime shifts in the Indian
     Summer Monsoon realm,
     _Earth Surface Processes and Landforms_
+	**45**
     (2020)
-    (in press).  
+    3842--3853.  
     [doi.org/10.1002/esp.5004](https://doi.org/10.1002/esp.5004)
 
 
@@ -118,7 +120,8 @@ use-site-title: false
     [doi.org/10.1029/2018JF004827](https://doi.org/10.1029/2018JF004827)
 
 +   **Felix M. Strnad**, Wolfram Barfuss, Jonathan F. Donges and Jobst Heitzig,
-    Deep reinforcement learning in World-Earth system models to discover sustainable management strategies,  
+    Deep reinforcement learning in World-Earth system models to discover
+	sustainable management strategies,  
     _Chaos_
     **29**
     (2019)
@@ -139,6 +142,6 @@ use-site-title: false
     _Nature Communications_
     **9**
     (2018)
-    48.  
+	48.  
     [doi:10.1038/s41467-017-02456-6](http://doi.org/10.1038/s41467-017-02456-6)
 
