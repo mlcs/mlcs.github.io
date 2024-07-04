@@ -12,9 +12,13 @@ Maria-von-Linden-Str. 6
 72076 Tübingen  
 mo.haas(at)uni-tuebingen.de
 
+[Google Scholar](https://scholar.google.com/citations?user=O0PrX4sAAAAJ&hl=en&oi=ao)
+
 [Github](https://github.com/MoHawastaken)
 
 *** 
+
+For an up-to-date list of my publications see [Google Scholar](https://scholar.google.com/citations?user=O0PrX4sAAAAJ&hl=en&oi=ao).
 
 In general, I am interested in finding guarantees for and limitations of
 machine learning algorithms, as well as suitable inductive biases in the
