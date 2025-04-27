@@ -113,7 +113,7 @@ Convergence Zone using wind convergences** in November 2021.
 
 ### Davide Lussu
 
-![DL-ProfilePic](/img/dl_profile_pic.png){: .center-block :}
+![PH-ProfilePic](/img/placeholder_profile_pic.png){: .center-block :}
 
 Davide completed his Bachelor's thesis on **Machine Learning Methods to
 Model Monthly Precipitation over the Western Mediterranean Using Climate
